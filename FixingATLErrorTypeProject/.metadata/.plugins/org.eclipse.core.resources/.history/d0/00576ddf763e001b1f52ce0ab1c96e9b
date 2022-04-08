@@ -1,0 +1,23 @@
+package modification.type.operator.abstractclass;
+
+import org.eclipse.m2m.atl.core.emf.EMFModel;
+
+import witness.generator.MetaModel;
+import anatlyzer.atlext.OCL.VariableDeclaration;
+
+public class VariableModificationMutator extends AbstractTypeModificationMutator {
+	
+	@Override
+	public String generateMutants(EMFModel atlModel, MetaModel inputMM, MetaModel outputMM, String outputFolder) {
+		System.out.println("modify variable");
+		String comments;
+		 comments=
+		this.genericTypeModification(atlModel, outputFolder, VariableDeclaration.class, "type", new MetaModel[] {inputMM, outputMM}, true);
+	return comments;
+	}
+	
+	@Override
+	public String getDescription() {
+		return "Variable Type Modification";
+	}
+}

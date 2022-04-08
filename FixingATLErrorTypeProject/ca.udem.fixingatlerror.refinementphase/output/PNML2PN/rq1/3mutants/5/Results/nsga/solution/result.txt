@@ -1,0 +1,1613 @@
+first generation find solution
+36
+numberinitialerror
+3
+solutionsize
+100
+EstimatedTime
+109352348ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+1418
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+4915
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from indexOf to oclIsUndefined (line 69:16-69:32 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+19135
+FitnessFunction Is 
+3.0 0 61
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+46087
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 75:9-75:17 of original transformation)
+]
+index
+45285
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+49458
+FitnessFunction Is 
+4.0 2 56
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+27134
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+]
+index
+4541
+FitnessFunction Is 
+2.0 9 57
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from indexOf to oclIsUndefined (line 69:16-69:32 of original transformation)
+]
+index
+35910
+FitnessFunction Is 
+2.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from indexOf to oclIsUndefined (line 69:16-69:32 of original transformation)
+]
+index
+49426
+FitnessFunction Is 
+3.0 0 61
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+49268
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from indexOf to oclIsUndefined (line 69:16-69:32 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+47497
+FitnessFunction Is 
+4.0 0 58
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+46873
+FitnessFunction Is 
+4.0 2 56
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+26441
+FitnessFunction Is 
+2.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+12281
+FitnessFunction Is 
+2.0 9 57
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+]
+index
+36544
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+21697
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from indexOf to oclIsUndefined (line 69:16-69:32 of original transformation)
+]
+index
+9343
+FitnessFunction Is 
+2.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from indexOf to oclIsUndefined (line 69:16-69:32 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+23837
+FitnessFunction Is 
+4.0 0 58
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+35802
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 62:1-62:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+31285
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+30563
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+36711
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+39372
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+42037
+FitnessFunction Is 
+2.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+34653
+FitnessFunction Is 
+2.0 9 57
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+6573
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+26707
+FitnessFunction Is 
+2.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from indexOf to oclIsUndefined (line 69:16-69:32 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+39155
+FitnessFunction Is 
+4.0 0 58
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+44576
+FitnessFunction Is 
+4.0 2 56
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 76:7-76:15 of original transformation)
+]
+index
+7821
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+8328
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+38030
+FitnessFunction Is 
+2.0 9 57
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+49116
+FitnessFunction Is 
+3.0 1 58
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+48279
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+18641
+FitnessFunction Is 
+2.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 76:7-76:15 of original transformation)
+]
+index
+12147
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+46284
+FitnessFunction Is 
+4.0 2 56
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+39173
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+8431
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+44620
+FitnessFunction Is 
+2.0 9 57
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+49050
+FitnessFunction Is 
+3.0 2 57
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+32810
+FitnessFunction Is 
+2.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+44509
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+34408
+FitnessFunction Is 
+4.0 2 56
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+44513
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 62:1-62:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+44117
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+48714
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+46980
+FitnessFunction Is 
+2.0 9 57
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+]
+index
+8921
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+17599
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+]
+index
+48490
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+32868
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+21251
+FitnessFunction Is 
+2.0 9 57
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+48485
+FitnessFunction Is 
+3.0 2 57
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+38761
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+43607
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 76:7-76:15 of original transformation)
+]
+index
+19470
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+9336
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+48255
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+19811
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 76:7-76:15 of original transformation)
+]
+index
+43589
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+9570
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+47672
+FitnessFunction Is 
+3.0 2 57
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+46990
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+43522
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+43030
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+5761
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+22230
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+42769
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 75:9-75:17 of original transformation)
+]
+index
+47031
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+20416
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+43069
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+32750
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+42355
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+20700
+FitnessFunction Is 
+1.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+46915
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+46576
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+]
+index
+37806
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 75:9-75:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+]
+index
+25780
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+13351
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+22623
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+42115
+FitnessFunction Is 
+3.0 2 57
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+45637
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+28732
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 62:1-62:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+37519
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+30162
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+]
+index
+36829
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 75:9-75:17 of original transformation)
+]
+index
+24450
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+]
+index
+46149
+FitnessFunction Is 
+3.0 1 58
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+37289
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+37146
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+36985
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 62:1-62:13 of original transformation)
+]
+index
+31473
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+30571
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 75:9-75:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+]
+index
+40967
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+]
+index
+45783
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to first (line 37:1-37:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 96:7-96:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+40334
+FitnessFunction Is 
+4.0 1 57
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 67:1-77:2 of original transformation)
+]
+index
+40410
+FitnessFunction Is 
+4.0 9 55
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Place to n:NetContent (line 32:1-32:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:LocatedElement (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-97:2 of original transformation)
+]
+index
+11382
+FitnessFunction Is 
+3.0 9 56
+number-error
+9
+------------------------------------------------------------------------------
+

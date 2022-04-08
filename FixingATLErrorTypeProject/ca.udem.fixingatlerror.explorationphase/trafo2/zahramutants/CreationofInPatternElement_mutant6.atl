@@ -1,0 +1,16 @@
+-- @path MM=C:\Users\wael\OneDrive\atloperationsneon\mutants\anatlyzer.evaluation.mutants\trafo\a.ecore
+
+-- MUTATION "Creation of InPattern Element" dummyPackager5 in name (line 5:1-12:2 of original transformation)
+
+module a;
+create OUT : MM from IN : MM;
+
+rule name {
+ from
+  a : MM!A,
+  dummyPackager5 : MM!Packager
+ to
+  b : MM!A (
+   a <- a.a
+  )
+}

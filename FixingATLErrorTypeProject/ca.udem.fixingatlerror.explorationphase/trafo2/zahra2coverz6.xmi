@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="ASCII"?>
+<atl_ext_atl:Module xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atl_ext_atl="http://anatlyzer/atlext/ATL" xmlns:atl_ext_ocl="http://anatlyzer/atl/ext/OCL" location="7:1-142:2" fileLocation="new-model" name="Class2Relational">
+  <commentsBefore>-- @path Class=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\Class.ecore</commentsBefore>
+  <commentsBefore>-- @path Relational=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\Relational.ecore</commentsBefore>
+  <commentsBefore>-- MUTATION &quot;InPattern Element Modification&quot; from c:Class to c:Attribute (line 46:3-46:18 of original transformation)</commentsBefore>
+  <commentsBefore>-- MUTATION &quot;Binding-target Modification&quot; from type to type (line 64:4-64:59 of original transformation)</commentsBefore>
+  <inModels location="8:30-8:40" fileLocation="new-model" name="IN">
+    <metamodel href="trafo.ext#/1"/>
+  </inModels>
+  <outModels location="8:8-8:24" fileLocation="new-model" name="OUT">
+    <metamodel href="trafo.ext#/0"/>
+  </outModels>
+  <elements xsi:type="atl_ext_atl:ContextHelper" location="10:1-15:8" fileLocation="new-model">
+    <definition location="10:8-15:7" fileLocation="new-model">
+      <feature xsi:type="atl_ext_ocl:Attribute" location="10:36-15:7" fileLocation="new-model" name="name">
+        <initExpression xsi:type="atl_ext_ocl:IfExp" location="11:2-15:7" fileLocation="new-model">
+          <thenExpression xsi:type="atl_ext_ocl:StringExp" location="12:3-12:5" fileLocation="new-model" stringSymbol=""/>
+          <condition xsi:type="atl_ext_ocl:OperationCallExp" location="11:5-11:31" fileLocation="new-model" operationName="oclIsUndefined">
+            <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="11:5-11:14" fileLocation="new-model" name="name">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="11:5-11:9" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/3"/>
+              </source>
+            </source>
+          </condition>
+          <elseExpression xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="14:3-14:12" fileLocation="new-model" name="name">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="14:3-14:7" fileLocation="new-model">
+              <referredVariable href="trafo.ext#/4"/>
+            </source>
+          </elseExpression>
+        </initExpression>
+        <type xsi:type="atl_ext_ocl:StringType" location="10:43-10:49" fileLocation="new-model"/>
+      </feature>
+      <context_ location="10:8-10:30" fileLocation="new-model">
+        <context_ xsi:type="atl_ext_ocl:OclModelElement" location="10:16-10:30" fileLocation="new-model" name="NamedElt">
+          <model href="trafo.ext#/2"/>
+        </context_>
+      </context_>
+    </definition>
+  </elements>
+  <elements xsi:type="atl_ext_atl:ContextHelper" location="17:1-22:8" fileLocation="new-model">
+    <definition location="17:8-22:7" fileLocation="new-model">
+      <feature xsi:type="atl_ext_ocl:Attribute" location="17:37-22:7" fileLocation="new-model" name="multiValued">
+        <initExpression xsi:type="atl_ext_ocl:IfExp" location="18:2-22:7" fileLocation="new-model">
+          <thenExpression xsi:type="atl_ext_ocl:BooleanExp" location="19:3-19:8" fileLocation="new-model"/>
+          <condition xsi:type="atl_ext_ocl:OperationCallExp" location="18:5-18:38" fileLocation="new-model" operationName="oclIsUndefined">
+            <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="18:5-18:21" fileLocation="new-model" name="multiValued">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="18:5-18:9" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/6"/>
+              </source>
+            </source>
+          </condition>
+          <elseExpression xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="21:3-21:19" fileLocation="new-model" name="multiValued">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="21:3-21:7" fileLocation="new-model">
+              <referredVariable href="trafo.ext#/7"/>
+            </source>
+          </elseExpression>
+        </initExpression>
+        <type xsi:type="atl_ext_ocl:BooleanType" location="17:51-17:58" fileLocation="new-model"/>
+      </feature>
+      <context_ location="17:8-17:31" fileLocation="new-model">
+        <context_ xsi:type="atl_ext_ocl:OclModelElement" location="17:16-17:31" fileLocation="new-model" name="Attribute">
+          <model href="trafo.ext#/5"/>
+        </context_>
+      </context_>
+    </definition>
+  </elements>
+  <elements xsi:type="atl_ext_atl:StaticHelper" location="24:1-25:12" fileLocation="new-model">
+    <definition location="24:8-25:11" fileLocation="new-model">
+      <feature xsi:type="atl_ext_ocl:Attribute" location="24:13-25:11" fileLocation="new-model" name="defaultType">
+        <initExpression xsi:type="atl_ext_ocl:StringExp" location="25:2-25:11" fileLocation="new-model" stringSymbol="Integer"/>
+        <type xsi:type="atl_ext_ocl:StringType" location="24:27-24:33" fileLocation="new-model"/>
+      </feature>
+    </definition>
+  </elements>
+  <elements xsi:type="atl_ext_atl:StaticHelper" location="27:1-30:4" fileLocation="new-model">
+    <definition location="27:8-30:3" fileLocation="new-model">
+      <feature xsi:type="atl_ext_ocl:Operation" location="27:13-30:3" fileLocation="new-model" name="objectIdType">
+        <parameters location="27:26-27:41" fileLocation="new-model" varName="idType" variableExp="//@elements.3/@definition/@feature/@body/@body/@arguments.0">
+          <type xsi:type="atl_ext_ocl:StringType" location="27:35-27:41" fileLocation="new-model"/>
+        </parameters>
+        <returnType xsi:type="atl_ext_ocl:OclModelElement" location="27:45-27:59" fileLocation="new-model" name="DataType">
+          <model href="trafo.ext#/8"/>
+        </returnType>
+        <body xsi:type="atl_ext_ocl:IteratorExp" location="28:2-30:3" fileLocation="new-model" name="any">
+          <source xsi:type="atl_ext_ocl:OperationCallExp" location="28:2-28:31" fileLocation="new-model" operationName="allInstances">
+            <source xsi:type="atl_ext_ocl:OclModelElement" location="28:2-28:16" fileLocation="new-model" name="DataType">
+              <model href="trafo.ext#/9"/>
+            </source>
+          </source>
+          <body xsi:type="atl_ext_ocl:OperatorCallExp" location="29:3-29:18" fileLocation="new-model" operationName="=">
+            <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="29:3-29:9" fileLocation="new-model" name="name">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="29:3-29:4" fileLocation="new-model" referredVariable="//@elements.3/@definition/@feature/@body/@iterators.0"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:VariableExp" location="29:12-29:18" fileLocation="new-model" referredVariable="//@elements.3/@definition/@feature/@parameters.0"/>
+          </body>
+          <iterators location="28:37-28:38" fileLocation="new-model" varName="e" variableExp="//@elements.3/@definition/@feature/@body/@body/@source/@source"/>
+        </body>
+      </feature>
+    </definition>
+  </elements>
+  <elements xsi:type="atl_ext_atl:MatchedRule" location="32:1-46:2" fileLocation="new-model" name="Package2Schema">
+    <outPattern location="35:2-45:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="36:3-45:4" fileLocation="new-model" varName="s">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="36:7-36:24" fileLocation="new-model" name="Schema">
+          <model href="trafo.ext#/11"/>
+        </type>
+        <bindings location="37:4-41:5" fileLocation="new-model" propertyName="tables">
+          <value xsi:type="atl_ext_ocl:IteratorExp" location="37:14-41:5" fileLocation="new-model" name="reject">
+            <source xsi:type="atl_ext_ocl:IteratorExp" location="37:14-39:5" fileLocation="new-model" name="select">
+              <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="37:14-37:21" fileLocation="new-model" name="elems">
+                <source xsi:type="atl_ext_ocl:VariableExp" location="37:14-37:15" fileLocation="new-model" referredVariable="//@elements.4/@inPattern/@elements.0"/>
+              </source>
+              <body xsi:type="atl_ext_ocl:OperationCallExp" location="38:5-38:31" fileLocation="new-model" operationName="oclIsKindOf">
+                <source xsi:type="atl_ext_ocl:VariableExp" location="38:5-38:6" fileLocation="new-model" referredVariable="//@elements.4/@outPattern/@elements.0/@bindings.0/@value/@source/@iterators.0"/>
+                <arguments xsi:type="atl_ext_ocl:OclModelElement" location="38:19-38:30" fileLocation="new-model" name="Class">
+                  <model href="trafo.ext#/12"/>
+                </arguments>
+              </body>
+              <iterators location="37:30-37:31" fileLocation="new-model" varName="e" variableExp="//@elements.4/@outPattern/@elements.0/@bindings.0/@value/@source/@body/@source"/>
+            </source>
+            <body xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="40:5-40:17" fileLocation="new-model" name="isAbstract">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="40:5-40:6" fileLocation="new-model" referredVariable="//@elements.4/@outPattern/@elements.0/@bindings.0/@value/@iterators.0"/>
+            </body>
+            <iterators location="39:14-39:15" fileLocation="new-model" varName="e" variableExp="//@elements.4/@outPattern/@elements.0/@bindings.0/@value/@body/@source"/>
+          </value>
+        </bindings>
+        <bindings location="42:4-44:5" fileLocation="new-model" propertyName="types">
+          <value xsi:type="atl_ext_ocl:IteratorExp" location="42:13-44:5" fileLocation="new-model" name="select">
+            <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="42:13-42:20" fileLocation="new-model" name="elems">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="42:13-42:14" fileLocation="new-model" referredVariable="//@elements.4/@inPattern/@elements.0"/>
+            </source>
+            <body xsi:type="atl_ext_ocl:OperationCallExp" location="43:5-43:34" fileLocation="new-model" operationName="oclIsKindOf">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="43:5-43:6" fileLocation="new-model" referredVariable="//@elements.4/@outPattern/@elements.0/@bindings.1/@value/@iterators.0"/>
+              <arguments xsi:type="atl_ext_ocl:OclModelElement" location="43:19-43:33" fileLocation="new-model" name="DataType">
+                <model href="trafo.ext#/13"/>
+              </arguments>
+            </body>
+            <iterators location="42:29-42:30" fileLocation="new-model" varName="e" variableExp="//@elements.4/@outPattern/@elements.0/@bindings.1/@value/@body/@source"/>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="33:2-34:20" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="34:3-34:20" fileLocation="new-model" varName="p" variableExp="//@elements.4/@outPattern/@elements.0/@bindings.0/@value/@source/@source/@source //@elements.4/@outPattern/@elements.0/@bindings.1/@value/@source/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="34:7-34:20" fileLocation="new-model" name="Package">
+          <model href="trafo.ext#/10"/>
+        </type>
+      </elements>
+    </inPattern>
+  </elements>
+  <elements xsi:type="atl_ext_atl:MatchedRule" location="48:1-67:2" fileLocation="new-model" name="Class2Table">
+    <outPattern location="54:2-66:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="55:3-62:4" fileLocation="new-model" varName="out">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="55:9-55:25" fileLocation="new-model" name="Named">
+          <model href="trafo.ext#/15"/>
+        </type>
+        <bindings location="56:4-56:18" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="56:12-56:18" fileLocation="new-model" name="name">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="56:12-56:13" fileLocation="new-model" referredVariable="//@elements.5/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+        <bindings location="57:4-59:6" fileLocation="new-model" propertyName="col">
+          <value xsi:type="atl_ext_ocl:CollectionOperationCallExp" location="57:11-59:6" fileLocation="new-model" operationName="union">
+            <source xsi:type="atl_ext_ocl:SequenceExp" location="57:11-57:25" fileLocation="new-model">
+              <elements xsi:type="atl_ext_ocl:VariableExp" location="57:21-57:24" fileLocation="new-model" referredVariable="//@elements.5/@outPattern/@elements.1"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:IteratorExp" location="57:33-59:5" fileLocation="new-model" name="select">
+              <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="57:33-57:38" fileLocation="new-model" name="att">
+                <source xsi:type="atl_ext_ocl:VariableExp" location="57:33-57:34" fileLocation="new-model" referredVariable="//@elements.5/@inPattern/@elements.0"/>
+              </source>
+              <body xsi:type="atl_ext_ocl:OperatorCallExp" location="58:5-58:22" fileLocation="new-model" operationName="not">
+                <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="58:9-58:22" fileLocation="new-model" name="multiValued">
+                  <source xsi:type="atl_ext_ocl:VariableExp" location="58:9-58:10" fileLocation="new-model" referredVariable="//@elements.5/@outPattern/@elements.0/@bindings.1/@value/@arguments.0/@iterators.0"/>
+                </source>
+              </body>
+              <iterators location="57:47-57:48" fileLocation="new-model" varName="e" variableExp="//@elements.5/@outPattern/@elements.0/@bindings.1/@value/@arguments.0/@body/@source/@source"/>
+            </arguments>
+          </value>
+        </bindings>
+        <bindings location="60:4-60:18" fileLocation="new-model" propertyName="col">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="60:11-60:18" fileLocation="new-model" name="owner">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="60:11-60:12" fileLocation="new-model" referredVariable="//@elements.5/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+        <bindings location="61:4-61:23" fileLocation="new-model" propertyName="tables">
+          <value xsi:type="atl_ext_ocl:SetExp" location="61:14-61:23" fileLocation="new-model">
+            <elements xsi:type="atl_ext_ocl:VariableExp" location="61:19-61:22" fileLocation="new-model" referredVariable="//@elements.5/@outPattern/@elements.1"/>
+          </value>
+        </bindings>
+      </elements>
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="63:3-66:4" fileLocation="new-model" varName="key" variableExp="//@elements.5/@outPattern/@elements.0/@bindings.1/@value/@source/@elements.0 //@elements.5/@outPattern/@elements.0/@bindings.3/@value/@elements.0">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="63:9-63:26" fileLocation="new-model" name="Column">
+          <model href="trafo.ext#/16"/>
+        </type>
+        <bindings location="64:4-64:22" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:StringExp" location="64:12-64:22" fileLocation="new-model" stringSymbol="objectId"/>
+        </bindings>
+        <bindings location="65:4-65:59" fileLocation="new-model" propertyName="type">
+          <value xsi:type="atl_ext_ocl:OperationCallExp" location="65:12-65:59" fileLocation="new-model" operationName="objectIdType">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="65:12-65:22" fileLocation="new-model">
+              <referredVariable href="trafo.ext#/17"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="65:36-65:58" fileLocation="new-model" name="defaultType">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="65:36-65:46" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/18"/>
+              </source>
+            </arguments>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="49:2-53:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="50:3-50:22" fileLocation="new-model" varName="c" variableExp="//@elements.5/@outPattern/@elements.0/@bindings.0/@value/@source //@elements.5/@outPattern/@elements.0/@bindings.1/@value/@arguments.0/@source/@source //@elements.5/@outPattern/@elements.0/@bindings.2/@value/@source //@elements.5/@inPattern/@filter/@source/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="50:7-50:22" fileLocation="new-model" name="Attribute">
+          <model href="trafo.ext#/14"/>
+        </type>
+      </elements>
+      <filter xsi:type="atl_ext_ocl:OperatorCallExp" location="52:4-52:20" fileLocation="new-model" operationName="not">
+        <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="52:8-52:20" fileLocation="new-model" name="isAbstract">
+          <source xsi:type="atl_ext_ocl:VariableExp" location="52:8-52:9" fileLocation="new-model" referredVariable="//@elements.5/@inPattern/@elements.0"/>
+        </source>
+      </filter>
+    </inPattern>
+  </elements>
+  <elements xsi:type="atl_ext_atl:MatchedRule" location="69:1-76:2" fileLocation="new-model" name="DataType2Type">
+    <outPattern location="72:2-75:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="73:3-75:4" fileLocation="new-model" varName="out">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="73:9-73:26" fileLocation="new-model" name="Schema">
+          <model href="trafo.ext#/20"/>
+        </type>
+        <bindings location="74:4-74:19" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="74:12-74:19" fileLocation="new-model" name="name">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="74:12-74:14" fileLocation="new-model" referredVariable="//@elements.6/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="70:2-71:22" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="71:3-71:22" fileLocation="new-model" varName="dt" variableExp="//@elements.6/@outPattern/@elements.0/@bindings.0/@value/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="71:8-71:22" fileLocation="new-model" name="DataType">
+          <model href="trafo.ext#/19"/>
+        </type>
+      </elements>
+    </inPattern>
+  </elements>
+  <elements xsi:type="atl_ext_atl:MatchedRule" location="78:1-89:2" fileLocation="new-model" name="DataTypeAttribute2Column">
+    <outPattern location="84:2-88:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="85:3-88:4" fileLocation="new-model" varName="out">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="85:9-85:26" fileLocation="new-model" name="Column">
+          <model href="trafo.ext#/23"/>
+        </type>
+        <bindings location="86:4-86:18" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="86:12-86:18" fileLocation="new-model" name="name">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="86:12-86:13" fileLocation="new-model" referredVariable="//@elements.7/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+        <bindings location="87:4-87:18" fileLocation="new-model" propertyName="type">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="87:12-87:18" fileLocation="new-model" name="type">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="87:12-87:13" fileLocation="new-model" referredVariable="//@elements.7/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="79:2-83:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="80:3-80:21" fileLocation="new-model" varName="a" variableExp="//@elements.7/@outPattern/@elements.0/@bindings.0/@value/@source //@elements.7/@outPattern/@elements.0/@bindings.1/@value/@source //@elements.7/@inPattern/@filter/@source/@source/@source //@elements.7/@inPattern/@filter/@arguments.0/@source/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="80:7-80:21" fileLocation="new-model" name="DataType">
+          <model href="trafo.ext#/21"/>
+        </type>
+      </elements>
+      <filter xsi:type="atl_ext_ocl:OperatorCallExp" location="82:4-82:60" fileLocation="new-model" operationName="and">
+        <source xsi:type="atl_ext_ocl:OperationCallExp" location="82:4-82:38" fileLocation="new-model" operationName="oclIsKindOf">
+          <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="82:4-82:10" fileLocation="new-model" name="type">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="82:4-82:5" fileLocation="new-model" referredVariable="//@elements.7/@inPattern/@elements.0"/>
+          </source>
+          <arguments xsi:type="atl_ext_ocl:OclModelElement" location="82:23-82:37" fileLocation="new-model" name="DataType">
+            <model href="trafo.ext#/22"/>
+          </arguments>
+        </source>
+        <arguments xsi:type="atl_ext_ocl:OperatorCallExp" location="82:43-82:60" fileLocation="new-model" operationName="not">
+          <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="82:47-82:60" fileLocation="new-model" name="multiValued">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="82:47-82:48" fileLocation="new-model" referredVariable="//@elements.7/@inPattern/@elements.0"/>
+          </source>
+        </arguments>
+      </filter>
+    </inPattern>
+  </elements>
+  <elements xsi:type="atl_ext_atl:MatchedRule" location="91:1-106:2" fileLocation="new-model" name="MultiValuedDataTypeAttribute2Column">
+    <outPattern location="97:2-105:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="98:3-101:4" fileLocation="new-model" varName="out">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="98:9-98:25" fileLocation="new-model" name="Table">
+          <model href="trafo.ext#/26"/>
+        </type>
+        <bindings location="99:4-99:39" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:OperatorCallExp" location="99:12-99:39" fileLocation="new-model" operationName="+">
+            <source xsi:type="atl_ext_ocl:OperatorCallExp" location="99:12-99:30" fileLocation="new-model" operationName="+">
+              <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="99:12-99:24" fileLocation="new-model" name="name">
+                <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="99:12-99:19" fileLocation="new-model" name="owner">
+                  <source xsi:type="atl_ext_ocl:VariableExp" location="99:12-99:13" fileLocation="new-model" referredVariable="//@elements.8/@inPattern/@elements.0"/>
+                </source>
+              </source>
+              <arguments xsi:type="atl_ext_ocl:StringExp" location="99:27-99:30" fileLocation="new-model" stringSymbol="_"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="99:33-99:39" fileLocation="new-model" name="name">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="99:33-99:34" fileLocation="new-model" referredVariable="//@elements.8/@inPattern/@elements.0"/>
+            </arguments>
+          </value>
+        </bindings>
+        <bindings location="100:4-100:63" fileLocation="new-model" propertyName="col">
+          <value xsi:type="atl_ext_ocl:SequenceExp" location="100:11-100:63" fileLocation="new-model">
+            <elements xsi:type="atl_ext_ocl:OperationCallExp" location="100:21-100:55" fileLocation="new-model" operationName="createIdColumn">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="100:21-100:31" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/27"/>
+              </source>
+              <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="100:47-100:54" fileLocation="new-model" name="owner">
+                <source xsi:type="atl_ext_ocl:VariableExp" location="100:47-100:48" fileLocation="new-model" referredVariable="//@elements.8/@inPattern/@elements.0"/>
+              </arguments>
+            </elements>
+            <elements xsi:type="atl_ext_ocl:VariableExp" location="100:57-100:62" fileLocation="new-model" referredVariable="//@elements.8/@outPattern/@elements.1"/>
+          </value>
+        </bindings>
+      </elements>
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="102:3-105:4" fileLocation="new-model" varName="value" variableExp="//@elements.8/@outPattern/@elements.0/@bindings.1/@value/@elements.1">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="102:11-102:28" fileLocation="new-model" name="Column">
+          <model href="trafo.ext#/28"/>
+        </type>
+        <bindings location="103:4-103:18" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="103:12-103:18" fileLocation="new-model" name="name">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="103:12-103:13" fileLocation="new-model" referredVariable="//@elements.8/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+        <bindings location="104:4-104:18" fileLocation="new-model" propertyName="type">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="104:12-104:18" fileLocation="new-model" name="type">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="104:12-104:13" fileLocation="new-model" referredVariable="//@elements.8/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="92:2-96:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="93:3-93:22" fileLocation="new-model" varName="a" variableExp="//@elements.8/@outPattern/@elements.0/@bindings.0/@value/@source/@source/@source/@source //@elements.8/@outPattern/@elements.0/@bindings.0/@value/@arguments.0/@source //@elements.8/@outPattern/@elements.0/@bindings.1/@value/@elements.0/@arguments.0/@source //@elements.8/@outPattern/@elements.1/@bindings.0/@value/@source //@elements.8/@outPattern/@elements.1/@bindings.1/@value/@source //@elements.8/@inPattern/@filter/@source/@source/@source //@elements.8/@inPattern/@filter/@arguments.0/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="93:7-93:22" fileLocation="new-model" name="Attribute">
+          <model href="trafo.ext#/24"/>
+        </type>
+      </elements>
+      <filter xsi:type="atl_ext_ocl:OperatorCallExp" location="95:4-95:56" fileLocation="new-model" operationName="and">
+        <source xsi:type="atl_ext_ocl:OperationCallExp" location="95:4-95:38" fileLocation="new-model" operationName="oclIsKindOf">
+          <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="95:4-95:10" fileLocation="new-model" name="type">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="95:4-95:5" fileLocation="new-model" referredVariable="//@elements.8/@inPattern/@elements.0"/>
+          </source>
+          <arguments xsi:type="atl_ext_ocl:OclModelElement" location="95:23-95:37" fileLocation="new-model" name="DataType">
+            <model href="trafo.ext#/25"/>
+          </arguments>
+        </source>
+        <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="95:43-95:56" fileLocation="new-model" name="multiValued">
+          <source xsi:type="atl_ext_ocl:VariableExp" location="95:43-95:44" fileLocation="new-model" referredVariable="//@elements.8/@inPattern/@elements.0"/>
+        </arguments>
+      </filter>
+    </inPattern>
+  </elements>
+  <elements xsi:type="atl_ext_atl:MatchedRule" location="108:1-119:2" fileLocation="new-model" name="ClassAttribute2Column">
+    <outPattern location="114:2-118:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="115:3-118:4" fileLocation="new-model" varName="foreignKey">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="115:16-115:33" fileLocation="new-model" name="Column">
+          <model href="trafo.ext#/31"/>
+        </type>
+        <bindings location="116:4-116:25" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:OperatorCallExp" location="116:12-116:25" fileLocation="new-model" operationName="+">
+            <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="116:12-116:18" fileLocation="new-model" name="name">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="116:12-116:13" fileLocation="new-model" referredVariable="//@elements.9/@inPattern/@elements.0"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:StringExp" location="116:21-116:25" fileLocation="new-model" stringSymbol="Id"/>
+          </value>
+        </bindings>
+        <bindings location="117:4-117:59" fileLocation="new-model" propertyName="type">
+          <value xsi:type="atl_ext_ocl:OperationCallExp" location="117:12-117:59" fileLocation="new-model" operationName="objectIdType">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="117:12-117:22" fileLocation="new-model">
+              <referredVariable href="trafo.ext#/32"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="117:36-117:58" fileLocation="new-model" name="defaultType">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="117:36-117:46" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/33"/>
+              </source>
+            </arguments>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="109:2-113:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="110:3-110:22" fileLocation="new-model" varName="a" variableExp="//@elements.9/@outPattern/@elements.0/@bindings.0/@value/@source/@source //@elements.9/@inPattern/@filter/@source/@source/@source //@elements.9/@inPattern/@filter/@arguments.0/@source/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="110:7-110:22" fileLocation="new-model" name="Attribute">
+          <model href="trafo.ext#/29"/>
+        </type>
+      </elements>
+      <filter xsi:type="atl_ext_ocl:OperatorCallExp" location="112:4-112:57" fileLocation="new-model" operationName="and">
+        <source xsi:type="atl_ext_ocl:OperationCallExp" location="112:4-112:35" fileLocation="new-model" operationName="oclIsKindOf">
+          <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="112:4-112:10" fileLocation="new-model" name="type">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="112:4-112:5" fileLocation="new-model" referredVariable="//@elements.9/@inPattern/@elements.0"/>
+          </source>
+          <arguments xsi:type="atl_ext_ocl:OclModelElement" location="112:23-112:34" fileLocation="new-model" name="Class">
+            <model href="trafo.ext#/30"/>
+          </arguments>
+        </source>
+        <arguments xsi:type="atl_ext_ocl:OperatorCallExp" location="112:40-112:57" fileLocation="new-model" operationName="not">
+          <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="112:44-112:57" fileLocation="new-model" name="multiValued">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="112:44-112:45" fileLocation="new-model" referredVariable="//@elements.9/@inPattern/@elements.0"/>
+          </source>
+        </arguments>
+      </filter>
+    </inPattern>
+  </elements>
+  <elements xsi:type="atl_ext_atl:MatchedRule" location="121:1-132:2" fileLocation="new-model" name="MultiValuedClassAttribute2Column">
+    <outPattern location="127:2-131:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="128:3-131:4" fileLocation="new-model" varName="t">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="128:7-128:23" fileLocation="new-model" name="Table">
+          <model href="trafo.ext#/36"/>
+        </type>
+        <bindings location="129:4-129:39" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:OperatorCallExp" location="129:12-129:39" fileLocation="new-model" operationName="+">
+            <source xsi:type="atl_ext_ocl:OperatorCallExp" location="129:12-129:30" fileLocation="new-model" operationName="+">
+              <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="129:12-129:24" fileLocation="new-model" name="name">
+                <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="129:12-129:19" fileLocation="new-model" name="owner">
+                  <source xsi:type="atl_ext_ocl:VariableExp" location="129:12-129:13" fileLocation="new-model" referredVariable="//@elements.10/@inPattern/@elements.0"/>
+                </source>
+              </source>
+              <arguments xsi:type="atl_ext_ocl:StringExp" location="129:27-129:30" fileLocation="new-model" stringSymbol="_"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="129:33-129:39" fileLocation="new-model" name="name">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="129:33-129:34" fileLocation="new-model" referredVariable="//@elements.10/@inPattern/@elements.0"/>
+            </arguments>
+          </value>
+        </bindings>
+        <bindings location="130:4-130:86" fileLocation="new-model" propertyName="col">
+          <value xsi:type="atl_ext_ocl:SequenceExp" location="130:11-130:86" fileLocation="new-model">
+            <elements xsi:type="atl_ext_ocl:OperationCallExp" location="130:21-130:55" fileLocation="new-model" operationName="createIdColumn">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="130:21-130:31" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/37"/>
+              </source>
+              <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="130:47-130:54" fileLocation="new-model" name="owner">
+                <source xsi:type="atl_ext_ocl:VariableExp" location="130:47-130:48" fileLocation="new-model" referredVariable="//@elements.10/@inPattern/@elements.0"/>
+              </arguments>
+            </elements>
+            <elements xsi:type="atl_ext_ocl:OperationCallExp" location="130:57-130:85" fileLocation="new-model" operationName="createIdColumn">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="130:57-130:67" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/38"/>
+              </source>
+              <arguments xsi:type="atl_ext_ocl:VariableExp" location="130:83-130:84" fileLocation="new-model" referredVariable="//@elements.10/@inPattern/@elements.0"/>
+            </elements>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="122:2-126:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="123:3-123:22" fileLocation="new-model" varName="a" variableExp="//@elements.10/@outPattern/@elements.0/@bindings.0/@value/@source/@source/@source/@source //@elements.10/@outPattern/@elements.0/@bindings.0/@value/@arguments.0/@source //@elements.10/@outPattern/@elements.0/@bindings.1/@value/@elements.0/@arguments.0/@source //@elements.10/@outPattern/@elements.0/@bindings.1/@value/@elements.1/@arguments.0 //@elements.10/@inPattern/@filter/@source/@source/@source //@elements.10/@inPattern/@filter/@arguments.0/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="123:7-123:22" fileLocation="new-model" name="Attribute">
+          <model href="trafo.ext#/34"/>
+        </type>
+      </elements>
+      <filter xsi:type="atl_ext_ocl:OperatorCallExp" location="125:4-125:53" fileLocation="new-model" operationName="and">
+        <source xsi:type="atl_ext_ocl:OperationCallExp" location="125:4-125:35" fileLocation="new-model" operationName="oclIsKindOf">
+          <source xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="125:4-125:10" fileLocation="new-model" name="type">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="125:4-125:5" fileLocation="new-model" referredVariable="//@elements.10/@inPattern/@elements.0"/>
+          </source>
+          <arguments xsi:type="atl_ext_ocl:OclModelElement" location="125:23-125:34" fileLocation="new-model" name="Class">
+            <model href="trafo.ext#/35"/>
+          </arguments>
+        </source>
+        <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="125:40-125:53" fileLocation="new-model" name="multiValued">
+          <source xsi:type="atl_ext_ocl:VariableExp" location="125:40-125:41" fileLocation="new-model" referredVariable="//@elements.10/@inPattern/@elements.0"/>
+        </arguments>
+      </filter>
+    </inPattern>
+  </elements>
+  <elements xsi:type="atl_ext_atl:LazyRule" location="134:1-142:2" fileLocation="new-model" name="createIdColumn">
+    <outPattern location="137:2-141:4" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleOutPatternElement" location="138:3-141:4" fileLocation="new-model" varName="key">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="138:9-138:26" fileLocation="new-model" name="Column">
+          <model href="trafo.ext#/40"/>
+        </type>
+        <bindings location="139:4-139:19" fileLocation="new-model" propertyName="name">
+          <value xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="139:12-139:19" fileLocation="new-model" name="name">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="139:12-139:14" fileLocation="new-model" referredVariable="//@elements.11/@inPattern/@elements.0"/>
+          </value>
+        </bindings>
+        <bindings location="140:4-140:59" fileLocation="new-model" propertyName="type">
+          <value xsi:type="atl_ext_ocl:OperationCallExp" location="140:12-140:59" fileLocation="new-model" operationName="objectIdType">
+            <source xsi:type="atl_ext_ocl:VariableExp" location="140:12-140:22" fileLocation="new-model">
+              <referredVariable href="trafo.ext#/41"/>
+            </source>
+            <arguments xsi:type="atl_ext_ocl:NavigationOrAttributeCallExp" location="140:36-140:58" fileLocation="new-model" name="defaultType">
+              <source xsi:type="atl_ext_ocl:VariableExp" location="140:36-140:46" fileLocation="new-model">
+                <referredVariable href="trafo.ext#/42"/>
+              </source>
+            </arguments>
+          </value>
+        </bindings>
+      </elements>
+    </outPattern>
+    <inPattern location="135:2-136:22" fileLocation="new-model">
+      <elements xsi:type="atl_ext_atl:SimpleInPatternElement" location="136:3-136:22" fileLocation="new-model" varName="ne" variableExp="//@elements.11/@outPattern/@elements.0/@bindings.0/@value/@source">
+        <type xsi:type="atl_ext_ocl:OclModelElement" location="136:8-136:22" fileLocation="new-model" name="NamedElt">
+          <model href="trafo.ext#/39"/>
+        </type>
+      </elements>
+    </inPattern>
+  </elements>
+</atl_ext_atl:Module>

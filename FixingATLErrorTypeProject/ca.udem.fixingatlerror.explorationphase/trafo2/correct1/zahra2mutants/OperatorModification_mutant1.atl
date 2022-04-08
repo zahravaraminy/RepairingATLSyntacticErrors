@@ -1,0 +1,89 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+
+-- MUTATION "Deletion of Rule" TransitionToPlace in PNML2PetriNet (line 66:1-82:2 of original transformation)
+
+
+-- MUTATION "Collection Type Modification" from SequenceType:Label to SequenceType:NetElement (line 21:31-21:51 of original transformation)
+
+
+-- MUTATION "Parameter Type Modification" from labels:SequenceType to labels:BagType (line 21:24-21:51 of original transformation)
+
+
+-- MUTATION "Binding-target Modification" from start to end (line 61:4-61:21 of original transformation)
+
+
+-- MUTATION "Collection Operation Call Modification" from isEmpty to union (line 22:5-22:22 of original transformation)
+
+
+-- MUTATION "Operator Modification" from and to or (line 54:4-54:78 of original transformation)
+
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+rule PetriNet {
+ from
+  n : PNML!NetElement
+ using
+ {
+  arcsSet : Set(PNML!NetContentElement) = n.contents->select(e |
+   e.oclIsKindOf(PNML!Arc)
+  );
+ }
+ to
+  p : PetriNet!PetriNet (
+   elements <- n.contents,
+   arcs <- arcsSet
+  )
+}
+
+helper def: selectLabel(labels : Bag(PNML!NetElement)) : String =
+ if labels->union() then
+  'no-name'
+ else
+  labels->first().text
+ endif;
+
+rule Place {
+ from
+  n : PNML!Place
+ to
+  p : PetriNet!Place (
+   name <- if not n.name.oclIsUndefined() then
+    thisModule.selectLabel(n.name.labels)
+   else
+    ''
+   endif
+  )
+}
+
+rule Transition {
+ from
+  n : PNML!Transition
+ to
+  p : PetriNet!Transition (
+   name <- if not n.name.oclIsUndefined() then
+    thisModule.selectLabel(n.name.labels)
+   else
+    ''
+   endif
+  )
+}
+
+rule PlaceToTransition {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Place) or n.target.oclIsKindOf(PNML!Transition)
+  )
+ to
+  p : PetriNet!PlaceToTransition (
+   name <- if not n.name.oclIsUndefined() then
+    thisModule.selectLabel(n.name.labels)
+   else
+    ''
+   endif,
+   end <- n.source,
+   end <- n.target
+  )
+}

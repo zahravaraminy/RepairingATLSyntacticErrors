@@ -1,0 +1,2091 @@
+first generation find solution
+-1
+numberinitialerror
+9
+solutionsize
+100
+EstimatedTime
+193853363ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+]
+index
+94
+FitnessFunction Is 
+1.0 8 63
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+56157
+FitnessFunction Is 
+9.0 7 53
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+92685
+FitnessFunction Is 
+7.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+]
+index
+23156
+FitnessFunction Is 
+1.0 8 63
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+90866
+FitnessFunction Is 
+4.0 9 58
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+73917
+FitnessFunction Is 
+9.0 5 54
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+19106
+FitnessFunction Is 
+3.0 5 62
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+35443
+FitnessFunction Is 
+5.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+95044
+FitnessFunction Is 
+8.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+]
+index
+62015
+FitnessFunction Is 
+7.0 6 55
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+91721
+FitnessFunction Is 
+5.0 8 57
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+58135
+FitnessFunction Is 
+4.0 9 58
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+61293
+FitnessFunction Is 
+6.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+]
+index
+1110
+FitnessFunction Is 
+2.0 7 62
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+]
+index
+23971
+FitnessFunction Is 
+2.0 6 63
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+95228
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+77042
+FitnessFunction Is 
+9.0 7 53
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+61747
+FitnessFunction Is 
+4.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+68053
+FitnessFunction Is 
+6.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+]
+index
+93258
+FitnessFunction Is 
+2.0 7 62
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+]
+index
+10701
+FitnessFunction Is 
+4.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 89:9-89:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+98601
+FitnessFunction Is 
+9.0 4 55
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+83085
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+99952
+FitnessFunction Is 
+8.0 5 55
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+]
+index
+99963
+FitnessFunction Is 
+3.0 6 61
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+76810
+FitnessFunction Is 
+9.0 5 54
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+81135
+FitnessFunction Is 
+9.0 4 55
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 89:9-89:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+78742
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+99571
+FitnessFunction Is 
+8.0 4 56
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+39802
+FitnessFunction Is 
+2.0 8 61
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+67043
+FitnessFunction Is 
+8.0 7 54
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+]
+index
+76410
+FitnessFunction Is 
+3.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+]
+index
+58993
+FitnessFunction Is 
+1.0 8 63
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+90314
+FitnessFunction Is 
+5.0 8 57
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+95046
+FitnessFunction Is 
+4.0 9 58
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+73328
+FitnessFunction Is 
+9.0 7 53
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+93793
+FitnessFunction Is 
+6.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+48287
+FitnessFunction Is 
+7.0 6 55
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+]
+index
+77734
+FitnessFunction Is 
+2.0 7 62
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+98711
+FitnessFunction Is 
+8.0 5 55
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+78282
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+63160
+FitnessFunction Is 
+4.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+99866
+FitnessFunction Is 
+3.0 5 62
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+49923
+FitnessFunction Is 
+9.0 5 54
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+84768
+FitnessFunction Is 
+2.0 8 61
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+82686
+FitnessFunction Is 
+8.0 7 54
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+43158
+FitnessFunction Is 
+3.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+]
+index
+74695
+FitnessFunction Is 
+4.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+]
+index
+81748
+FitnessFunction Is 
+5.0 8 57
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+73778
+FitnessFunction Is 
+7.0 6 55
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+]
+index
+68160
+FitnessFunction Is 
+2.0 7 62
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+83376
+FitnessFunction Is 
+4.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+94402
+FitnessFunction Is 
+6.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+98421
+FitnessFunction Is 
+3.0 6 61
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+71537
+FitnessFunction Is 
+9.0 5 54
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+98041
+FitnessFunction Is 
+8.0 4 56
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+78636
+FitnessFunction Is 
+8.0 7 54
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+]
+index
+83822
+FitnessFunction Is 
+3.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+69842
+FitnessFunction Is 
+6.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+70410
+FitnessFunction Is 
+4.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+57718
+FitnessFunction Is 
+5.0 8 57
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+63330
+FitnessFunction Is 
+7.0 6 55
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+95476
+FitnessFunction Is 
+2.0 7 62
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+87415
+FitnessFunction Is 
+8.0 5 55
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.nets to n.xmlns (line 20:1-20:7 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+89590
+FitnessFunction Is 
+4.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+94165
+FitnessFunction Is 
+6.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+]
+index
+98393
+FitnessFunction Is 
+3.0 5 62
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+99398
+FitnessFunction Is 
+7.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+92766
+FitnessFunction Is 
+9.0 5 54
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+88773
+FitnessFunction Is 
+8.0 7 54
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+93225
+FitnessFunction Is 
+3.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+46351
+FitnessFunction Is 
+4.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+29436
+FitnessFunction Is 
+6.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+44428
+FitnessFunction Is 
+7.0 6 55
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+15467
+FitnessFunction Is 
+5.0 8 57
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 11:15-11:33 of original transformation)
+]
+index
+95840
+FitnessFunction Is 
+2.0 7 62
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+]
+index
+89264
+FitnessFunction Is 
+4.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+]
+index
+92541
+FitnessFunction Is 
+3.0 5 62
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+96134
+FitnessFunction Is 
+5.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+]
+index
+96255
+FitnessFunction Is 
+6.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+99116
+FitnessFunction Is 
+8.0 5 55
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+99055
+FitnessFunction Is 
+9.0 5 54
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.nets to n.xmlns (line 20:1-20:7 of original transformation)
+]
+index
+49520
+FitnessFunction Is 
+3.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+35973
+FitnessFunction Is 
+4.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+22925
+FitnessFunction Is 
+6.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+59917
+FitnessFunction Is 
+5.0 8 57
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 11:15-11:33 of original transformation)
+]
+index
+96163
+FitnessFunction Is 
+2.0 7 62
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+96545
+FitnessFunction Is 
+7.0 6 55
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+70077
+FitnessFunction Is 
+4.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+]
+index
+96963
+FitnessFunction Is 
+5.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+97084
+FitnessFunction Is 
+3.0 6 61
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+97214
+FitnessFunction Is 
+7.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+97893
+FitnessFunction Is 
+6.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+98925
+FitnessFunction Is 
+9.0 5 54
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from asBag to first (line 20:1-20:16 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:NetContentElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+98984
+FitnessFunction Is 
+8.0 4 56
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+91313
+FitnessFunction Is 
+6.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+]
+index
+27502
+FitnessFunction Is 
+3.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+22757
+FitnessFunction Is 
+4.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+]
+index
+91432
+FitnessFunction Is 
+7.0 6 55
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+]
+index
+77881
+FitnessFunction Is 
+5.0 8 57
+number-error
+8
+------------------------------------------------------------------------------
+

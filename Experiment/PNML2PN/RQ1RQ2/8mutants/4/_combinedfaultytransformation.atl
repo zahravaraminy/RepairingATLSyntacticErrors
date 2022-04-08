@@ -1,0 +1,106 @@
+-- @path PNML=/anatlyzer.evaluation.quickfixes.sosym2015/metamodels/PNML_simplified.ecore
+-- @path PetriNet=/anatlyzer.evaluation.quickfixes.sosym2015/metamodels/PetriNet.ecore
+
+
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Transition to oclIsKindOf:PetriNet (line 17:43-17:80 of original transformation)
+-- MUTATION "Binding-target Modification" from location to elements (line 24:4-24:26 of original transformation)
+-- MUTATION "Navigation Modification" from n.source to n.name (line 70:4-70:12 of original transformation)
+-- MUTATION "OutPattern Element Modification" from p:TransitionToPlace to p:PetriNet (line 93:3-100:4 of original transformation)
+-- MUTATION "Iterator Modification" from select to forAll (line 16:35-18:82 of original transformation)
+-- MUTATION "Operation Call Modification" from oclIsUndefined to indexOf (line 76:19-76:42 of original transformation)
+-- MUTATION "Deletion of Binding" name in p (line 44:4-44:96 of original transformation)
+-- MUTATION "InPattern Element Modification" from n:Place to n:Arc (line 39:3-39:17 of original transformation)
+
+
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+
+rule PetriNet {
+from
+n : PNML!PNMLDocument
+using
+{
+elementsSet : Sequence(PNML!NetContentElement) = PNML!NetContentElement.allInstances();
+arcsSet : Sequence(PNML!Arc) = PNML!Arc.allInstances()->forAll(a |
+a.source.oclIsKindOf(PNML!Place) and a.target.oclIsKindOf(PNML!PetriNet) or a.source.oclIsKindOf(PNML!Transition) and a.target.oclIsKindOf(PNML!Place)
+); -- This encodes a pre-condition
+
+}
+to
+p : PetriNet!PetriNet (
+elements <- n.location,
+name <- if not n.nets->first().name.oclIsUndefined() then
+n.nets->first().name.labels->first().text
+else
+'aPetriNet'
+endif,
+elements <- elementsSet,
+arcs <- arcsSet
+)
+} 
+
+rule Place {
+from
+n : PNML!Arc
+to
+p : PetriNet!Place (
+location <- n.location,
+net <- n.net.document
+)
+} 
+
+rule Transition {
+from
+n : PNML!Transition
+to
+p : PetriNet!Transition (
+location <- n.location,
+name <- if not n.name.oclIsUndefined() then
+n.name.labels->first().text
+else
+'default'
+endif,
+net <- n.net.document
+)
+} 
+
+rule PlaceToTransition {
+from
+n : PNML!Arc
+(
+n.source.oclIsKindOf(PNML!Place) and n.target.oclIsKindOf(PNML!Transition)
+)
+to
+p : PetriNet!PlaceToTransition (
+location <- n.location,
+name <- if not n.name.indexOf() then
+n.name.labels->first().text
+else
+'default'
+endif,
+net <- n.name.document,
+from <- n.source,
+to <- n.target
+)
+} 
+
+rule TransitionToPlace {
+from
+n : PNML!Arc
+(
+n.source.oclIsKindOf(PNML!Transition) and n.target.oclIsKindOf(PNML!Place)
+)
+to
+p : PetriNet!PetriNet (
+location <- n.location,
+name <- if not n.name.oclIsUndefined() then
+n.name.labels->first().text
+else
+'default'
+endif,
+net <- n.net.document,
+from <- n.source,
+to <- n.target
+)
+}

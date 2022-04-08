@@ -1,0 +1,81 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+
+rule PetriNet{
+	from
+		i : PNML!NetElement		
+	using{ arcsSet : Set(PNML!NetContentElement) =
+				n.contents->select(e|e.oclIsKindOf(PNML!Arc)) }
+	to 
+		o : PetriNet!PetriNet (
+			elements <- n.contents,
+			arcs <- arcsSet
+			
+		)
+}
+
+rule Place {
+	from
+		i : PNML!Place
+	to 
+		o : PetriNet!Place (
+			name <- if not n.name.oclIsUndefined() then thisModule.selectLabel(n.name.labels)
+			else '' endif
+		)
+}
+
+rule Transition {
+	from
+		i : PNML!Transition
+	to 
+		o : PetriNet!Transition (
+			name <- if not n.name.oclIsUndefined() then thisModule.selectLabel(n.name.labels)
+			else '' endif
+			
+		)
+}
+rule PlaceToTransition {
+	from
+		i : PNML!Arc
+			
+			n.source.oclIsKindOf(PNML!Place) and n.target.oclIsKindOf(PNML!Transition)
+		
+	to 
+		o : PetriNet!PlaceToTransition (
+			name <- if not n.name.oclIsUndefined() then thisModule.selectLabel(n.name.labels)
+			else '' endif
+			start <- n.source,
+			end <- n.target
+		)
+}
+rule TransitionToPlace {
+	from
+		n : PNML!Arc 
+			
+			
+			 n.target.oclIsKindOf(PNML!Place) and 
+			 not n.source.oclIsKindOf(PNML!Place)
+		
+	to
+		p : PetriNet!TransitionToPlace
+		(
+			name <- if not n.name.oclIsUndefined() then thisModule.selectLabel(n.name.labels)
+             else '' endif,
+			start <- n.source,
+			end <- n.target
+		)
+}
+helper def:selectLabel(labels:Sequence(PNML!Label)):String= 
+
+	if labels->isEmpty() then
+	    'no-name'
+	else 
+		labels->first().text
+	endif
+	
+	
+			

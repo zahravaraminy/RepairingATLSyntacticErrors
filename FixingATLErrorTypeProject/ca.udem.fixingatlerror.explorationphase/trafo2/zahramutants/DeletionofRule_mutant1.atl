@@ -1,0 +1,8 @@
+-- @path MM=C:\Users\wael\OneDrive\atloperationsneon\mutants\anatlyzer.evaluation.mutants\trafo\a.ecore
+
+-- MUTATION "Deletion of Rule" name in a (line 5:1-12:2 of original transformation)
+
+module a;
+create OUT : MM from IN : MM;
+
+

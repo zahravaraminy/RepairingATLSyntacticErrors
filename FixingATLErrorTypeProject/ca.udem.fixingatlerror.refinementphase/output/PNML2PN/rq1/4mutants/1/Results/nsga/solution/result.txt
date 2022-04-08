@@ -1,0 +1,1747 @@
+first generation find solution
+-1
+numberinitialerror
+7
+solutionsize
+100
+EstimatedTime
+155030178ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+]
+index
+11754
+FitnessFunction Is 
+1.0 6 61
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+14725
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+48436
+FitnessFunction Is 
+5.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+41014
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+45998
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+30778
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 49:1-49:13 of original transformation)
+]
+index
+49977
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+41244
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+34155
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 49:1-49:13 of original transformation)
+]
+index
+17325
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+47910
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+48277
+FitnessFunction Is 
+4.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+49839
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 84:43-84:75 of original transformation)
+]
+index
+44152
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+42947
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+]
+index
+49109
+FitnessFunction Is 
+4.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+25664
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+32732
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to outgoingArc (line 50:1-54:6 of original transformation)
+]
+index
+17016
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+34141
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+]
+index
+12090
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+30412
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 49:1-49:13 of original transformation)
+]
+index
+39790
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+49523
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+48446
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+45781
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+]
+index
+32218
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+29720
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 49:1-49:13 of original transformation)
+]
+index
+14046
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+43618
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+4169
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+]
+index
+49497
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+46991
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+44510
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+45460
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+15811
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+17997
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+10991
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+19158
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+49235
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+32666
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+]
+index
+47489
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Transition to oclIsKindOf:URI (line 84:1-84:38 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+47563
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+42951
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 49:1-49:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+]
+index
+19151
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+49389
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+34989
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+25589
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Transition to oclIsKindOf:URI (line 84:1-84:38 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+30088
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+]
+index
+40096
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+42835
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+35364
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+]
+index
+30573
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+44961
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+25800
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+48980
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+40544
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+]
+index
+40935
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+]
+index
+47020
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+7116
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+16058
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+]
+index
+25940
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+32033
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Transition to oclIsKindOf:URI (line 84:1-84:38 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+49033
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+44823
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+16948
+FitnessFunction Is 
+4.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to outgoingArc (line 49:1-49:13 of original transformation)
+]
+index
+47099
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+34017
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+]
+index
+49054
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+39278
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+32534
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+48901
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+44308
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+]
+index
+12750
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+46722
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+31999
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+44250
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+]
+index
+8138
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+]
+index
+21906
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+9787
+FitnessFunction Is 
+2.0 5 60
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+48696
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+30450
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+24630
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+37261
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+46689
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+]
+index
+34461
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+48712
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+36372
+FitnessFunction Is 
+3.0 8 58
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 84:43-84:75 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+46351
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 90:9-90:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+]
+index
+41664
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to outgoingArc (line 50:1-54:6 of original transformation)
+]
+index
+28254
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+27343
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+]
+index
+41734
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 49:1-49:13 of original transformation)
+]
+index
+48449
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+43367
+FitnessFunction Is 
+4.0 7 57
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 84:43-84:75 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 91:7-91:15 of original transformation)
+]
+index
+43855
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:URI to n:Name (line 82:1-82:13 of original transformation)
+]
+index
+33976
+FitnessFunction Is 
+3.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Transition to n:NetElement (line 46:1-46:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+]
+index
+48596
+FitnessFunction Is 
+5.0 7 56
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to location (line 50:1-54:6 of original transformation)
+]
+index
+9294
+FitnessFunction Is 
+3.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" location in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 87:1-92:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to incomingArc (line 49:1-49:13 of original transformation)
+]
+index
+44012
+FitnessFunction Is 
+4.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+

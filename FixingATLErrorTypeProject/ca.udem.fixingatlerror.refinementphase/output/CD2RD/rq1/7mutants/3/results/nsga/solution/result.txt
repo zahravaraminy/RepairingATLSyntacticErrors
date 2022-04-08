@@ -1,0 +1,1875 @@
+first generation find solution
+-1
+numberinitialerror
+9
+solutionsize
+100
+EstimatedTime
+141666851ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[]
+index
+22
+FitnessFunction Is 
+0.0 9 12
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+37437
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+38091
+FitnessFunction Is 
+8.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+91955
+FitnessFunction Is 
+8.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+88836
+FitnessFunction Is 
+0.0 9 12
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+73401
+FitnessFunction Is 
+3.0 10 9
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+29475
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+24296
+FitnessFunction Is 
+7.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+98496
+FitnessFunction Is 
+2.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99241
+FitnessFunction Is 
+1.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+99109
+FitnessFunction Is 
+3.0 10 9
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+]
+index
+7483
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+97923
+FitnessFunction Is 
+7.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+99968
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+93456
+FitnessFunction Is 
+1.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+95971
+FitnessFunction Is 
+2.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:DataType (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:DataType to a:Attribute (line 87:1-87:18 of original transformation)
+]
+index
+99956
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to isUnique (line 53:38-55:2 of original transformation)
+]
+index
+99959
+FitnessFunction Is 
+5.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+96461
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+97426
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+]
+index
+99864
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+89718
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+]
+index
+98382
+FitnessFunction Is 
+1.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+90645
+FitnessFunction Is 
+3.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+99312
+FitnessFunction Is 
+7.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+99340
+FitnessFunction Is 
+4.0 9 9
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+99385
+FitnessFunction Is 
+6.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+98700
+FitnessFunction Is 
+5.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+91655
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99916
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+88760
+FitnessFunction Is 
+0.0 9 12
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+]
+index
+42905
+FitnessFunction Is 
+8.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+85306
+FitnessFunction Is 
+3.0 10 9
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+]
+index
+85558
+FitnessFunction Is 
+5.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+91745
+FitnessFunction Is 
+7.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+95781
+FitnessFunction Is 
+1.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+95161
+FitnessFunction Is 
+2.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+]
+index
+99887
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+]
+index
+99713
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+]
+index
+95517
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+]
+index
+99283
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+96059
+FitnessFunction Is 
+4.0 9 9
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+92184
+FitnessFunction Is 
+6.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+97843
+FitnessFunction Is 
+7.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99191
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+84382
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+96102
+FitnessFunction Is 
+0.0 9 12
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+99711
+FitnessFunction Is 
+8.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+]
+index
+97818
+FitnessFunction Is 
+3.0 10 9
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+90543
+FitnessFunction Is 
+4.0 9 9
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+92613
+FitnessFunction Is 
+7.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+98908
+FitnessFunction Is 
+1.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+97144
+FitnessFunction Is 
+2.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99586
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+]
+index
+96037
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+]
+index
+89280
+FitnessFunction Is 
+6.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+]
+index
+99119
+FitnessFunction Is 
+7.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99080
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+79176
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+97746
+FitnessFunction Is 
+5.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+79467
+FitnessFunction Is 
+8.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+97219
+FitnessFunction Is 
+0.0 9 12
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 98:9-98:15 of original transformation)
+]
+index
+98606
+FitnessFunction Is 
+3.0 10 9
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+97471
+FitnessFunction Is 
+7.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+99606
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99620
+FitnessFunction Is 
+5.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99591
+FitnessFunction Is 
+1.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+97932
+FitnessFunction Is 
+2.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+89806
+FitnessFunction Is 
+2.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99666
+FitnessFunction Is 
+4.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+97688
+FitnessFunction Is 
+6.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+27267
+FitnessFunction Is 
+7.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 93:9-93:15 of original transformation)
+]
+index
+95385
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+98008
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+]
+index
+97605
+FitnessFunction Is 
+4.0 9 9
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+90605
+FitnessFunction Is 
+8.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99585
+FitnessFunction Is 
+0.0 9 12
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+79435
+FitnessFunction Is 
+3.0 10 9
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+73386
+FitnessFunction Is 
+7.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+99505
+FitnessFunction Is 
+4.0 9 9
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 98:9-98:15 of original transformation)
+]
+index
+70365
+FitnessFunction Is 
+2.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+93077
+FitnessFunction Is 
+1.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+93921
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+]
+index
+99152
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+93857
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+94095
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+94793
+FitnessFunction Is 
+5.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+96097
+FitnessFunction Is 
+7.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+]
+index
+94275
+FitnessFunction Is 
+6.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+40788
+FitnessFunction Is 
+8.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+65266
+FitnessFunction Is 
+0.0 9 12
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+99358
+FitnessFunction Is 
+3.0 10 9
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+96839
+FitnessFunction Is 
+4.0 9 9
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+89128
+FitnessFunction Is 
+6.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+40811
+FitnessFunction Is 
+7.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+99430
+FitnessFunction Is 
+5.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in out (line 92:1-95:2 of original transformation)
+]
+index
+98501
+FitnessFunction Is 
+2.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+96774
+FitnessFunction Is 
+1.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 93:9-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Table to key:Column (line 132:1-135:2 of original transformation)
+]
+index
+88308
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from isUnique to reject (line 33:11-37:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Package to a:Attribute (line 87:1-87:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 58:1-60:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+97105
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+

@@ -1,0 +1,100 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+rule PetriNet {
+ from
+  n : PNML!PNMLDocument
+ using
+ {
+  elementsSet : Sequence(PNML!NetContentElement) = PNML!NetContentElement.allInstances();
+  arcsSet : Sequence(PNML!Arc) = PNML!Arc.allInstances()->forAll(a |
+   a.source.oclIsKindOf(PNML!Place) and a.target.oclIsKindOf(PNML!Transition) or a.source.oclIsKindOf(PNML!Transition) and a.target.oclIsKindOf(PNML!Place)
+  );
+ }
+ to
+  p : PetriNet!PetriNet (
+   location <- n.location,
+   name <- if not n.nets->first().name.oclIsUndefined() then
+    n.nets->first().name.labels->first().text
+   else
+    'aPetriNet'
+   endif,
+   elements <- elementsSet,
+   arcs <- arcsSet
+  )
+}
+
+rule Place {
+ from
+  n : PNML!Place
+ to
+  p : PetriNet!Place (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document
+  )
+}
+
+rule Transition {
+ from
+  n : PNML!Transition
+ to
+  p : PetriNet!Transition (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.location.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document
+  )
+}
+
+rule PlaceToTransition {
+ from
+  n : PNML!Arc
+  (
+   n.source.endsWith(PNML!Place) and n.target.oclIsKindOf(PNML!PetriNet)
+  )
+ to
+  p : PetriNet!PlaceToTransition (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->notEmpty().text
+   else
+    'default'
+   endif,
+   net <- n.net.document,
+   from <- n.source,
+   to <- n.target
+  )
+}
+
+rule TransitionToPlace {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Transition) and n.target.oclIsKindOf(PNML!Place)
+  )
+ to
+  p : PetriNet!TransitionToPlace (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document,
+   from <- n.source,
+   to <- n.target
+  )
+}
+
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 65:1-75:2 of original transformation)
+

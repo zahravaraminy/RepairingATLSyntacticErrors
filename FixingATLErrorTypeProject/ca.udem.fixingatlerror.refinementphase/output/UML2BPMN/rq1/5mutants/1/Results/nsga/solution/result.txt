@@ -1,0 +1,1783 @@
+first generation find solution
+78
+numberinitialerror
+8
+solutionsize
+100
+EstimatedTime
+667916550ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+14643
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" source in d (line 40:1-45:2 of original transformation)
+]
+index
+28998
+FitnessFunction Is 
+1.0 10 6133
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:AddVariableValueAction (line 107:1-107:35 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadVariableAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in l (line 53:3-59:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+29476
+FitnessFunction Is 
+7.0 0 6136
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to documentation (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingEdges in a (line 80:1-83:2 of original transformation)
+]
+index
+34535
+FitnessFunction Is 
+6.0 1 6133
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+41473
+FitnessFunction Is 
+1.0 6 6145
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in l (line 53:3-59:4 of original transformation)
+]
+index
+29043
+FitnessFunction Is 
+1.0 8 6138
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in l (line 53:3-59:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionNode (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+79384
+FitnessFunction Is 
+4.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+99488
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationInterval (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+84510
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+21180
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 115:1-118:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:ArtifactsContainer (line 40:1-45:2 of original transformation)
+]
+index
+31983
+FitnessFunction Is 
+2.0 7 6134
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in a (line 80:1-83:2 of original transformation)
+]
+index
+87582
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+]
+index
+37605
+FitnessFunction Is 
+3.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingMessages in activity (line 115:1-118:2 of original transformation)
+]
+index
+26596
+FitnessFunction Is 
+2.0 6 6136
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InitialNode (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in l (line 53:3-59:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+10207
+FitnessFunction Is 
+4.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to looping (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DecisionNode (line 73:1-73:16 of original transformation)
+]
+index
+80870
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+90096
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+96818
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Transition (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CreateObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+99482
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ConnectionPointReference (line 73:1-73:16 of original transformation)
+]
+index
+93059
+FitnessFunction Is 
+2.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CreateObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+99213
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" isTransaction in activity (line 115:1-118:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ChangeEvent (line 102:1-102:20 of original transformation)
+]
+index
+28997
+FitnessFunction Is 
+3.0 7 6133
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in d (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+]
+index
+30630
+FitnessFunction Is 
+3.0 4 6134
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InitialNode (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in l (line 53:3-59:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:SendSignalAction (line 107:1-107:35 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+35268
+FitnessFunction Is 
+5.0 3 6134
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+73441
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 115:1-118:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ClearAssociationAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:DurationConstraint (line 76:1-76:47 of original transformation)
+]
+index
+33409
+FitnessFunction Is 
+5.0 3 6134
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 115:1-118:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ClearAssociationAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+54343
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+70060
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CreateObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+47222
+FitnessFunction Is 
+3.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ClearStructuralFeatureAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+99280
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DataStoreNode (line 73:1-73:16 of original transformation)
+]
+index
+67282
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadStructuralFeatureAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+90105
+FitnessFunction Is 
+2.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendSignalAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+96599
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Operation (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+88739
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Continuation (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+]
+index
+89770
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+99179
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to looping (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+]
+index
+96358
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+78501
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CreationEvent (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+95786
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 73:1-73:16 of original transformation)
+]
+index
+61983
+FitnessFunction Is 
+3.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CreateObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+99065
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+98938
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+89545
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestructionEvent (line 102:1-102:20 of original transformation)
+]
+index
+91484
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:OpaqueExpression (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SequenceNode (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+92369
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DataStoreNode (line 73:1-73:16 of original transformation)
+]
+index
+92234
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValuePin (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+74457
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in a (line 80:1-83:2 of original transformation)
+]
+index
+86610
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalEvent (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+76399
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadStructuralFeatureAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+95806
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+98855
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReduceAction (line 73:1-73:16 of original transformation)
+]
+index
+60282
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in a (line 80:1-83:2 of original transformation)
+]
+index
+95472
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Device (line 102:1-102:20 of original transformation)
+]
+index
+95051
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendSignalAction (line 73:1-73:16 of original transformation)
+]
+index
+89178
+FitnessFunction Is 
+3.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+98649
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DecisionNode (line 73:1-73:16 of original transformation)
+]
+index
+56967
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+98574
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ReceiveOperationEvent (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+81409
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ClearVariableAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+56349
+FitnessFunction Is 
+3.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DecisionNode (line 73:1-73:16 of original transformation)
+]
+index
+95224
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:AddVariableValueAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+91341
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+98412
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CombinedFragment (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+98378
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:MergeNode (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Variable (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+73764
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValuePin (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+88773
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:RemoveVariableValueAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+]
+index
+46245
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+81238
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:OpaqueExpression (line 102:1-102:20 of original transformation)
+]
+index
+76654
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Interval (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+]
+index
+49319
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadIsClassifiedObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+77385
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+36768
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+80608
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Interface (line 102:1-102:20 of original transformation)
+]
+index
+86614
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValuePin (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+94147
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 73:1-73:16 of original transformation)
+]
+index
+98242
+FitnessFunction Is 
+3.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+94002
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+85239
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Deployment (line 102:1-102:20 of original transformation)
+]
+index
+93631
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Variable (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CallOperationAction (line 73:1-73:16 of original transformation)
+]
+index
+90922
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DecisionNode (line 73:1-73:16 of original transformation)
+]
+index
+97795
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InputPin (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to looping (line 117:1-117:26 of original transformation)
+]
+index
+81589
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+80895
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Association (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+60732
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Reception (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadVariableAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+76411
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DecisionNode (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+97471
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+45550
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+93678
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Reception (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+59948
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Trigger (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CreateObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+93745
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValuePin (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+97307
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadIsClassifiedObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+47146
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+77907
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationObservation (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+97056
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Reception (line 102:1-102:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+80024
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+]
+index
+97192
+FitnessFunction Is 
+5.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ClearStructuralFeatureAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+32781
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+84173
+FitnessFunction Is 
+6.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 117:1-117:26 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+77887
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 105:4-105:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StartClassifierBehaviorAction (line 73:1-73:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-45:2 of original transformation)
+]
+index
+80109
+FitnessFunction Is 
+3.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+

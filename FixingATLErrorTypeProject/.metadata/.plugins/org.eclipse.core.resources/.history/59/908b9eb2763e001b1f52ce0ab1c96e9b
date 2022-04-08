@@ -1,0 +1,24 @@
+package modification.type.operator.abstractclass;
+
+import org.eclipse.m2m.atl.core.emf.EMFModel;
+
+import witness.generator.MetaModel;
+import anatlyzer.atlext.OCL.Parameter;
+import anatlyzer.evaluation.tester.Tester;
+
+public class ParameterModificationMutator extends AbstractTypeModificationMutator {
+	
+	@Override
+	public void generateMutants(EMFModel atlModel, MetaModel inputMM, MetaModel outputMM, String outputFolder) {
+		System.out.println("parameter modify");
+		this.genericTypeModification(atlModel, outputFolder, Parameter.class, "type", new MetaModel[] {inputMM, outputMM});
+	   
+	
+	}
+	
+	@Override
+	public String getDescription() {
+		Tester.str="parameter";
+		return "Parameter Type Modification";
+	}
+}

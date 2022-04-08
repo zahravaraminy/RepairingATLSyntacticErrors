@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="anatlyzer.atl.model.ATLModel"/>
+<fullyQualifiedTypeName name="deletion.operator.AbstractDeletionMutator"/>
+<fullyQualifiedTypeName name="ca.udem.fixingatlerror.explorationphase.Population"/>
+<fullyQualifiedTypeName name="ca.udem.fixingatlerror.explorationphase.CoSolution"/>
+<fullyQualifiedTypeName name="anatlyzer.examples.api.ErrorReport"/>
+<fullyQualifiedTypeName name="anatlyzer.examples.api.Random"/>
+<fullyQualifiedTypeName name="anatlyzer.examples.api.ReferencePoint"/>
+<fullyQualifiedTypeName name="anatlyzer.examples.api.Sigma"/>
+<fullyQualifiedTypeName name="anatlyzer.atl.model.ErrorModel"/>
+<fullyQualifiedTypeName name="func.ResultsCollectorRQ1"/>
+<fullyQualifiedTypeName name="jmetal.metaheuristics.nsgaII.NSGAIIpostprocessing"/>
+<fullyQualifiedTypeName name="jmetal.core.Solution"/>
+<fullyQualifiedTypeName name="jmetal.core.Algorithm"/>
+<fullyQualifiedTypeName name="jmetal.core.Problem"/>
+<fullyQualifiedTypeName name="jmetal.core.SolutionSet"/>
+<fullyQualifiedTypeName name="ca.udem.fixingatlerror.refinementphase.main"/>
+<fullyQualifiedTypeName name="ca.udem.fixingatlerror.explorationphase.main"/>
+</qualifiedTypeNameHistroy>

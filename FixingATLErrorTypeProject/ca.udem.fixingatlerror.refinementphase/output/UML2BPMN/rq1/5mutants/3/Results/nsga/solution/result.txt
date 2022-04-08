@@ -1,0 +1,1665 @@
+first generation find solution
+173
+numberinitialerror
+5
+solutionsize
+94
+EstimatedTime
+296914366ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Generalization (line 104:8-104:54 of original transformation)
+, 
+-- MUTATION "Creation of Binding" messages in d (line 41:3-45:4 of original transformation)
+]
+index
+4530
+FitnessFunction Is 
+2.0 5 6131
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+12514
+FitnessFunction Is 
+0.0 5 6142
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+40719
+FitnessFunction Is 
+0.0 5 6142
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:TimeEvent to startsWith:Model (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+49043
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+20903
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+38368
+FitnessFunction Is 
+5.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+1932
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in a (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+]
+index
+15015
+FitnessFunction Is 
+3.0 3 6134
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Substitution (line 127:7-127:41 of original transformation)
+, 
+-- MUTATION "Creation of Binding" isTransaction in activity (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to pools (line 42:4-42:19 of original transformation)
+]
+index
+11323
+FitnessFunction Is 
+6.0 3 6132
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" author in d (line 41:3-45:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:LinkEndDestructionData (line 145:8-145:39 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to isUnique (line 54:18-58:5 of original transformation)
+]
+index
+5760
+FitnessFunction Is 
+4.0 4 6132
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to pools (line 42:4-42:19 of original transformation)
+]
+index
+13370
+FitnessFunction Is 
+5.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+25567
+FitnessFunction Is 
+2.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+41569
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to iD (line 149:4-149:75 of original transformation)
+]
+index
+28942
+FitnessFunction Is 
+2.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+24684
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 135:3-138:4 of original transformation)
+]
+index
+12328
+FitnessFunction Is 
+5.0 2 6134
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:TimeEvent to startsWith:ClassifierTemplateParameter (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+39794
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+]
+index
+37081
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+49083
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:6-126:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingMessages in d (line 41:3-45:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to pools (line 42:4-42:19 of original transformation)
+]
+index
+15005
+FitnessFunction Is 
+5.0 2 6134
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" looping in activity (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to documentation (line 116:4-116:27 of original transformation)
+]
+index
+17238
+FitnessFunction Is 
+5.0 3 6133
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in activity (line 135:3-138:4 of original transformation)
+]
+index
+13145
+FitnessFunction Is 
+1.0 5 6133
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in d (line 41:3-45:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to iD (line 149:4-149:75 of original transformation)
+]
+index
+48403
+FitnessFunction Is 
+4.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in p (line 52:3-52:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+32002
+FitnessFunction Is 
+5.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+13406
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+32877
+FitnessFunction Is 
+2.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:InteractionOperand (line 145:8-145:39 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+43084
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.owner to a.isSingleExecution (line 42:12-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+43875
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+48745
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 135:3-138:4 of original transformation)
+]
+index
+25904
+FitnessFunction Is 
+4.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+46765
+FitnessFunction Is 
+5.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 149:4-149:75 of original transformation)
+]
+index
+46451
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+47687
+FitnessFunction Is 
+2.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:LoopNode (line 122:3-122:22 of original transformation)
+]
+index
+48464
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+38484
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+48659
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to collect (line 54:18-58:5 of original transformation)
+]
+index
+32313
+FitnessFunction Is 
+4.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+]
+index
+46095
+FitnessFunction Is 
+5.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+13489
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+40594
+FitnessFunction Is 
+2.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:TemplateParameterSubstitution (line 125:8-125:54 of original transformation)
+]
+index
+42741
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+48439
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+48462
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Substitution (line 127:7-127:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" lanes in p (line 52:3-52:19 of original transformation)
+]
+index
+22145
+FitnessFunction Is 
+5.0 3 6133
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+36749
+FitnessFunction Is 
+5.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+19924
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+42576
+FitnessFunction Is 
+2.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:TimeEvent to startsWith:AssociationClass (line 106:7-106:40 of original transformation)
+]
+index
+42521
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+]
+index
+46197
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+48357
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in a (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to pools (line 42:4-42:19 of original transformation)
+]
+index
+15510
+FitnessFunction Is 
+5.0 3 6133
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+22706
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:StartObjectBehaviorAction (line 122:3-122:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+48181
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" messages in d (line 41:3-45:4 of original transformation)
+]
+index
+6445
+FitnessFunction Is 
+2.0 4 6133
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+39832
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+23609
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+41848
+FitnessFunction Is 
+2.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 149:4-149:75 of original transformation)
+]
+index
+2884
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Interaction (line 145:8-145:39 of original transformation)
+]
+index
+45325
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+45980
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+48162
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+7993
+FitnessFunction Is 
+1.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:MergeNode (line 125:8-125:54 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+42172
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+27525
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to iD (line 149:4-149:75 of original transformation)
+]
+index
+24967
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ConditionalNode (line 55:5-55:34 of original transformation)
+]
+index
+45126
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+23433
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+47848
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:TimeEvent to startsWith:AcceptCallAction (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+]
+index
+47684
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+]
+index
+45269
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+]
+index
+47733
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CallBehaviorAction (line 122:3-122:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+47517
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+30936
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+31532
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:DurationObservation (line 125:8-125:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+47453
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+42181
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+47574
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:TimeEvent to startsWith:Model (line 106:7-106:40 of original transformation)
+]
+index
+44162
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.owner to a.isSingleExecution (line 42:12-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+42044
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+31983
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Manifestation (line 145:8-145:39 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+46984
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.owner to a.isSingleExecution (line 42:12-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 149:4-149:75 of original transformation)
+]
+index
+47023
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+47066
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:DestroyLinkAction (line 145:8-145:39 of original transformation)
+]
+index
+46738
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+33264
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+]
+index
+46973
+FitnessFunction Is 
+4.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:TimeEvent to startsWith:Port (line 106:7-106:40 of original transformation)
+]
+index
+43866
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to iD (line 149:4-149:75 of original transformation)
+]
+index
+46789
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:6-126:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to pools (line 42:4-42:19 of original transformation)
+]
+index
+49147
+FitnessFunction Is 
+6.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+]
+index
+49386
+FitnessFunction Is 
+5.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:ReceiveSignalEvent (line 125:8-125:54 of original transformation)
+]
+index
+49618
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.owner to a.isSingleExecution (line 42:12-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:3-117:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ConditionalNode (line 55:5-55:34 of original transformation)
+]
+index
+49679
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+]
+index
+49937
+FitnessFunction Is 
+3.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to messages (line 42:4-42:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 106:7-106:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 135:3-138:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 148:3-150:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 54:18-58:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:DestructionEvent (line 55:5-55:34 of original transformation)
+]
+index
+49987
+FitnessFunction Is 
+6.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+

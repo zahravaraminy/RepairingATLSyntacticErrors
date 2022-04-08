@@ -1,0 +1,1249 @@
+first generation find solution
+499
+numberinitialerror
+2
+solutionsize
+100
+EstimatedTime
+114041487ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[]
+index
+9
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+4178
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+49835
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99992
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99997
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to includes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99999
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99872
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99991
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99900
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+]
+index
+99899
+FitnessFunction Is 
+1.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99973
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99884
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99898
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99799
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99733
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Package (line 66:1-66:17 of original transformation)
+]
+index
+99800
+FitnessFunction Is 
+1.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99856
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99744
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99776
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99698
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99697
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Package (line 66:1-66:17 of original transformation)
+]
+index
+99392
+FitnessFunction Is 
+1.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to notEmpty (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99707
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to excludes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99651
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99684
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99600
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99582
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99644
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to includes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99594
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99598
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99493
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99431
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99559
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99461
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to excludes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99498
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99387
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99357
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99495
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99371
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99386
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99299
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99276
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+]
+index
+99100
+FitnessFunction Is 
+1.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+97694
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to includes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99289
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99293
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99189
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99149
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99265
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99184
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99199
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99076
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99026
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to includes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99195
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+99082
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99098
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98989
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99000
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+]
+index
+98600
+FitnessFunction Is 
+1.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+99073
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98993
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to includes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98998
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98900
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98870
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98977
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98883
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98895
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98799
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98750
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98866
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98791
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98797
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98692
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98678
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:NamedElt (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98760
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98688
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98700
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98585
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+96793
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98626
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98575
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98580
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98493
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98476
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+]
+index
+98292
+FitnessFunction Is 
+1.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to sum (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98507
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98486
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Classifier (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98495
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98391
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98326
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to includes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98475
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98397
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98398
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98288
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98204
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to notEmpty (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Package (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98390
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from dt:Class to dt:Attribute (line 66:1-66:17 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to notEmpty (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+]
+index
+98290
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98297
+FitnessFunction Is 
+0.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98185
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+]
+index
+98124
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+

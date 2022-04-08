@@ -1,0 +1,453 @@
+first generation find solution
+-1
+numberinitialerror
+4
+solutionsize
+32
+EstimatedTime
+688787227ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to activityType (line 136:1-136:23 of original transformation)
+]
+index
+6886
+FitnessFunction Is 
+3.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+7374
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" pool in activity (line 114:1-117:2 of original transformation)
+]
+index
+13541
+FitnessFunction Is 
+1.0 6 6134
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+12607
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 114:1-117:2 of original transformation)
+]
+index
+15173
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" eventHandlers in activity (line 135:1-138:2 of original transformation)
+]
+index
+16685
+FitnessFunction Is 
+1.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+7168
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+]
+index
+19132
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+15846
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in a (line 79:1-82:2 of original transformation)
+]
+index
+17622
+FitnessFunction Is 
+2.0 3 6136
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+14955
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+18388
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+9826
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 135:1-138:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:AnyReceiveEvent (line 101:1-101:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to activityType (line 136:1-136:23 of original transformation)
+]
+index
+24226
+FitnessFunction Is 
+4.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+24327
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.symbol (line 116:9-116:24 of original transformation)
+]
+index
+24542
+FitnessFunction Is 
+2.0 4 6134
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in a (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+]
+index
+25775
+FitnessFunction Is 
+2.0 3 6136
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+26248
+FitnessFunction Is 
+2.0 2 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+27820
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+]
+index
+28770
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to activityType (line 136:1-136:23 of original transformation)
+]
+index
+29932
+FitnessFunction Is 
+3.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ConnectableElementTemplateParameter (line 106:1-106:35 of original transformation)
+]
+index
+30349
+FitnessFunction Is 
+2.0 4 6134
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+30777
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingMessages in activity (line 135:1-138:2 of original transformation)
+]
+index
+30883
+FitnessFunction Is 
+1.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to activityType (line 136:1-136:23 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+]
+index
+30947
+FitnessFunction Is 
+3.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 135:1-138:2 of original transformation)
+]
+index
+31098
+FitnessFunction Is 
+2.0 3 6136
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+]
+index
+31464
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to activityType (line 136:1-136:23 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 135:1-138:2 of original transformation)
+]
+index
+31772
+FitnessFunction Is 
+3.0 2 6134
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 135:1-138:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:AnyReceiveEvent (line 101:1-101:16 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to activityType (line 136:1-136:23 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DataStoreNode (line 72:1-72:20 of original transformation)
+]
+index
+32585
+FitnessFunction Is 
+5.0 1 6134
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+36591
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+44215
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 116:9-116:24 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Artifact to a:SubProcess (line 79:1-82:2 of original transformation)
+]
+index
+47405
+FitnessFunction Is 
+2.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+

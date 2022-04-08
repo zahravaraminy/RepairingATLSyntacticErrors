@@ -1,0 +1,1545 @@
+first generation find solution
+741
+numberinitialerror
+7
+solutionsize
+85
+EstimatedTime
+932374930ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+4792
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+5112
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+12599
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+17848
+FitnessFunction Is 
+4.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to looping (line 148:4-148:53 of original transformation)
+]
+index
+17936
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+21042
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+25817
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 92:3-95:4 of original transformation)
+]
+index
+29287
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in a (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+30411
+FitnessFunction Is 
+3.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingEdges in a (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+31581
+FitnessFunction Is 
+2.0 6 6136
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Lifeline (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+31582
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+32715
+FitnessFunction Is 
+0.0 7 6151
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" lanes in a (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+34540
+FitnessFunction Is 
+2.0 6 6136
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingMessages in activity (line 134:3-137:4 of original transformation)
+]
+index
+35459
+FitnessFunction Is 
+1.0 8 6138
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to forAll (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+]
+index
+36023
+FitnessFunction Is 
+6.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from e.transformed to e.signal (line 56:5-56:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+36158
+FitnessFunction Is 
+6.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+36431
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+38916
+FitnessFunction Is 
+2.0 5 6139
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+40356
+FitnessFunction Is 
+0.0 7 6151
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ValueSpecificationAction (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingEdges in a (line 147:3-149:4 of original transformation)
+]
+index
+41403
+FitnessFunction Is 
+2.0 8 6135
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+44897
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to looping (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+47866
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+48059
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from target to eventHandlerFor (line 94:4-94:22 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+]
+index
+49068
+FitnessFunction Is 
+3.0 6 6135
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" activities in a (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+49069
+FitnessFunction Is 
+3.0 6 6135
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+]
+index
+49547
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+49948
+FitnessFunction Is 
+4.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+52593
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+53505
+FitnessFunction Is 
+4.0 3 6136
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in l (line 52:3-58:4 of original transformation)
+]
+index
+55045
+FitnessFunction Is 
+6.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from oclIsKindOf to floor (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+56066
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+]
+index
+56576
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from oclIsKindOf to trim (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+57063
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+57218
+FitnessFunction Is 
+5.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in e (line 92:3-95:4 of original transformation)
+]
+index
+58139
+FitnessFunction Is 
+1.0 7 6142
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" groups in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+59784
+FitnessFunction Is 
+2.0 5 6139
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 136:12-136:27 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:Pseudostate (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+59912
+FitnessFunction Is 
+5.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from edge.source to edge.relatedElement (line 124:8-124:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+60272
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" title in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ActionInputPin (line 121:3-121:22 of original transformation)
+]
+index
+60723
+FitnessFunction Is 
+5.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.deploymentLocation (line 136:12-136:27 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" groups in activity (line 113:3-116:4 of original transformation)
+]
+index
+60724
+FitnessFunction Is 
+5.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in a (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.inheritedParameter (line 123:4-123:14 of original transformation)
+]
+index
+61044
+FitnessFunction Is 
+3.0 6 6135
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" messages in activity (line 134:3-137:4 of original transformation)
+]
+index
+61470
+FitnessFunction Is 
+1.0 9 6136
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to isUnique (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+61471
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+62253
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to forAll (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from e.transformed to e.signal (line 56:5-56:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:StructuredActivityNode (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+63121
+FitnessFunction Is 
+7.0 3 6135
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to documentation (line 148:4-148:53 of original transformation)
+]
+index
+63903
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+70371
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+72539
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+72900
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+73065
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+73760
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:SequenceNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+74006
+FitnessFunction Is 
+7.0 0 6145
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CreateObjectAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+78193
+FitnessFunction Is 
+6.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Manifestation (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalAction (line 121:3-121:22 of original transformation)
+]
+index
+79930
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Association (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalAction (line 121:3-121:22 of original transformation)
+]
+index
+82702
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Trigger (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalAction (line 121:3-121:22 of original transformation)
+]
+index
+83056
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to looping (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+83229
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Connector (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalAction (line 121:3-121:22 of original transformation)
+]
+index
+83523
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to iD (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+84299
+FitnessFunction Is 
+3.0 3 6145
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to documentation (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+84459
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from source to graph (line 93:4-93:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CreateObjectAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+84480
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to looping (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from source to graph (line 93:4-93:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CreateObjectAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+86596
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+86984
+FitnessFunction Is 
+3.0 3 6145
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from source to graph (line 93:4-93:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExpansionNode (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+87582
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:SequenceNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+87621
+FitnessFunction Is 
+7.0 0 6145
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Manifestation (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:TemplateParameterSubstitution (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalAction (line 121:3-121:22 of original transformation)
+]
+index
+88034
+FitnessFunction Is 
+8.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestroyObjectAction (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+89102
+FitnessFunction Is 
+6.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:Pool to p:Graph (line 51:3-51:19 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestroyObjectAction (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+89476
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:BroadcastSignalAction (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:TemplateParameterSubstitution (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestroyObjectAction (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+89809
+FitnessFunction Is 
+8.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:RemoveStructuralFeatureValueAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+90388
+FitnessFunction Is 
+8.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+]
+index
+90587
+FitnessFunction Is 
+2.0 4 6146
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to documentation (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:SequenceNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+90775
+FitnessFunction Is 
+7.0 0 6145
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:StateMachine (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestroyObjectAction (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+91826
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+94081
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Manifestation (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:TemplateParameterSubstitution (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ReadSelfAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+94953
+FitnessFunction Is 
+8.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Manifestation (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:TemplateParameterSubstitution (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:TextAnnotation (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+96413
+FitnessFunction Is 
+8.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:OperationTemplateParameter (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalAction (line 121:3-121:22 of original transformation)
+]
+index
+96772
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:SequenceNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+96818
+FitnessFunction Is 
+7.0 0 6145
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:SendObjectAction (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+96819
+FitnessFunction Is 
+6.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+97372
+FitnessFunction Is 
+4.0 2 6145
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:EnumerationLiteral (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CreateObjectAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+97594
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:Interaction (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:SequenceNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+97752
+FitnessFunction Is 
+8.0 0 6144
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:SequenceNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+99118
+FitnessFunction Is 
+7.0 0 6145
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from author to ncname (line 148:4-148:53 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsTypeOf:OpaqueAction to oclIsTypeOf:Manifestation (line 144:8-144:39 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CallOperationAction (line 121:3-121:22 of original transformation)
+]
+index
+99446
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:BpmnDiagram (line 147:3-149:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ExecutionOccurrenceSpecification (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CreateObjectAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.inStructuredNode to edge.source (line 104:10-104:31 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 92:3-95:4 of original transformation)
+]
+index
+99905
+FitnessFunction Is 
+7.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+

@@ -1,0 +1,1251 @@
+first generation find solution
+-1
+numberinitialerror
+7
+solutionsize
+61
+EstimatedTime
+350950414ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+1217
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" conditionType in activity (line 113:3-116:4 of original transformation)
+]
+index
+9617
+FitnessFunction Is 
+1.0 9 6140
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+14981
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+20442
+FitnessFunction Is 
+1.0 6 6145
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+]
+index
+25016
+FitnessFunction Is 
+1.0 7 6142
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in d (line 40:3-44:4 of original transformation)
+]
+index
+25130
+FitnessFunction Is 
+4.0 3 6142
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Operation (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+26913
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:LiteralUnlimitedNatural (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:AddVariableValueAction (line 124:8-124:54 of original transformation)
+]
+index
+27080
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ExtensionPoint (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:AddVariableValueAction (line 124:8-124:54 of original transformation)
+]
+index
+27985
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ReadExtentAction (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in l (line 52:3-58:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+28006
+FitnessFunction Is 
+6.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:CreateObjectAction (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:AddVariableValueAction (line 124:8-124:54 of original transformation)
+]
+index
+28574
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:LiteralString (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+28704
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in d (line 40:3-44:4 of original transformation)
+]
+index
+30175
+FitnessFunction Is 
+1.0 7 6142
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Activity to a:Interface (line 38:3-38:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" eventHandlerFor in l (line 52:3-58:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+]
+index
+33523
+FitnessFunction Is 
+3.0 10 6135
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:StructuredActivityNode (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+33708
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Interaction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+]
+index
+33959
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+34991
+FitnessFunction Is 
+2.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ConditionalNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+35478
+FitnessFunction Is 
+5.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:LiteralString (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:SendSignalEvent (line 54:5-54:34 of original transformation)
+]
+index
+35769
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in d (line 40:3-44:4 of original transformation)
+]
+index
+35770
+FitnessFunction Is 
+2.0 5 6141
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+35863
+FitnessFunction Is 
+2.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:ExpansionRegion (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+36520
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:TimeConstraint (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+36706
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ClearStructuralFeatureAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:AddVariableValueAction (line 124:8-124:54 of original transformation)
+]
+index
+36918
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:DataStoreNode (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+36957
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to iD (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:SignalEvent (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+36965
+FitnessFunction Is 
+5.0 2 6142
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Extend (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:CreationEvent (line 54:5-54:34 of original transformation)
+]
+index
+38251
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:LiteralUnlimitedNatural (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:AssociationClass (line 124:8-124:54 of original transformation)
+]
+index
+38280
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:DataStoreNode (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Creation of Binding" iD in l (line 52:3-58:4 of original transformation)
+]
+index
+38846
+FitnessFunction Is 
+7.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Operation (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Pin (line 126:7-126:41 of original transformation)
+]
+index
+39202
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ConditionalNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" sequenceEdges in activity (line 134:3-137:4 of original transformation)
+]
+index
+39211
+FitnessFunction Is 
+5.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ActivityPartition (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from oclIsKindOf to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+39415
+FitnessFunction Is 
+6.0 3 6136
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Realization (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+39463
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+40546
+FitnessFunction Is 
+3.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:CallOperationAction (line 124:8-124:54 of original transformation)
+]
+index
+40901
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ReadExtentAction (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+41131
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.inputElement (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+41554
+FitnessFunction Is 
+4.0 4 6135
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:BroadcastSignalAction (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+42105
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Constraint (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+42190
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:DurationConstraint (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ConnectionPointReference (line 105:7-105:41 of original transformation)
+]
+index
+42723
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:SendOperationEvent (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+42771
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+43164
+FitnessFunction Is 
+1.0 5 6147
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:MergeNode (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ReadLinkObjectEndAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ConnectionPointReference (line 105:7-105:41 of original transformation)
+]
+index
+43371
+FitnessFunction Is 
+8.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StartObjectBehaviorAction (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Pseudostate (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+43380
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Abstraction (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Pseudostate (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+43576
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Constraint (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:RedefinableTemplateSignature (line 54:5-54:34 of original transformation)
+]
+index
+44873
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:SignalEvent (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+45105
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:SendObjectAction (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+46480
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" conditionType in e (line 92:3-95:4 of original transformation)
+]
+index
+46801
+FitnessFunction Is 
+2.0 6 6136
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StartObjectBehaviorAction (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:StructuredActivityNode (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+47342
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ExecutionOccurrenceSpecification (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:CommunicationPath (line 124:8-124:54 of original transformation)
+]
+index
+47386
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:CreateObjectAction (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:AddVariableValueAction (line 124:8-124:54 of original transformation)
+]
+index
+47916
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendSignalAction (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+47925
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:MergeNode (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Message (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+47947
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:MergeNode (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Port (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+48127
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:RemoveStructuralFeatureValueAction (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+48389
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+48630
+FitnessFunction Is 
+3.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Deployment (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+48739
+FitnessFunction Is 
+6.0 1 6142
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+49502
+FitnessFunction Is 
+2.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to adhoc (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Lifeline (line 54:5-54:34 of original transformation)
+]
+index
+49701
+FitnessFunction Is 
+5.0 2 6142
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:MergeNode (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from author to ncname (line 136:4-136:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Package (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Comment to a:ActivityPartition (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 94:14-94:22 of original transformation)
+]
+index
+49840
+FitnessFunction Is 
+7.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+

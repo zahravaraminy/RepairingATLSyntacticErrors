@@ -1,0 +1,25 @@
+-- @path Rel=/EvoSearch/metamodels/initial/relational.ecore
+-- @path Class=/EvoSearch/metamodels/revised/class.ecore
+
+module class2relational;
+create OUT : Rel from IN : Class;
+
+
+rule Class2Table{
+	from
+		i : Class!Class (i.persistent = 1)
+	to 
+		o : Rel!Table (
+			col <- i.attr,
+			key <- i.attr->first()
+		)
+}
+
+rule Att2Col {
+	from
+		i : Class!Attribute
+	to 
+		o : Rel!Column (
+			type <- i.type.type
+		)
+}

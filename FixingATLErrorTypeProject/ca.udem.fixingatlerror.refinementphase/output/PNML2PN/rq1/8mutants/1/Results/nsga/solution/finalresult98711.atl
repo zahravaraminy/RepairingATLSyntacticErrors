@@ -1,0 +1,119 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+rule PetriNet {
+ from
+  n : PNML!PNMLDocument
+ using
+ {
+  elementsSet : Sequence(PNML!LabeledElement) = PNML!NetContentElement.allInstances();
+  arcsSet : Sequence(PNML!Arc) = PNML!Arc.allInstances()->select(a |
+   a.source.oclIsKindOf(PNML!Place) and a.target.oclIsKindOf(PNML!Transition) or a.source.oclIsKindOf(PNML!Transition) and a.target.oclIsKindOf(PNML!Place)
+  );
+ }
+ to
+  p : PetriNet!PetriNet (
+   location <- n.xmlns,
+   name <- if not n.nets->first().name.oclIsUndefined() then
+    n.nets->asBag().name.labels->first().text
+   else
+    'aPetriNet'
+   endif,
+   elements <- elementsSet,
+   arcs <- arcsSet
+  )
+}
+
+rule Place {
+ from
+  n : PNML!Place
+ to
+  p : PetriNet!Place (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document
+  )
+}
+
+rule Transition {
+ from
+  n : PNML!NetElement
+ to
+  p : PetriNet!Transition (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document,
+   incomingArc <- n.contents
+  )
+}
+
+rule PlaceToTransition {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Place) and n.target.oclIsKindOf(PNML!Transition)
+  )
+ to
+  p : PetriNet!PlaceToTransition (
+   location <- n.location,
+   weight <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document,
+   from <- n.source,
+   to <- n.target,
+   name <- n.id
+  )
+}
+
+rule TransitionToPlace {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Transition) and n.target.oclIsKindOf(PNML!Place)
+  )
+ to
+  p : PetriNet!TransitionToPlace (
+   location <- n.location,
+   net <- n.net.document,
+   from <- n.source,
+   to <- n.target,
+   name <- n.location
+  )
+}
+
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 11:15-11:33 of original transformation)
+
+
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+
+
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:Place (line 33:1-41:2 of original transformation)
+
+
+-- MUTATION "Creation of Binding" name in p (line 66:1-76:2 of original transformation)
+
+
+-- MUTATION "Navigation Modification" from n.id to n.xmlns (line 18:13-18:17 of original transformation)
+
+
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+
+
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+
+
+-- MUTATION "Creation of Binding" name in p (line 86:1-91:2 of original transformation)
+

@@ -1,0 +1,749 @@
+first generation find solution
+369
+numberinitialerror
+4
+solutionsize
+54
+EstimatedTime
+366977400ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+2460
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+2810
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+4109
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+]
+index
+5285
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+5987
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+6305
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+]
+index
+7166
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to target (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+8216
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+8368
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+10389
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+]
+index
+11678
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+12797
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+13956
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+14429
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+15415
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+]
+index
+15767
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+]
+index
+18162
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+19364
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+19817
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+19957
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+20365
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.target to edge.source (line 103:4-103:15 of original transformation)
+]
+index
+26358
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+26734
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+]
+index
+27304
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+28302
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+29367
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to target (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+30590
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+]
+index
+30738
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+30788
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+30832
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to target (line 93:1-93:15 of original transformation)
+]
+index
+31653
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+34436
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+35162
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+35691
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to target (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from edge.target to edge.source (line 103:4-103:15 of original transformation)
+]
+index
+36802
+FitnessFunction Is 
+3.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to target (line 93:1-93:15 of original transformation)
+]
+index
+37309
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+]
+index
+37672
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+38147
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+39692
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+40714
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to target (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+41123
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+41295
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+41310
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+]
+index
+41480
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+43485
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+43994
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+44193
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+45324
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+46274
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 93:1-93:15 of original transformation)
+]
+index
+46615
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from edge.source to edge.target (line 104:5-104:16 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+]
+index
+47367
+FitnessFunction Is 
+3.0 0 6141
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+47472
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+47706
+FitnessFunction Is 
+1.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to source (line 93:1-93:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:1-44:2 of original transformation)
+]
+index
+47753
+FitnessFunction Is 
+2.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+

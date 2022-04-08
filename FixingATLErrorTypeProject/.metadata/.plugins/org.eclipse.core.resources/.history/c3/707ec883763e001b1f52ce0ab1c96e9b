@@ -1,0 +1,20 @@
+package modification.type.operator.abstractclass;
+
+import org.eclipse.m2m.atl.core.emf.EMFModel;
+
+import witness.generator.MetaModel;
+import anatlyzer.atlext.OCL.Attribute;
+import anatlyzer.atlext.OCL.Operation;
+
+public class HelperReturnModificationMutator extends AbstractTypeModificationMutator {
+	
+	@Override
+	public String generateMutants(EMFModel atlModel, MetaModel inputMM, MetaModel outputMM, String outputFolder) {
+		return this.genericTypeModification(atlModel, outputFolder, Operation.class, "returnType", new MetaModel[] {inputMM, outputMM});
+}
+	
+	@Override
+	public String getDescription() {
+		return "Helper Return Type Modification";
+	}
+}

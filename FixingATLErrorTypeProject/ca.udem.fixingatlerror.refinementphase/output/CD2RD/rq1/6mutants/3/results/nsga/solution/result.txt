@@ -1,0 +1,1813 @@
+first generation find solution
+451
+numberinitialerror
+11
+solutionsize
+100
+EstimatedTime
+78142417ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[]
+index
+1175
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+41752
+FitnessFunction Is 
+8.0 4 9
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+45038
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+46044
+FitnessFunction Is 
+8.0 4 9
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+44384
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+37054
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+2049
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+45629
+FitnessFunction Is 
+7.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+48335
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+47285
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+47062
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+42486
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+42491
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+49082
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+47277
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+43177
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+48095
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+49770
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+49963
+FitnessFunction Is 
+5.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+44532
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+38593
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+49685
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+]
+index
+45490
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+43866
+FitnessFunction Is 
+7.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+45815
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+24002
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+36001
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+41701
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+49645
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+49799
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+46867
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+34744
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+40733
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+45669
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+38120
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+26108
+FitnessFunction Is 
+7.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+45383
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+46292
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+39659
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+17115
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+38493
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+29265
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+39827
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+4773
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+]
+index
+43206
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+45582
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+49309
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+47020
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+47403
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+36052
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+7447
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+18235
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+44121
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+19038
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+]
+index
+37336
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+40362
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+46954
+FitnessFunction Is 
+5.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+49535
+FitnessFunction Is 
+6.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+41056
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+46911
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+24540
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+14084
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+46830
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+46441
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+]
+index
+49356
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+45595
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+38016
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+46438
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+49132
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+43606
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+47670
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47564
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+46641
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+36652
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+49111
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+40320
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+35782
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+46382
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+47592
+FitnessFunction Is 
+5.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48989
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+45899
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+46616
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+30806
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+44550
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+41432
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+]
+index
+48571
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+49077
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+47247
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+23208
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+41521
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+]
+index
+43181
+FitnessFunction Is 
+6.0 7 9
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+2699
+FitnessFunction Is 
+0.0 11 14
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+31049
+FitnessFunction Is 
+1.0 6 13
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+]
+index
+46175
+FitnessFunction Is 
+2.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+48959
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to key (line 57 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from type to name (line 111:1-111:22 of original transformation)
+]
+index
+45309
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+45449
+FitnessFunction Is 
+4.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+]
+index
+47152
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-83:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+48321
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Schema to out:Type (line 68:1-70:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+48327
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+

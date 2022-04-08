@@ -1,0 +1,1375 @@
+first generation find solution
+48
+numberinitialerror
+4
+solutionsize
+100
+EstimatedTime
+125301101ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[]
+index
+88
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+4745
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+33493
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99980
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99987
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99996
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99866
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99958
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99855
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99983
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99889
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99975
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99891
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99898
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99781
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99800
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99664
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99875
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99785
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99790
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99625
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99686
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99776
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99788
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99660
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99700
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99581
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99549
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99648
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99591
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99585
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99596
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99486
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99494
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99390
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99548
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99495
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99496
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99329
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99334
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99462
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+,
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99485
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99340
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99397
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99287
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99299
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99382
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99291
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99232
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99300
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99150
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99195
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99198
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99265
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99194
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99200
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99073
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+99100
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99089
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99145
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+99088
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+99099
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98999
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98998
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98593
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+99068
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98954
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98971
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98896
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98897
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98961
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98990
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98876
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98891
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98800
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98798
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98859
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98883
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98723
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98770
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98698
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98694
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98758
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98789
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98664
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98695
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98566
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98586
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98656
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98677
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98595
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98597
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98498
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98456
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98594
+FitnessFunction Is 
+3.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98398
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+98488
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+,
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from min to oclIsKindOf (line 120:1-120:24 of original transformation)
+]
+index
+98495
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Package (line 88:1-88:20 of original transformation)
+,
+-- MUTATION "Navigation Modification" from a.type to a.elems (line 99:9-99:15 of original transformation)
+]
+index
+98381
+FitnessFunction Is 
+2.0 9 11
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+98358
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+

@@ -1,0 +1,1595 @@
+first generation find solution
+50
+numberinitialerror
+5
+solutionsize
+100
+EstimatedTime
+67790999ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[]
+index
+1
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+2100
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+4978
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48950
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+44822
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+49976
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+42255
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47946
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+46003
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+47000
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+]
+index
+3676
+FitnessFunction Is 
+3.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49944
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49927
+FitnessFunction Is 
+3.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49969
+FitnessFunction Is 
+1.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49840
+FitnessFunction Is 
+1.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49873
+FitnessFunction Is 
+2.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49489
+FitnessFunction Is 
+2.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48900
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+40901
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49033
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47478
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+39946
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49646
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+38800
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48738
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+45759
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49844
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49695
+FitnessFunction Is 
+2.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+46585
+FitnessFunction Is 
+1.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47264
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48932
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+41730
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48797
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49795
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+39645
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+45886
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49747
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49707
+FitnessFunction Is 
+3.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48571
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48886
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+22299
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49722
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+42313
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49569
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+33589
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+49552
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48793
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49685
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49358
+FitnessFunction Is 
+2.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+37842
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47883
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+45566
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+35953
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49406
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+37466
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+47397
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49567
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49598
+FitnessFunction Is 
+3.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+45020
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48614
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49544
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49565
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+39446
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+45144
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48210
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+49354
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+44596
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49497
+FitnessFunction Is 
+3.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47142
+FitnessFunction Is 
+2.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+]
+index
+47861
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48566
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+46966
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47610
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+49385
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+46584
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+46216
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48214
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+45255
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49348
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49285
+FitnessFunction Is 
+2.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+30856
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+44011
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49335
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+26781
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49112
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+45107
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+49119
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+42792
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47525
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48582
+FitnessFunction Is 
+2.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+40428
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.owner (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48366
+FitnessFunction Is 
+5.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47578
+FitnessFunction Is 
+4.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+49125
+FitnessFunction Is 
+0.0 5 12
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+47195
+FitnessFunction Is 
+5.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+47902
+FitnessFunction Is 
+2.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+49024
+FitnessFunction Is 
+1.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+42691
+FitnessFunction Is 
+3.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+49128
+FitnessFunction Is 
+4.0 4 10
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-99:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 94:9-94:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 134:1-134:56 of original transformation)
+]
+index
+48338
+FitnessFunction Is 
+4.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+

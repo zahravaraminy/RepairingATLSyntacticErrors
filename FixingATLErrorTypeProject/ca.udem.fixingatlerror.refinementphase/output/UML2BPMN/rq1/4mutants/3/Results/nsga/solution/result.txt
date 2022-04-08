@@ -1,0 +1,1577 @@
+first generation find solution
+150
+numberinitialerror
+5
+solutionsize
+100
+EstimatedTime
+481237301ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+2441
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from toInteger:AcceptEventAction to toInteger:ComponentRealization (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" activities in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Expression (line 124:8-124:54 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Transition (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+5472
+FitnessFunction Is 
+6.0 3 6132
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" source in activity (line 134:3-137:4 of original transformation)
+]
+index
+10400
+FitnessFunction Is 
+1.0 7 6133
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+14921
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+]
+index
+19091
+FitnessFunction Is 
+1.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to target (line 115:4-115:27 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Trigger (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:SignalEvent (line 124:8-124:54 of original transformation)
+]
+index
+7280
+FitnessFunction Is 
+5.0 6 6132
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+24278
+FitnessFunction Is 
+5.0 0 6137
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingEdges in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InstanceValue (line 100:3-100:22 of original transformation)
+]
+index
+4561
+FitnessFunction Is 
+2.0 4 6134
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+45801
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" groups in activity (line 134:3-137:4 of original transformation)
+]
+index
+5325
+FitnessFunction Is 
+1.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+23813
+FitnessFunction Is 
+3.0 2 6135
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ActionExecutionSpecification (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+45607
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" lanes in activity (line 113:3-116:4 of original transformation)
+]
+index
+9483
+FitnessFunction Is 
+4.0 2 6133
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in p (line 51:3-51:19 of original transformation)
+]
+index
+27880
+FitnessFunction Is 
+4.0 1 6135
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from activities to documentation (line 53:4-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+49888
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+49896
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+25683
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+40947
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+22395
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" activities in activity (line 134:3-137:4 of original transformation)
+]
+index
+8056
+FitnessFunction Is 
+2.0 5 6133
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ReceiveSignalEvent (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+49759
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Creation of Binding" groups in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+6717
+FitnessFunction Is 
+3.0 3 6134
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to ncname (line 53:4-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+45645
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+9560
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+49145
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InstanceValue (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+6087
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+49184
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+10109
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+40651
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ProtocolStateMachine (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+49049
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+16176
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+14601
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+36440
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InterfaceRealization (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+45274
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48872
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+32948
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48580
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Node (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48520
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+40674
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48466
+FitnessFunction Is 
+1.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48497
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:StateInvariant (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+15186
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+24241
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48209
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CollaborationUse (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+44434
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+40334
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48112
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Enumeration (line 100:3-100:22 of original transformation)
+]
+index
+44301
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+44338
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+48055
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Extend (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+43946
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+43961
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+47921
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendOperationEvent (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+30727
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+]
+index
+43584
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from activities to documentation (line 53:4-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+47811
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionUse (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+39895
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+43408
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+39682
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ParameterSet (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+39703
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+47679
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+47587
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DataType (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+39633
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from activities to documentation (line 53:4-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+43244
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+47466
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+38942
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+43181
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+38554
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+35078
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionOperand (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+42913
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+47030
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+34354
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:StateInvariant (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+38513
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from activities to iD (line 53:4-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+]
+index
+46992
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46849
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:GeneralOrdering (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46886
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+34492
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+42540
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Signal (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46700
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46676
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46592
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Package (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+34243
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+26503
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46437
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Association (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46461
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46457
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+37768
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Usage (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+41920
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46382
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46261
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:TimeInterval (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+41832
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+37725
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+41678
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExtensionPoint (line 100:3-100:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+46200
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to iD (line 53:4-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+33467
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+]
+index
+41493
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InformationItem (line 100:3-100:22 of original transformation)
+]
+index
+46042
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 125:6-125:40 of original transformation)
+]
+index
+20113
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 103:8-103:52 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+45860
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Signal (line 100:3-100:22 of original transformation)
+]
+index
+33260
+FitnessFunction Is 
+2.0 3 6138
+number-error
+3
+------------------------------------------------------------------------------
+

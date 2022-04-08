@@ -1,0 +1,20 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+rule PetriNet {
+	from
+		n : PNML!NetElement
+	using{
+			arcsSet : Set(PNML!NetContentElement) =
+				n.contents->select(e|e.oclIsKindOf(PNML!Arc));
+	
+			}
+	to
+		p : PetriNet!PetriNet
+		(
+			elements <- n.contents,
+			arcs <- arcsSet
+		)
+}
+

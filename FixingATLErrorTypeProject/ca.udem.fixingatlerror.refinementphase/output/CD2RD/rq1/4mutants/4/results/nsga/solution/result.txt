@@ -1,0 +1,1411 @@
+first generation find solution
+17
+numberinitialerror
+3
+solutionsize
+100
+EstimatedTime
+63771449ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[]
+index
+3
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+988
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+1650
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+48386
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+48306
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48368
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+44278
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+27998
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+49965
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+50000
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+49508
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+49890
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+44454
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+46301
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+27885
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+49895
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+48383
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+49740
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+35954
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+]
+index
+49787
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+11110
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48178
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+43186
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+49641
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+40836
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+]
+index
+49664
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+38419
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+46191
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+44466
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+44102
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+49584
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+49600
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+49439
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+47984
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+49390
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+49496
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47801
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+]
+index
+49462
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+43605
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+49467
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+47634
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+47731
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+40576
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47794
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+43529
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+49342
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+49275
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+49271
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+43848
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+47628
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+41650
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+45554
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+49195
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+47531
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+43749
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47567
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+30786
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+49114
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+48778
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+43677
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+36945
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+49083
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+44938
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+49070
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+39017
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+48970
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+40048
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+45288
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+35904
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+45260
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+47327
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48855
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+23371
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+47254
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+41121
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+45131
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+47221
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+39870
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+41624
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48732
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+37598
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+48762
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+47985
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+47042
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+]
+index
+44885
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47002
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+32185
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+48614
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+45186
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+44748
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+44746
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+46917
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+13324
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+48565
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+46588
+FitnessFunction Is 
+2.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+48414
+FitnessFunction Is 
+2.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48401
+FitnessFunction Is 
+0.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from intersection to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 53:37-55:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Table (line 133:1-135:2 of original transformation)
+]
+index
+48449
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+]
+index
+42665
+FitnessFunction Is 
+1.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Type (line 133:1-135:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:8-52:14 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+]
+index
+44672
+FitnessFunction Is 
+3.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+

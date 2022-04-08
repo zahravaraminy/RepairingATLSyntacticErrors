@@ -1,0 +1,116 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+rule PetriNet {
+ from
+  n : PNML!PNMLDocument
+ using
+ {
+  elementsSet : Sequence(PNML!Place) = PNML!NetContentElement.allInstances();
+  arcsSet : Sequence(PNML!LabeledElement) = PNML!Arc.allInstances()->forAll(a |
+   a.source.oclIsKindOf(PNML!Place) and a.target.oclIsKindOf(PNML!Transition) or a.source.oclIsKindOf(PNML!Transition) and a.target.oclIsKindOf(PNML!Place)
+  );
+ }
+ to
+  p : PetriNet!PetriNet (
+   location <- n.location,
+   name <- if not n.nets->first().name.oclIsUndefined() then
+    n.nets->first().name.labels->first().text
+   else
+    'aPetriNet'
+   endif,
+   elements <- elementsSet,
+   arcs <- arcsSet
+  )
+}
+
+rule Place {
+ from
+  n : PNML!Arc
+ to
+  p : PetriNet!Place (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document
+  )
+}
+
+rule Transition {
+ from
+  n : PNML!Transition
+ to
+  p : PetriNet!Transition (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document
+  )
+}
+
+rule PlaceToTransition {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Place) and n.target.startsWith(PNML!URI)
+  )
+ to
+  p : PetriNet!PlaceToTransition (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document,
+   from <- n.net,
+   to <- n.target,
+   weight <- 0
+  )
+}
+
+rule TransitionToPlace {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Transition) and n.target.oclIsKindOf(PNML!Place)
+  )
+ to
+  p : PetriNet!TransitionToPlace (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document,
+   from <- n.source,
+   to <- n.target
+  )
+}
+
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+
+
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+
+
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+
+
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+
+
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+
+
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+

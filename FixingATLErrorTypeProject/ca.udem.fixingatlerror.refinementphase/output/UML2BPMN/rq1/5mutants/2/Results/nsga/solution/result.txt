@@ -1,0 +1,1979 @@
+first generation find solution
+-1
+numberinitialerror
+7
+solutionsize
+100
+EstimatedTime
+452271920ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+4702
+FitnessFunction Is 
+1.0 5 6145
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+16208
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" graph in activity (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Usage (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from graph to ncname (line 114 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isActive (line 39:12-39:21 of original transformation)
+]
+index
+19901
+FitnessFunction Is 
+7.0 2 6135
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingMessages in activity (line 132:3-135:4 of original transformation)
+]
+index
+46905
+FitnessFunction Is 
+1.0 8 6139
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+17456
+FitnessFunction Is 
+1.0 5 6145
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StringExpression (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:AddStructuralFeatureValueAction (line 119:3-119:22 of original transformation)
+]
+index
+47617
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:ActivityPartition to a:Duration (line 47:3-47:28 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:Association (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" title in d (line 38:3-42:4 of original transformation)
+]
+index
+19902
+FitnessFunction Is 
+6.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" eventHandlerFor in activity (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+12141
+FitnessFunction Is 
+3.0 4 6137
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+2042
+FitnessFunction Is 
+2.0 3 6145
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Package (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+43885
+FitnessFunction Is 
+3.0 3 6143
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+44363
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StringExpression (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ActivityParameterNode (line 119:3-119:22 of original transformation)
+]
+index
+42493
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in d (line 38:3-42:4 of original transformation)
+]
+index
+34084
+FitnessFunction Is 
+1.0 7 6140
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+30612
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 111:3-114:4 of original transformation)
+]
+index
+17094
+FitnessFunction Is 
+2.0 7 6137
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 111:3-114:4 of original transformation)
+]
+index
+40154
+FitnessFunction Is 
+2.0 6 6138
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ChangeEvent (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+49721
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+]
+index
+43559
+FitnessFunction Is 
+4.0 2 6141
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" eventHandlerFor in activity (line 132:3-135:4 of original transformation)
+]
+index
+5178
+FitnessFunction Is 
+2.0 6 6138
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ParameterSet (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+37559
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" author in e (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+14361
+FitnessFunction Is 
+4.0 3 6136
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+]
+index
+48791
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+37657
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:InstanceSpecification (line 52:5-52:34 of original transformation)
+]
+index
+45390
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ExtensionEnd (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ReadIsClassifiedObjectAction (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+49734
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 132:3-135:4 of original transformation)
+]
+index
+15255
+FitnessFunction Is 
+3.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestroyLinkAction (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+40077
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to looping (line 113:4-113:27 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:State (line 98:3-98:22 of original transformation)
+]
+index
+47663
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingEdges in d (line 38:3-42:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from oclIsKindOf to min (line 124:7-124:41 of original transformation)
+]
+index
+19433
+FitnessFunction Is 
+6.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+18500
+FitnessFunction Is 
+1.0 5 6145
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from artifacts to messages (line 41:4-41:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Continuation (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:State (line 98:3-98:22 of original transformation)
+]
+index
+49553
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Creation of Binding" isTransaction in d (line 38:3-42:4 of original transformation)
+]
+index
+22650
+FitnessFunction Is 
+2.0 7 6137
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" messages in d (line 38:3-42:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+49554
+FitnessFunction Is 
+2.0 6 6138
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+45065
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in e (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+47505
+FitnessFunction Is 
+2.0 5 6139
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+]
+index
+49649
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ExtensionEnd (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CallOperationAction (line 119:3-119:22 of original transformation)
+]
+index
+35016
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Pseudostate (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+47383
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Package (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+31992
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StringExpression (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:AddStructuralFeatureValueAction (line 119:3-119:22 of original transformation)
+]
+index
+44239
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+41631
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+47462
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from target to associations (line 92:4-92:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Continuation (line 103:7-103:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+41486
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Dependency (line 103:7-103:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+49374
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ProtocolStateMachine (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+26181
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:TimeExpression (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestroyLinkAction (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:DurationObservation (line 103:7-103:41 of original transformation)
+]
+index
+47185
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Extension (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+43166
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:TimeExpression (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+14661
+FitnessFunction Is 
+5.0 2 6138
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+40019
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:TimeExpression (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Device (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+30261
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:RaiseExceptionAction (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+41241
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ActionInputPin (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:LiteralString (line 52:5-52:34 of original transformation)
+]
+index
+46908
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CallEvent (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+41371
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+44651
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+49183
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Package (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:Pool to p:NamedBpmnObject (line 49:3-49:19 of original transformation)
+]
+index
+49017
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:EnumerationLiteral (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+49059
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Port (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Package (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CreateLinkAction (line 119:3-119:22 of original transformation)
+]
+index
+45488
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+20605
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+35974
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+41297
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:Pool to p:DataObject (line 49:3-49:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+40861
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StringExpression (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+42385
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CallBehaviorAction (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InputPin (line 103:7-103:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Trigger (line 52:5-52:34 of original transformation)
+]
+index
+44398
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Region (line 98:3-98:22 of original transformation)
+]
+index
+20700
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 132:3-135:4 of original transformation)
+]
+index
+39821
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+48965
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:Pool to p:TextAnnotation (line 49:3-49:19 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+46555
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:AcceptCallAction (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+42243
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExpansionNode (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:CallOperationAction (line 103:7-103:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:State (line 98:3-98:22 of original transformation)
+]
+index
+46540
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Profile (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+22383
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+41116
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ExtensionEnd (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+29802
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Package (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Class (line 103:7-103:41 of original transformation)
+]
+index
+48506
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from artifacts to messages (line 41:4-41:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:ReceiveOperationEvent (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:State (line 98:3-98:22 of original transformation)
+]
+index
+48408
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExecutionOccurrenceSpecification (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+26683
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+40963
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:ValueSpecificationAction (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:DurationObservation (line 103:7-103:41 of original transformation)
+]
+index
+46315
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Continuation (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+48485
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Port (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:ConnectionPointReference (line 103:7-103:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:State (line 98:3-98:22 of original transformation)
+]
+index
+46412
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Profile (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+40424
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+46459
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:LiteralBoolean (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+43822
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExpansionRegion (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:GeneralOrdering (line 52:5-52:34 of original transformation)
+]
+index
+48301
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:InformationFlow (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StringExpression (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:AddStructuralFeatureValueAction (line 119:3-119:22 of original transformation)
+]
+index
+48281
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:LiteralUnlimitedNatural (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+28109
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from activities to name (line 51:4-55:5 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+46358
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ReadExtentAction (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+46021
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from target to associations (line 92:4-92:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:LiteralString (line 52:5-52:34 of original transformation)
+]
+index
+44807
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from artifacts to messages (line 41:4-41:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ExceptionHandler (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:State (line 98:3-98:22 of original transformation)
+]
+index
+39762
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Dependency (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+2578
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+31256
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:TimeExpression (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Device (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+45043
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:GeneralOrdering (line 52:5-52:34 of original transformation)
+]
+index
+48041
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:Port (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Package (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:State (line 98:3-98:22 of original transformation)
+]
+index
+42923
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Lifeline (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+47872
+FitnessFunction Is 
+2.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+28235
+FitnessFunction Is 
+4.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:CallBehaviorAction (line 98:3-98:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+45213
+FitnessFunction Is 
+6.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExpansionNode (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:DurationObservation (line 103:7-103:41 of original transformation)
+]
+index
+47821
+FitnessFunction Is 
+7.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:TimeExpression (line 122:8-122:54 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.default to a.isReadOnly (line 39:12-39:21 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from endsWith to oclIsKindOf (line 101:8-101:51 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Device (line 124:7-124:41 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ConnectionPointReference (line 119:3-119:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+38675
+FitnessFunction Is 
+8.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+

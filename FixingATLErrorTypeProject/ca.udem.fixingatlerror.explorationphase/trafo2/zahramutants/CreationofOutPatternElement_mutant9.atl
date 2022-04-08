@@ -1,0 +1,16 @@
+-- @path MM=C:\Users\wael\OneDrive\atloperationsneon\mutants\anatlyzer.evaluation.mutants\trafo\a.ecore
+
+-- MUTATION "Creation of OutPattern Element" dummyPackagedChecker8 in name (line 5:1-12:2 of original transformation)
+
+module a;
+create OUT : MM from IN : MM;
+
+rule name {
+ from
+  a : MM!A
+ to
+  b : MM!A (
+   a <- a.a
+  ),
+  dummyPackagedChecker8 : MM!PackagedChecker
+}

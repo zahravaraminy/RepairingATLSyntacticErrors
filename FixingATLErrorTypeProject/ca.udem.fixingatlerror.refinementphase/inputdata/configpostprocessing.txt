@@ -1,0 +1,4 @@
+inputdata/metamodelwithatl/metamodels/PetriNet.ecore
+inputdata/metamodelwithatl/metamodels/PNML.ecore
+PetriNet
+PNML

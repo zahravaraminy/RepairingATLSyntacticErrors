@@ -1,0 +1,23 @@
+package deletion.rule.operator;
+
+import java.io.IOException;
+
+import org.eclipse.m2m.atl.core.emf.EMFModel;
+
+import witness.generator.MetaModel;
+import anatlyzer.atlext.ATL.Module;
+import anatlyzer.atlext.ATL.Rule;
+
+public class RuleDeletionMutator extends AbstractDeletionMutator {
+
+	@Override
+	public String generateMutants(EMFModel atlModel, MetaModel inputMM, MetaModel outputMM, String outputFolder) {
+		
+		return this.genericDeletion(atlModel, outputFolder, Module.class, Rule.class, "elements");
+	}
+
+	@Override
+	public String getDescription() {
+		return "Deletion of Rule";
+	}	
+}

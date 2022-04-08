@@ -1,0 +1,12 @@
+-- @path Petri1=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+module PetriNet2PetriNet;
+create OUT : PetriNet from IN : Petri1;
+rule copyPetriNet {
+    from
+        s : Petri1!PetriNet
+    to
+        t : PetriNet!PetriNet (
+            name <- s.name
+        )
+}

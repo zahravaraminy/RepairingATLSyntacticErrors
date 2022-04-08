@@ -1,0 +1,1517 @@
+first generation find solution
+53
+numberinitialerror
+4
+solutionsize
+100
+EstimatedTime
+62100148ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[]
+index
+69
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+]
+index
+5300
+FitnessFunction Is 
+3.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+10256
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48728
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48633
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+46020
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+38752
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+38821
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48511
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47983
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+34065
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48119
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+37476
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49704
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+37363
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+48671
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49897
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+]
+index
+44138
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49685
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+47287
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47243
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48477
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47792
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+26947
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48589
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49642
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47495
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+36244
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+40057
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+]
+index
+49323
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+37442
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+46225
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48564
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48374
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49571
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47327
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48376
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+43887
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49514
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+38054
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49662
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+30764
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+32258
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48857
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48273
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47263
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48344
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47209
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+24798
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+46868
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+33200
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49496
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+42560
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+44624
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48183
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+40504
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49452
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+39934
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+22129
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+46641
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49463
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+10459
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+31110
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49130
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49385
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47038
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47956
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+]
+index
+46589
+FitnessFunction Is 
+2.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+44541
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+28051
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48233
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+45191
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47268
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+43601
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+49124
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47935
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48972
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+43753
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+43519
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+45592
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47192
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48061
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48862
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+43423
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47841
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+46485
+FitnessFunction Is 
+2.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48800
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 90:1-90:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47965
+FitnessFunction Is 
+4.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+33331
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48040
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+44083
+FitnessFunction Is 
+0.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+46898
+FitnessFunction Is 
+2.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48894
+FitnessFunction Is 
+3.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+48462
+FitnessFunction Is 
+4.0 2 10
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+44347
+FitnessFunction Is 
+3.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+43340
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+38248
+FitnessFunction Is 
+4.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+48777
+FitnessFunction Is 
+1.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+42680
+FitnessFunction Is 
+3.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in out (line 51:1-57:2 of original transformation)
+]
+index
+47625
+FitnessFunction Is 
+1.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+

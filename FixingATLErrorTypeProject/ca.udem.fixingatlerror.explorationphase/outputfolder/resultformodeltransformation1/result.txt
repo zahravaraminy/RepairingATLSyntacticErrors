@@ -1,0 +1,61 @@
+first generation find solution
+-1
+numberinitialerror
+3
+solutionsize
+4
+EstimatedTime
+166784ms
+numberIteration
+12
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:PartDecomposition (line 105:7-105:41 of original transformation)
+]
+index
+1
+FitnessFunction Is 
+1.0 3 6143
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from toInteger:AcceptEventAction to toInteger:Trigger (line 103:8-103:52 of original transformation)
+]
+index
+5
+FitnessFunction Is 
+1.0 3 6143
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:OperationTemplateParameter (line 105:7-105:41 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:MessagingEdge (line 113:3-116:4 of original transformation)
+]
+index
+11
+FitnessFunction Is 
+2.0 4 6141
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingMessages in a (line 79:3-82:4 of original transformation)
+]
+index
+12
+FitnessFunction Is 
+1.0 5 6141
+number-error
+5
+------------------------------------------------------------------------------
+

@@ -1,0 +1,13 @@
+-- @path MM=C:\Users\wael\OneDrive\atloperationsneon\mutants\anatlyzer.evaluation.mutants\trafo\a.ecore
+
+-- MUTATION "Deletion of Binding" a in b (line 10:4-10:12 of original transformation)
+
+module a;
+create OUT : MM from IN : MM;
+
+rule name {
+ from
+  a : MM!A
+ to
+  b : MM!A
+}

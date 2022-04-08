@@ -1,0 +1,158 @@
+-- @path UML=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\UML2_3_0_0.ecore
+-- @path Intalio=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\bpmn.ecore
+module UML2Intalio;
+create OUT : Intalio from IN : UML;
+
+helper context UML!NamedElement def: name : String =
+ if self.name.oclIsUndefined() then
+  ''
+ else
+  self.name
+ endif;
+
+helper context UML!NamedElement def: toIntalioName : String =
+ self.name + '_' + self.oclType().name;
+
+helper context UML!Activity def: allPartitions : Sequence(UML!ActivityPartition) =
+ self.partition->collect(p |
+  p.allPartitions
+ )->flatten();
+
+helper context UML!ActivityPartition def: allPartitions : Sequence(UML!ActivityPartition) =
+ self.subpartition->collect(p |
+  p.allPartitions
+ )->flatten();
+
+helper context UML!ExecutableNode def: language : String =
+ '';
+
+helper context UML!ActivityNode def: transformed : Boolean =
+ self.oclIsKindOf(UML!ExecutableNode) or self.oclIsKindOf(UML!InitialNode) and self.incoming->isEmpty() or self.oclIsKindOf(UML!InitialNode) and self.incoming->exists(edge |
+  edge.source.oclIsKindOf(UML!AcceptEventAction)
+ );
+
+rule activity2diagram {
+ from
+  a : UML!Activity
+ to
+  d : Intalio!BpmnDiagram (
+   name <- a.name,
+   pools <- a.allPartitions,
+   artifacts <- UML!ObjectNode.allInstances()
+  )
+}
+
+rule activitypartition2pool {
+ from
+  a : UML!ActivityPartition
+ to
+  p : Intalio!Pool,
+  l : Intalio!Lane (
+   activities <- a.node->reject(e |
+    e.indexOf(UML!ObjectNode)
+   )->exists(e |
+    e.transformed
+   )
+  )
+}
+
+rule opaqueaction {
+ from
+  n : UML!OpaqueAction
+ to
+  a : Intalio!Activity (
+   name <- n.toIntalioName
+  )
+}
+
+rule initialnode {
+ from
+  n : UML!InitialNode
+  (
+   not n.incoming->exists(edge |
+    edge.source.oclIsKindOf(UML!AcceptEventAction)
+   )
+  )
+ to
+  a : Intalio!Activity (
+   name <- n.toIntalioName,
+   activityType <- #EventStartEmpty
+  )
+}
+
+rule edges {
+ from
+  f : UML!ControlFlow
+  (
+   f.source.transformed and f.target.transformed
+  )
+ to
+  e : Intalio!SequenceEdge (
+   source <- f.source,
+   target <- f.target
+  )
+}
+
+rule initialnode_message {
+ from
+  n : UML!InitialNode
+  (
+   n.incoming->exists(edge |
+    if edge.source.oclIsKindOf(UML!Comment) then
+     not edge.outgoing.trigger->exists(t |
+      t.event.oclIsKindOf(UML!TimeEvent)
+     )
+    else
+     false
+    endif
+   )
+  )
+ to
+  activity : Intalio!Activity (
+   activityType <- #EventStartMessage,
+   name <- n.toIntalioName
+  )
+}
+
+rule initialnode_timer {
+ from
+  n : UML!InitialNode
+  (
+   n.incoming->exists(edge |
+    if edge.source.oclIsKindOf(UML!AcceptEventAction) then
+     edge.source.oclAsType(UML!AcceptEventAction).trigger->exists(t |
+      t.event.oclIsKindOf(UML!TimeEvent)
+     )
+    else
+     false
+    endif
+   )
+  )
+ to
+  activity : Intalio!Activity (
+   activityType <- #EventStartTimer,
+   name <- n.toIntalioName
+  )
+}
+
+rule executable2activity {
+ from
+  n : UML!ExecutableNode
+  (
+   not n.oclIsTypeOf(UML!OpaqueAction)
+  )
+ to
+  a : Intalio!Activity (
+   name <- n.toIntalioName + '_exec_' + n.language
+  )
+}
+
+rule objectnode {
+ from
+  n : UML!ObjectNode
+ to
+  a : Intalio!Artifact
+}
+
+-- MUTATION "Navigation Modification" from edge.source to edge.outgoing (line 104:10-104:21 of original transformation)
+

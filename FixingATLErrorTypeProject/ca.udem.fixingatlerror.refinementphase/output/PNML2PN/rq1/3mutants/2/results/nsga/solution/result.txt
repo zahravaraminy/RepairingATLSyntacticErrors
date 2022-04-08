@@ -1,0 +1,1621 @@
+first generation find solution
+18
+numberinitialerror
+3
+solutionsize
+100
+EstimatedTime
+83702113ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+40
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+8603
+FitnessFunction Is 
+3.0 0 61
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+33912
+FitnessFunction Is 
+4.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+41599
+FitnessFunction Is 
+4.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+28502
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+42482
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+19989
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+]
+index
+36771
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+49983
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+40902
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+49504
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.type (line 49:13-49:23 of original transformation)
+]
+index
+44573
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+45665
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+49487
+FitnessFunction Is 
+2.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+45667
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+39674
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+37903
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+44996
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+44844
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+43995
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+41471
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+34606
+FitnessFunction Is 
+4.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+28351
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+42630
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+18019
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+49383
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+47475
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+35618
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+47664
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+47616
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+46199
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" to in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+]
+index
+42805
+FitnessFunction Is 
+4.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+36295
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+45727
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+49465
+FitnessFunction Is 
+3.0 2 59
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+5334
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+47634
+FitnessFunction Is 
+2.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+43273
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+3367
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+46251
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+13051
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+]
+index
+34169
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" to in p (line 48:1-56:2 of original transformation)
+]
+index
+49402
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+36807
+FitnessFunction Is 
+4.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+12803
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+49388
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+25753
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+49171
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+46052
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+40572
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+24882
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+25734
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+36871
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+40350
+FitnessFunction Is 
+4.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+13030
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+3625
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+49032
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+46548
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+34726
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+44494
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+44178
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+44474
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+33673
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" to in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+]
+index
+37470
+FitnessFunction Is 
+4.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+23372
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+19300
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+48824
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+47013
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+47320
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+28320
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+44244
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+]
+index
+40125
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+42030
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+16145
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+48560
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+44814
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+]
+index
+48341
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+30839
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+45444
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+45573
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+]
+index
+42990
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+41849
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+3945
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+43582
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+43679
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+33551
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+44917
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+45175
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 48:1-56:2 of original transformation)
+]
+index
+37186
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+21062
+FitnessFunction Is 
+4.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+48509
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+8068
+FitnessFunction Is 
+1.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+32818
+FitnessFunction Is 
+2.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+47905
+FitnessFunction Is 
+3.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.source to n.net (line 74:9-74:17 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+26098
+FitnessFunction Is 
+4.0 1 59
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.net (line 75:7-75:15 of original transformation)
+]
+index
+42864
+FitnessFunction Is 
+2.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.type (line 49:13-49:23 of original transformation)
+]
+index
+4033
+FitnessFunction Is 
+3.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+]
+index
+46296
+FitnessFunction Is 
+4.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingArc in p (line 48:1-56:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:NetElement (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 68:16-68:34 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+48328
+FitnessFunction Is 
+4.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Transition (line 46:1-46:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 63:1-63:36 of original transformation)
+]
+index
+48189
+FitnessFunction Is 
+3.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+

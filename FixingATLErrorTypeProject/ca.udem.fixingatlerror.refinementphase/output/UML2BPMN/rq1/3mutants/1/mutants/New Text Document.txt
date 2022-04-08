@@ -1,0 +1,397 @@
+          if (value.size()==0)
+                                	checkmutationapply = false;
+								// for (int i=0; i<value.size(); i++) {
+								if (value.size() > 0) {
+									int randomInt3 = calculaterandomInt2(value);
+							//		NSGAII.writer.println(randomInt3);
+									// EObject oldFeatureValue = value.get(i);
+									EObject oldFeatureValue2 = value.get(randomInt3);
+										//		 System.out.println(solution.listfilterdeletion);
+							//		  System.out.println(Integer.parseInt(array[0]));
+									 
+								//	  System.out.println( oldFeatureValue2.eClass().getEPackage().getEClassifier("OclModelElement").isInstance(oldFeatureValue2));
+									if (!oldFeatureValue2.eClass().getEPackage().getEClassifier("OclModelElement").isInstance(oldFeatureValue2)) 
+										checkmutationapply = false;
+									if (oldFeatureValue2.eClass().getEPackage().getEClassifier("OclModelElement").isInstance(oldFeatureValue2)) 
+									{
+										
+									//	NSGAII.writer.println("apply");
+										
+									// ye class dige baraye dakhele ocl entekhab kon
+									List<EObject> replacements = this.replacements(atlModel,
+											(EObject) oldFeatureValue2, metamodels);
+									
+									
+									boolean findreplace = false;
+										
+										int randomInt4 = 0;
+										boolean perivoustype=false;
+										int numloop=1;
+										while(findreplace==false) {
+											
+											
+											 randomInt4 = calculaterandomInt(replacements);	
+											 
+											 int randomIntvar = -2;
+											 // list hameye navigationha 
+											 List<VariableExp> variables = (List<VariableExp>)wrapper.allObjectsOf(VariableExp.class);
+											 	boolean findcorrectnavigation=false;
+											 	String typenavigation = null;
+											 	while(findcorrectnavigation==false) {
+													//choose randomly one navigation
+													List<Integer> Resultvariable = ReturnFirstIndex(randomIntvar,  variables.size(), checkmutationapply, count, solution);
+													randomIntvar = Resultvariable.get(0);
+													// line of navigation 
+													String[] arrayvariable = variables.get(randomIntvar).getLocation().split(":", 2);
+													EObject navigationExpression = variables.get(randomIntvar).eContainer();
+												//	System.out.println("pppppppppppp");
+												//	System.out.println(Integer.parseInt(array[0]));
+												//	System.out.println(Integer.parseInt(arrayvariable[0]));
+													// line navigation ke khate badi ba ocliskind barabar bashe 
+													if(navigationExpression instanceof NavigationOrAttributeCallExp && Integer.parseInt(arrayvariable[0])==(Integer.parseInt(array[0])-1)) {
+														System.out.println("vvvvvvvvvvvvv");
+													//	System.out.println(Integer.parseInt(arrayvariable[0]));
+														EStructuralFeature featureDefinitionvar = wrapper.source(navigationExpression).eClass().getEStructuralFeature("name");
+														Object object2modify_src2 = wrapper.source(navigationExpression).eGet(featureDefinitionvar);
+													//	System.out.println("oooooooooooolllllllld");
+														// avalin attribut navigation
+														String attributenavigation=object2modify_src2.toString();
+													//	System.out.println(attributenavigation);
+														EObject navigationExpression2 = variables.get(randomIntvar+1).eContainer();
+														EStructuralFeature featureDefinitionvar2 = wrapper.source(navigationExpression2).eClass().getEStructuralFeature("name");
+														// dovomin attibute navigation
+														Object object2modify_src3 = wrapper.source(navigationExpression2).eGet(featureDefinitionvar2);
+														
+														
+																	// list kon  hameye inpattern ha
+														List<InPatternElement> listinpattern = (List<InPatternElement>) wrapper.allObjectsOf(InPatternElement.class);
+														EStructuralFeature featureDefinitionpattern = wrapper.source(listinpattern.get(indexrule)).eClass()
+																.getEStructuralFeature("type");
+														// inpattern in rule ra begir
+														EObject object2modify_pt = wrapper.source(listinpattern.get(indexrule));
+														EObject oldFeatureValue = (EObject) object2modify_pt.eGet(featureDefinitionpattern);
+														 typenavigation=toString(oldFeatureValue);
+													//	 System.out.println("inpattern");
+														//	System.out.println(typenavigation);
+															// khat in ocl ra az list ocl ha peyda kon
+															int index=NSGAIIpostprocessing.ocliskineoflocation.indexOf(Integer.parseInt(array[0]) );
+														//	System.out.println("index");
+														//	System.out.println(Integer.parseInt(array[0]));
+														//	System.out.println(NSGAIIpostprocessing.ocliskineoflocation);
+														//	System.out.println(NSGAIIpostprocessing.faultrule.get(indexrule));
+														//	System.out.println(index);
+															// az in khat chan ta ocl ghablesh hast , albate toye hamin rule
+															
+															for(int k=0;k<index;k++) {
+																if(NSGAIIpostprocessing.faultrule.get(indexrule)<NSGAIIpostprocessing.ocliskineoflocation.get(k))
+																{
+																	numloop=numloop+1;
+																}
+																
+															}
+															
+															if(numloop==2) {
+																if(NSGAIIpostprocessing.alllistnavigationsplitdot.contains( Integer.toString(Integer.parseInt(array[0])-1) )) {
+																	
+																	int index2=NSGAIIpostprocessing.alllistnavigationsplitdot.indexOf(Integer.toString(Integer.parseInt(array[0])-1)  );
+																	
+																	String str=NSGAIIpostprocessing.alllistnavigationsplitdot.get(index2+1);
+																	for(int h=0;h<NSGAIIpostprocessing.listsourcemetamodel.size();h++) {
+																	if(NSGAIIpostprocessing.listsourcemetamodel.get( h).getName().equals( str))
+																		typenavigation=NSGAIIpostprocessing.listnavigationtype.get( h);
+																	
+																	}	
+																	
+																	attributenavigation= object2modify_src3.toString();
+																	int indexclassname=NSGAIIpostprocessing.classnamestring.indexOf( typenavigation);
+																	System.out.println("pp");
+																	System.out.println(typenavigation);
+																	for(int i=NSGAIIpostprocessing.classnamestartpoint.get(indexclassname);i<NSGAIIpostprocessing.classnamestartpoint.get(indexclassname)+NSGAIIpostprocessing.classnamelength.get(indexclassname);i++) {
+																		
+																		if(NSGAIIpostprocessing.listinheritattributesourcemetamodel.get(i).getName().equals(attributenavigation)) {
+																			
+																			typenavigation=NSGAIIpostprocessing.listnavigationtypeinheritattr.get(i);
+																			System.out.println(typenavigation);
+																		
+																			
+																		}
+																	}
+																	
+																	
+																	
+																	
+																	
+																}
+																int randomInttw=-2;
+																List<Integer> Resultvariable2= ReturnFirstIndex(randomIntvar,  variables.size(), checkmutationapply, count, solution);
+																randomInttw = Resultvariable2.get(0);
+																String[] arrayvariable2 = variables.get(randomInttw).getLocation().split(":", 2);
+																
+														
+															/*	while(findpreviousocl==false) {
+																	List<Integer> Result2 = ReturnFirstIndex(randomInt, modifiable.size(), checkmutationapply, count,solution);
+																	randomInttw = Result2.get(0);
+																	String[] array2 = modifiable.get(randomInttw).getLocation().split(":", 2);
+																	System.out.println("inside");
+																	System.out.println(Integer.parseInt(array2[0])); 
+																	
+																	if(Integer.parseInt(array2[0])> NSGAIIpostprocessing.faultrule.get(indexrule)   
+																			&& Integer.parseInt(array2[0])< Integer.parseInt(array[0]))
+																	{
+																		System.out.println(Integer.parseInt(array2[0]));
+																	findpreviousocl=true;
+																	}
+																	
+																}*/
+																
+																
+																
+																
+																
+															}
+														//	System.out.println("numloop");
+														//	System.out.println(numloop);
+															if( numloop==1) {
+														for(int k=0;k<2;k++) {
+														int indexclassname=NSGAIIpostprocessing.classnamestring.indexOf( typenavigation);
+													//	String typenavigation=null;
+														for(int i=NSGAIIpostprocessing.classnamestartpoint.get(indexclassname);i<NSGAIIpostprocessing.classnamestartpoint.get(indexclassname)+NSGAIIpostprocessing.classnamelength.get(indexclassname);i++) {
+															
+															if(NSGAIIpostprocessing.listinheritattributesourcemetamodel.get(i).getName().equals(attributenavigation)) {
+																
+																typenavigation=NSGAIIpostprocessing.listnavigationtypeinheritattr.get(i);
+																//System.out.println(attributenavigation);
+															
+																
+															}
+														}
+														
+														attributenavigation=object2modify_src3.toString();
+														
+													//	System.out.println("typebadi");
+													//	System.out.println(typenavigation);
+													
+													//	System.out.println(attributenavigation);
+														}
+													}
+													//	System.out.println(toString(oldFeatureValue));
+													//	System.out.println(NSGAIIpostprocessing.classnamestring.size());
+													//	System.out.println(NSGAIIpostprocessing.classnamestartpoint);
+													//	System.out.println(NSGAIIpostprocessing.listsourcemetamodel.size());
+														
+													//	System.out.println(NSGAIIpostprocessing.listinheritattributesourcemetamodel.size());
+													//	System.out.println(NSGAIIpostprocessing.listnavigationtypeinheritattr);
+													//	System.out.println(NSGAIIpostprocessing.listnavigationtype.size());
+													//	System.out.println(NSGAIIpostprocessing.classnamelength);
+														
+														findcorrectnavigation=true;
+												    	
+												    }
+													
+													
+												}
+												
+											 	Settingpostprocessing s=new Settingpostprocessing();
+												String MMRootPath2     = s.gettargetmetamodel();
+												 MetaModel metatarget=null;
+												
+												 try {
+														metatarget=new MetaModel(MMRootPath2);
+													} catch (transException e) {
+														// TODO Auto-generated catch block
+														e.printStackTrace();
+													}
+													 
+													 EClass childo=null;
+													 EClass child2o=null;
+													 EClass child3o=null;
+													// find inside ocl in list of classifier
+													 for (EClassifier classifier : metatarget.getEClassifiers()) {
+														 
+														 if (classifier instanceof EClass) {
+															 
+															 EClass child = ((EClass) classifier);
+															 
+															 if(child.getName().equals(typenavigation )) {
+																 childo=child;
+																 
+														//		 System.out.println("Aiiiiiiiiiiii");
+														//			System.out.println(typenavigation);
+																
+																 
+															 }
+														 }
+													 }
+												//	 System.out.println(toString(replacements.get(randomInt4)));
+													boolean correctattr=false;
+													boolean correctattrnew=false;
+													boolean attrerror=false;
+													 for (EClassifier classifier2 : metatarget.getEClassifiers()) {
+															if (classifier2 instanceof EClass) {
+																 
+																EClass child2 = ((EClass) classifier2);
+																EClass child3 = ((EClass) classifier2);
+																 if(child2.getName().equals(toString(oldFeatureValue2)) ) {
+																	 child2o=child2;
+																	 //agar in rule joz rule hast ke attr ocl ke error dare tosh hast 
+																	 if(NSGAIIpostprocessing.errattoclrule.contains( indexrule) && numloop==1 ) {
+																//	 System.out.println("pppppppppp");
+																//	 System.out.println(toString(oldFeatureValue2));
+																	 //hameye attribute in class check kon aya attr ke to ocl error dare dare ya na 
+																	for(int  y=0;y<classifier2.eContents().size();y++) {
+																		if (classifier2.eContents().get(y) instanceof EAttribute
+																				||classifier2.eContents().get(y) instanceof EReference ) {
+																		// System.out.println(((EStructuralFeature) classifier2.eContents().get(y)).getName());
+																			if(NSGAIIpostprocessing.errattrargumentop.contains(((EStructuralFeature) classifier2.eContents().get(y)).getName())) {
+																		
+																			
+																				attrerror=true;
+																			//System.out.println(attributenavigation);
+																		
+																		
+																		}
+																		}
+																	}
+																	 
+																	
+																//	 System.out.println("iiiiiiiiiiii");
+																		//System.out.println(typenavigation);
+																//		System.out.println(toString(oldFeatureValue2));
+																 }
+																	 else {
+																		 attrerror=true;
+																	 }
+																	 
+																 }
+																 	
+																
+																 if(child3.getName().equals(toString(replacements.get(randomInt4))) ) {
+																	 child3o=child3;
+																	 if(NSGAIIpostprocessing.errattoclrule.contains( indexrule) && numloop==1) {
+																	 for(int  y=0;y<classifier2.eContents().size();y++) {
+																			if (classifier2.eContents().get(y) instanceof EAttribute
+																					||classifier2.eContents().get(y) instanceof EReference ) {
+																			// System.out.println(((EStructuralFeature) classifier2.eContents().get(y)).getName());
+																				if(NSGAIIpostprocessing.errattrargumentop.contains(((EStructuralFeature) classifier2.eContents().get(y)).getName())) {
+																			
+																				
+																				correctattrnew=true;
+																				//System.out.println(attributenavigation);
+																			
+																			
+																			}
+																			}
+																		}
+																	 }
+																	 else {
+																		 correctattrnew=true;
+																		 
+																	 }
+																	// System.out.println("oooiiiiiiiiiiii");
+																	// System.out.println(NSGAIIpostprocessing.ocliskineoflocationoriginal);
+																		//System.out.println(typenavigation);
+																	//	System.out.println(toString(replacements.get(randomInt4)));
+																	 
+																 }
+																
+																 
+															
+															}
+															
+														}
+												
+													System.out.println (toString(replacements.get(randomInt4)));
+															 System.out.println("zz");
+													 System.out.println(childo.getName());
+													 System.out.println(child2o.getName());
+													 System.out.println(child3o.getName());
+													 
+													 // aya in rule attr ocl ke error dare dare ya na 
+													 if(!NSGAIIpostprocessing.errattoclrule.contains( indexrule)) {
+													 if(childo.isSuperTypeOf(child2o) && (correctattr==true || attrerror==true)) {
+														 
+														 
+														 findreplace=true;
+														 perivoustype=true;
+														 checkmutationapply = true;
+														 
+													 }
+													 if(childo.isSuperTypeOf(child3o) && perivoustype==false && correctattrnew==true) {
+													//	 System.out.println("2yyyyyyyyyyyyy");
+														 findreplace=true;
+														 perivoustype=false;
+														 checkmutationapply = true;
+														 
+													 }
+													 }
+													 else {
+														 if((childo.isSuperTypeOf(child2o) && attrerror==true) 
+																) {
+															 
+															 findreplace=true;
+															 perivoustype=true;
+															 checkmutationapply = true;
+															 
+														 }
+														 if(
+																 childo.isSuperTypeOf(child3o) && perivoustype==false &&correctattrnew==true ) {
+															 
+															 
+															 perivoustype=false;
+															 findreplace=true;
+															 checkmutationapply = true;
+															 
+														 }
+														if (correctattr==false && correctattrnew==false)
+															findreplace=false;
+														
+														 
+													 }
+													// System.out.println("attributnewclass");
+													//	System.out.println( attrerror);
+													//	System.out.println( correctattrnew);
+													//	System.out.println( perivoustype);
+													
+											
+									//		if (!toString(oldFeatureValue2).equals(toString(replacements.get(randomInt4))))
+										//		findreplace=true;
+											}
+										
+										//System.out.println(randomInt4);
+										if(perivoustype==false) {
+										NSGAII.argumentlist.add(String.valueOf(indexrule));
+										NSGAII.argumentlist.add(toString(replacements.get(randomInt4)));
+										setvariable(randomInt, randomInt4, randomInt3);
+										copyFeatures(oldFeatureValue2, replacements.get(randomInt4));
+								//		NSGAII.writer.println(Operations.statecase);
+										value.set(randomInt3, replacements.get(randomInt4));
+									//	if (comments != null)
+											comments.add("\n-- MUTATION \"" + this.getDescription() + "\" from "
+													+ toString(modifiable.get(randomInt)) + ":" + toString(oldFeatureValue2)
+													+ " to " + toString(modifiable.get(randomInt)) + ":"
+													+ toString(replacements.get(randomInt4)) + " (line "
+													+ modifiable.get(randomInt).getLocation()
+													+ " of original transformation)\n");
+											System.out.println("\n-- MUTATION \"" + this.getDescription() + "\" from "
+													+ toString(modifiable.get(randomInt)) + ":" + toString(oldFeatureValue2)
+													+ " to " + toString(modifiable.get(randomInt)) + ":"
+													+ toString(replacements.get(randomInt4)) + " (line "
+													+ modifiable.get(randomInt).getLocation()
+													+ " of original transformation)\n");
+										comment = "\n-- MUTATION \"" + this.getDescription() + "\" from "
+												+ toString(modifiable.get(randomInt)) + ":" + toString(oldFeatureValue2)
+												+ " to " + toString(modifiable.get(randomInt)) + ":"
+												+ toString(replacements.get(randomInt4)) + " (line "
+												+ modifiable.get(randomInt).getLocation()
+												+ " of original transformation)\n";
+										NSGAII.numop = NSGAII.numop + 1;
+										checkmutationapply = true;
+										ReturnResult.set(0, wrapper);
+										ReturnResult.set(1, atlModel);
+										ReturnResult.add(comment);
+										}
+									}
+
+									//	}
+
+								}	}

@@ -1,0 +1,171 @@
+-- @path Class=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\Class.ecore
+-- @path Relational=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\Relational.ecore
+module Class2Relational;
+create OUT : Relational from IN : Class;
+
+helper context Class!NamedElt def: name : String =
+ if self.name.oclIsUndefined() then
+  ''
+ else
+  self.name
+ endif;
+
+helper context Class!Attribute def: multiValued : Boolean =
+ if self.multiValued.oclIsUndefined() then
+  false
+ else
+  self.multiValued
+ endif;
+
+helper def: defaultType : String =
+ 'Integer';
+
+helper def: objectIdType(idType : String) : Class!DataType =
+ Class!DataType.allInstances()->any(e |
+  e.name = idType
+ );
+
+rule Package2Schema {
+ from
+  p : Class!NamedElt
+ to
+  s : Relational!Schema (
+   tables <- p.elems->select(e |
+    e.oclIsKindOf(Class!Classifier)
+   )->reject(e |
+    e.isAbstract
+   ),
+   types <- p.elems->select(e |
+    e.oclIsKindOf(Class!DataType)
+   ),
+   name <- p.name
+  )
+}
+
+rule Class2Table {
+ from
+  c : Class!Class
+  (
+   not c.isAbstract
+  )
+ to
+  out : Relational!Named (
+   name <- c.name,
+   col <- Sequence {key}->union(c.att->select(e |
+    not e.multiValued
+   )),
+   col <- c.owner,
+   tables <- Set {key}
+  ),
+  key : Relational!Column (
+   name <- 'objectId',
+   tables <- thisModule.objectIdType(thisModule.defaultType)
+  )
+}
+
+rule DataType2Type {
+ from
+  dt : Class!DataType
+ to
+  out : Relational!Schema (
+   name <- dt.name,
+   key <- dt.elems
+  )
+}
+
+rule DataTypeAttribute2Column {
+ from
+  a : Class!Classifier
+  (
+   a.type.oclIsKindOf(Class!Schema) and not a.multiValued
+  )
+ to
+  out : Relational!Column (
+   name <- a.name,
+   type <- a.type
+  )
+}
+
+rule MultiValuedDataTypeAttribute2Column {
+ from
+  a : Class!Attribute
+  (
+   a.type.oclIsKindOf(Class!DataType) and a.multiValued
+  )
+ to
+  out : Relational!NamedElt (
+   col <- a.owner.name + '_' + a.name,
+   col <- Sequence {thisModule.createIdColumn(a.owner), value}
+  ),
+  value : Relational!Schema (
+   name <- a.name,
+   tables <- a.tables
+  )
+}
+
+rule ClassAttribute2Column {
+ from
+  a : Class!Package
+  (
+   a.type.oclIsKindOf(Class!Class) and not a.multiValued
+  )
+ to
+  foreignKey : Relational!Column (
+   name <- a.name + 'Id',
+   type <- thisModule.objectIdType(thisModule.defaultType)
+  )
+}
+
+rule MultiValuedClassAttribute2Column {
+ from
+  a : Class!Attribute
+  (
+   a.type.oclIsKindOf(Class!Column) and a.multiValued
+  )
+ to
+  t : Relational!Column (
+   name <- a.owner.name + '_' + a.name,
+   col <- Sequence {thisModule.createIdColumn(a.owner), thisModule.createIdColumn(a)}
+  )
+}
+
+lazy rule createIdColumn {
+ from
+  ne : Class!NamedElt
+ to
+  key : Relational!Named (
+   name <- ne.name,
+   tables <- thisModule.objectIdType(thisModule.defaultType),
+   col <- ne.name
+  )
+}
+
+-- MUTATION "Binding-target Modification" from type to tables (line 49:4-49:59 of original transformation)
+
+
+-- MUTATION "InPattern Element Modification" from a:DataType to a:Classifier (line 65:3-65:21 of original transformation)
+
+
+-- MUTATION "Deletion of Binding" type in value (line 87:4-87:18 of original transformation)
+
+
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Named (line 119:3-124:4 of original transformation)
+
+
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 85:3-89:4 of original transformation)
+
+
+-- MUTATION "OutPattern Element Modification" from t:Classifier to t:Type (line 110:3-113:4 of original transformation)
+
+
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Class to oclIsKindOf:Classifier (line 30:38-30:64 of original transformation)
+
+
+-- MUTATION "Binding-target Modification" from name to col (line 82:4-82:39 of original transformation)
+
+
+-- MUTATION "Binding-target Modification" from type to tables (line 121:4-121:59 of original transformation)
+
+
+-- MUTATION "OutPattern Element Modification" from t:Type to t:Column (line 110:3-113:4 of original transformation)
+

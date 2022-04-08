@@ -1,0 +1,1939 @@
+first generation find solution
+335
+numberinitialerror
+6
+solutionsize
+100
+EstimatedTime
+93149785ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+]
+index
+6651
+FitnessFunction Is 
+1.0 4 61
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:NetElement (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+29373
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+38510
+FitnessFunction Is 
+6.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:PNMLDocument (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to from (line 95:1-95:21 of original transformation)
+]
+index
+47476
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+47142
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:NetElement (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+]
+index
+26008
+FitnessFunction Is 
+4.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+]
+index
+36914
+FitnessFunction Is 
+5.0 2 59
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+49056
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+46492
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+14580
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+36326
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+49951
+FitnessFunction Is 
+6.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:PNMLDocument (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to from (line 95:1-95:21 of original transformation)
+]
+index
+44767
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.id (line 95:13-95:21 of original transformation)
+]
+index
+47105
+FitnessFunction Is 
+7.0 1 58
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+]
+index
+46811
+FitnessFunction Is 
+4.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Label (line 83:43-83:78 of original transformation)
+]
+index
+21400
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+]
+index
+29468
+FitnessFunction Is 
+2.0 3 61
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:NetElement (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+]
+index
+33599
+FitnessFunction Is 
+3.0 2 61
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+]
+index
+41925
+FitnessFunction Is 
+7.0 1 58
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:PNMLDocument (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+36871
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+]
+index
+36818
+FitnessFunction Is 
+6.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to net (line 95:1-95:21 of original transformation)
+]
+index
+38035
+FitnessFunction Is 
+5.0 2 59
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+47904
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Name (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+49981
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+34299
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:NetElement (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+39904
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+18288
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to from (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+]
+index
+49755
+FitnessFunction Is 
+6.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+]
+index
+17464
+FitnessFunction Is 
+4.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.id (line 95:13-95:21 of original transformation)
+]
+index
+44806
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+34861
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+39580
+FitnessFunction Is 
+6.0 0 60
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+]
+index
+45227
+FitnessFunction Is 
+7.0 1 58
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:PNMLDocument (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+]
+index
+45663
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+]
+index
+46020
+FitnessFunction Is 
+5.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+]
+index
+48938
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Arc (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+49770
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+]
+index
+49792
+FitnessFunction Is 
+3.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+47693
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:PNMLDocument (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+48878
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+48144
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+49618
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+]
+index
+47534
+FitnessFunction Is 
+4.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+38381
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+]
+index
+49599
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+27209
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Label (line 83:43-83:78 of original transformation)
+]
+index
+48044
+FitnessFunction Is 
+4.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.id (line 95:13-95:21 of original transformation)
+]
+index
+44196
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Arc (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+]
+index
+47024
+FitnessFunction Is 
+5.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+19942
+FitnessFunction Is 
+6.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+47457
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to from (line 95:1-95:21 of original transformation)
+]
+index
+38213
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+]
+index
+48947
+FitnessFunction Is 
+4.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+10832
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+24623
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.id (line 95:13-95:21 of original transformation)
+]
+index
+36202
+FitnessFunction Is 
+6.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+39147
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Name (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+48651
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+]
+index
+46803
+FitnessFunction Is 
+5.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Name (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+]
+index
+49510
+FitnessFunction Is 
+4.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Place (line 83:43-83:78 of original transformation)
+]
+index
+49598
+FitnessFunction Is 
+3.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+]
+index
+46867
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+46014
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.id (line 95:13-95:21 of original transformation)
+]
+index
+35391
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+]
+index
+45363
+FitnessFunction Is 
+4.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Name (line 83:43-83:78 of original transformation)
+]
+index
+39326
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+4270
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Transition to oclIsKindOf:URI (line 83:1-83:38 of original transformation)
+]
+index
+48855
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Transition (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+]
+index
+40171
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to from (line 95:1-95:21 of original transformation)
+]
+index
+39030
+FitnessFunction Is 
+6.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Name (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+46616
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:NetElement (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+]
+index
+45438
+FitnessFunction Is 
+2.0 3 61
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.id (line 95:13-95:21 of original transformation)
+]
+index
+49448
+FitnessFunction Is 
+5.0 2 59
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+48203
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+]
+index
+40413
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+12778
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from notEmpty to first (line 20:1-20:40 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+49347
+FitnessFunction Is 
+6.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:PNMLDocument (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+]
+index
+47064
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+]
+index
+22355
+FitnessFunction Is 
+4.0 6 57
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.target (line 93:8-93:14 of original transformation)
+]
+index
+34627
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+, 
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+]
+index
+48696
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:PNMLDocument (line 83:43-83:78 of original transformation)
+]
+index
+48525
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+32796
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+40885
+FitnessFunction Is 
+5.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+45199
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+]
+index
+17114
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+]
+index
+37785
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:IdedElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+]
+index
+41774
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:NetElement (line 83:43-83:78 of original transformation)
+]
+index
+42833
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Name (line 83:43-83:78 of original transformation)
+]
+index
+47648
+FitnessFunction Is 
+4.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Transition (line 83:43-83:78 of original transformation)
+]
+index
+36750
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:URI (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.id (line 95:13-95:21 of original transformation)
+]
+index
+35573
+FitnessFunction Is 
+6.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Place (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+45608
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+]
+index
+49257
+FitnessFunction Is 
+5.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+48020
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:NetElement (line 83:43-83:78 of original transformation)
+]
+index
+34111
+FitnessFunction Is 
+2.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to weight (line 87:1-87:23 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:LabeledElement (line 11:15-11:47 of original transformation)
+]
+index
+42876
+FitnessFunction Is 
+3.0 6 58
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+]
+index
+46911
+FitnessFunction Is 
+2.0 5 59
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Label (line 83:43-83:78 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from location to to (line 95:1-95:21 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.name to n.net (line 93:8-93:14 of original transformation)
+]
+index
+48437
+FitnessFunction Is 
+4.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 86:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.target to n.location (line 95:13-95:21 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:URI to SequenceType:NetContent (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+47241
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+

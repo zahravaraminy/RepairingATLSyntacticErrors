@@ -1,0 +1,1943 @@
+first generation find solution
+289
+numberinitialerror
+8
+solutionsize
+100
+EstimatedTime
+61363726ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[]
+index
+5638
+FitnessFunction Is 
+0.0 8 14
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+28895
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+]
+index
+39882
+FitnessFunction Is 
+5.0 12 8
+number-error
+12
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+45767
+FitnessFunction Is 
+9.0 5 8
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+]
+index
+3933
+FitnessFunction Is 
+4.0 11 9
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+30230
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+21043
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+36086
+FitnessFunction Is 
+8.0 4 9
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+47977
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+43778
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+47833
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to isUnique (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+49071
+FitnessFunction Is 
+8.0 6 8
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+39045
+FitnessFunction Is 
+7.0 7 8
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+41480
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+49850
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+49290
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+]
+index
+42862
+FitnessFunction Is 
+6.0 9 8
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+]
+index
+18604
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+27388
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+]
+index
+47077
+FitnessFunction Is 
+3.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+49893
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+]
+index
+49766
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+]
+index
+47948
+FitnessFunction Is 
+6.0 9 8
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+]
+index
+48643
+FitnessFunction Is 
+3.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+46510
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+]
+index
+34424
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+39633
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+]
+index
+35289
+FitnessFunction Is 
+7.0 3 10
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+37248
+FitnessFunction Is 
+8.0 4 9
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+41447
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+]
+index
+47544
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+3222
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+38659
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+36395
+FitnessFunction Is 
+8.0 6 8
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+43078
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+45764
+FitnessFunction Is 
+7.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+48184
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to includes (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+]
+index
+49780
+FitnessFunction Is 
+6.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+19140
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+28206
+FitnessFunction Is 
+8.0 4 9
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+31560
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+]
+index
+45749
+FitnessFunction Is 
+7.0 7 8
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+49007
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+]
+index
+45019
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+40056
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+]
+index
+44841
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+]
+index
+48511
+FitnessFunction Is 
+8.0 6 8
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+40995
+FitnessFunction Is 
+7.0 7 8
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+]
+index
+49696
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+39443
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+48987
+FitnessFunction Is 
+4.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 53:36-55:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+]
+index
+49689
+FitnessFunction Is 
+6.0 5 10
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+2315
+FitnessFunction Is 
+3.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+46364
+FitnessFunction Is 
+8.0 4 9
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+42403
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+]
+index
+27170
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+]
+index
+48062
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+47416
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+47482
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+29957
+FitnessFunction Is 
+8.0 6 8
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+]
+index
+31617
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+43222
+FitnessFunction Is 
+7.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+46933
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+24680
+FitnessFunction Is 
+6.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+]
+index
+49506
+FitnessFunction Is 
+5.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+46739
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+48716
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+37741
+FitnessFunction Is 
+7.0 7 8
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+48689
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+19448
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to isUnique (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+]
+index
+28899
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+5969
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+44626
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+]
+index
+28911
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+]
+index
+45079
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+38534
+FitnessFunction Is 
+7.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+49454
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+49462
+FitnessFunction Is 
+6.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+48825
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+48006
+FitnessFunction Is 
+7.0 7 8
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+48648
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+25681
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+49241
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+47291
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+36495
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+46163
+FitnessFunction Is 
+7.0 5 9
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+19985
+FitnessFunction Is 
+6.0 6 9
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Creation of Binding" types in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+49332
+FitnessFunction Is 
+5.0 3 11
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+]
+index
+49394
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" key in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+47360
+FitnessFunction Is 
+3.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+31388
+FitnessFunction Is 
+7.0 7 8
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+45419
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" type in out (line 80:1-82:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+39132
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from type to types (line 60:1-60:56 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from key:Column to key:Schema (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from types to name (line 38:1-40:2 of original transformation)
+]
+index
+36973
+FitnessFunction Is 
+5.0 8 9
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+30171
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+]
+index
+45984
+FitnessFunction Is 
+2.0 7 11
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in out (line 51:1-57:2 of original transformation)
+]
+index
+38065
+FitnessFunction Is 
+3.0 8 10
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" tables in key (line 58:1-61:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+47541
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Creation of Binding" col in s (line 32:1-41:2 of original transformation)
+]
+index
+49147
+FitnessFunction Is 
+3.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from includesAll to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from s:Named to s:Schema (line 32:1-41:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.supers to c.att (line 53:36-53:44 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from size to oclIsKindOf (line 77:1-77:28 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 98:1-98:15 of original transformation)
+]
+index
+41241
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+

@@ -1,0 +1,91 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+-- MUTATION "Collection Type Modification" from SequenceType:NetContentElement to SequenceType:Arc (line 11:13-11:45 of original transformation)
+-- MUTATION "Deletion of Filter" and in PlaceToTransition (line 62:4-62:78 of original transformation)
+
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:Place (line 15:13-15:31 of original transformation)
+
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+rule PetriNet {
+ from
+  n : PNML!NetElement
+ using
+ {
+  arcsSet : Sequence(PNML!Place) = n.contents->select(e |
+   e.oclIsKindOf(PNML!Arc)
+  );
+ }
+ to
+  p : PetriNet!PetriNet (
+   elements <- n.contents,
+   arcs <- arcsSet
+  )
+}
+
+helper def: selectLabel(labels : Sequence(PNML!Label)) : String =
+ if labels->isEmpty() then
+  'no-name'
+ else
+  labels->first().text
+ endif;
+
+rule Place {
+ from
+  n : PNML!Place
+ to
+  p : PetriNet!Place (
+   name <- if not n.name.oclIsUndefined() then
+    thisModule.selectLabel(n.name.labels)
+   else
+    ''
+   endif
+  )
+}
+
+rule Transition {
+ from
+  n : PNML!Transition
+ to
+  p : PetriNet!Transition (
+   name <- if not n.name.oclIsUndefined() then
+    thisModule.selectLabel(n.name.labels)
+   else
+    ''
+   endif
+  )
+}
+
+rule PlaceToTransition {
+ from
+  n : PNML!Arc
+ to
+  p : PetriNet!PlaceToTransition (
+   name <- if not n.name.oclIsUndefined() then
+    thisModule.selectLabel(n.name.labels)
+   else
+    ''
+   endif,
+   start <- n.source,
+   end <- n.target
+  )
+}
+
+rule TransitionToPlace {
+ from
+  n : PNML!Arc
+  (
+   n.target.oclIsKindOf(PNML!Place) and not n.source.oclIsKindOf(PNML!Place)
+  )
+ to
+  p : PetriNet!TransitionToPlace (
+   name <- if not n.name.oclIsUndefined() then
+    thisModule.selectLabel(n.name.labels)
+   else
+    ''
+   endif,
+   start <- n.source,
+   end <- n.target
+  )
+}

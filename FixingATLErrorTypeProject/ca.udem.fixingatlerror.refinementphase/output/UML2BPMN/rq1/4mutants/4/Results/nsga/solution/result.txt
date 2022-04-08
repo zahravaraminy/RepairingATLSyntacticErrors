@@ -1,0 +1,909 @@
+first generation find solution
+25
+numberinitialerror
+4
+solutionsize
+59
+EstimatedTime
+438480037ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:Activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+2527
+FitnessFunction Is 
+3.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" author in activity (line 134:3-137:4 of original transformation)
+]
+index
+2998
+FitnessFunction Is 
+1.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 79:3-82:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" artifactsContainer in a (line 79:3-82:4 of original transformation)
+]
+index
+3028
+FitnessFunction Is 
+2.0 6 6133
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:Activity (line 134:3-137:4 of original transformation)
+]
+index
+3449
+FitnessFunction Is 
+2.0 4 6135
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+4027
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" looping in e (line 92:3-95:4 of original transformation)
+]
+index
+4735
+FitnessFunction Is 
+1.0 6 6135
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 79:3-82:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+5507
+FitnessFunction Is 
+3.0 3 6133
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+12343
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+12602
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" author in activity (line 134:3-137:4 of original transformation)
+]
+index
+13776
+FitnessFunction Is 
+4.0 2 6134
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingEdges in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+14067
+FitnessFunction Is 
+3.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+15411
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+]
+index
+15853
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+18984
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+19985
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in e (line 92:3-95:4 of original transformation)
+]
+index
+23128
+FitnessFunction Is 
+5.0 0 6137
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" iD in a (line 79:3-82:4 of original transformation)
+]
+index
+24892
+FitnessFunction Is 
+1.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+]
+index
+25226
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+25747
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+25979
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+26313
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+]
+index
+26952
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.target (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+]
+index
+26967
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+]
+index
+28309
+FitnessFunction Is 
+1.0 4 6137
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+28832
+FitnessFunction Is 
+5.0 1 6134
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.guard (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+28886
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+28986
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" adhoc in e (line 92:3-95:4 of original transformation)
+]
+index
+29156
+FitnessFunction Is 
+2.0 5 6134
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+29202
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+29256
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+29280
+FitnessFunction Is 
+3.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+29461
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+30086
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+30178
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+30330
+FitnessFunction Is 
+2.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+31084
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+33068
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+34022
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+34041
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+35151
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+35568
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+]
+index
+36149
+FitnessFunction Is 
+4.0 1 6136
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+36191
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+36589
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+38559
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+38570
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+38692
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+38762
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+40072
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+]
+index
+41965
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in e (line 92:3-95:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+43011
+FitnessFunction Is 
+2.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+]
+index
+43792
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+44259
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+44310
+FitnessFunction Is 
+1.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+]
+index
+45143
+FitnessFunction Is 
+3.0 1 6139
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.source (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+]
+index
+46717
+FitnessFunction Is 
+5.0 0 6137
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 75:5-75:50 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from f.isLeaf to f.target (line 93:14-93:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+]
+index
+47200
+FitnessFunction Is 
+4.0 0 6139
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to associations (line 94:4-94:18 of original transformation)
+]
+index
+48389
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Artifact to activity:SubProcess (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from iD to graph (line 94:4-94:18 of original transformation)
+]
+index
+49248
+FitnessFunction Is 
+2.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+

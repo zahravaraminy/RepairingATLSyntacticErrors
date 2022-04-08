@@ -1,0 +1,118 @@
+-- @path PNML=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PNML.ecore
+-- @path PetriNet=D:\java\ATLproject\neonssmallprojects\anatlyzer.evaluation.mutants\trafo\PetriNet.ecore
+module PNML2PetriNet;
+create OUT : PetriNet from IN : PNML;
+
+rule PetriNet {
+ from
+  n : PNML!PNMLDocument
+ using
+ {
+  elementsSet : Sequence(PNML!NetContentElement) = PNML!NetContentElement.allInstances();
+  arcsSet : Sequence(PNML!Arc) = PNML!Arc.allInstances()->select(a |
+   a.source.oclIsKindOf(PNML!Place) and a.target.oclIsKindOf(PNML!Arc) or a.source.oclIsKindOf(PNML!Transition) and a.target.oclIsKindOf(PNML!Place)
+  );
+ }
+ to
+  p : PetriNet!PetriNet (
+   elements <- n.xmlns,
+   name <- if not n.nets->first().name.oclIsUndefined() then
+    n.nets->first().name.labels->first().text
+   else
+    'aPetriNet'
+   endif,
+   elements <- elementsSet,
+   arcs <- arcsSet,
+   location <- 'dummy'
+  )
+}
+
+rule Place {
+ from
+  n : PNML!Name
+ to
+  p : PetriNet!Place (
+   location <- n.location,
+   net <- n.net.document,
+   name <- 'dummy'
+  )
+}
+
+rule Transition {
+ from
+  n : PNML!Transition
+ to
+  p : PetriNet!Transition (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document
+  )
+}
+
+rule PlaceToTransition {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Place) and n.target.oclIsKindOf(PNML!Transition)
+  )
+ to
+  p : PetriNet!PlaceToTransition (
+   location <- n.location,
+   name <- if not n.name.indexOf() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.name.document,
+   from <- n.source,
+   to <- n.net
+  )
+}
+
+rule TransitionToPlace {
+ from
+  n : PNML!Arc
+  (
+   n.source.oclIsKindOf(PNML!Transition) and n.target.oclIsKindOf(PNML!Place)
+  )
+ to
+  p : PetriNet!TransitionToPlace (
+   location <- n.location,
+   name <- if not n.name.oclIsUndefined() then
+    n.name.labels->first().text
+   else
+    'default'
+   endif,
+   net <- n.net.document,
+   from <- n.source,
+   to <- n.target
+  )
+}
+
+-- MUTATION "Argument Type Modification" from oclIsKindOf:PetriNet to oclIsKindOf:Arc (line 13:38-13:73 of original transformation)
+
+
+-- MUTATION "Navigation Modification" from n.location to n.xmlns (line 18:13-18:23 of original transformation)
+
+
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+
+
+-- MUTATION "Creation of Binding" name in p (line 33:1-36:2 of original transformation)
+
+
+-- MUTATION "Navigation Modification" from n.target to n.net (line 70:7-70:15 of original transformation)
+
+
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+
+
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:TransitionToPlace (line 81:1-91:2 of original transformation)
+
+
+-- MUTATION "Creation of Binding" location in p (line 17:1-26:2 of original transformation)
+

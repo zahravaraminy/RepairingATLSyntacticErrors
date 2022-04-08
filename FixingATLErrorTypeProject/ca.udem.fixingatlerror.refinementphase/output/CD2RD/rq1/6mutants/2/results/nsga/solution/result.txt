@@ -1,0 +1,1679 @@
+first generation find solution
+64
+numberinitialerror
+8
+solutionsize
+100
+EstimatedTime
+66757944ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[]
+index
+1193
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+13640
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+40727
+FitnessFunction Is 
+8.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+27976
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+43241
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+37075
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+44647
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+11903
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+4221
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+3930
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+43400
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:DataType to oclIsKindOf:Class (line 39:1-39:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+43520
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49938
+FitnessFunction Is 
+7.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+43269
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+39166
+FitnessFunction Is 
+7.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+46967
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+]
+index
+43194
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+43441
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+29253
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+42022
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+47706
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+49965
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+2893
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+43154
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsUndefined (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+47069
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49817
+FitnessFunction Is 
+6.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+37225
+FitnessFunction Is 
+7.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+]
+index
+38787
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+38003
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+34384
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+44736
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+24879
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+43085
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+35335
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+33276
+FitnessFunction Is 
+7.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+45286
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+48784
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+13708
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+44900
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+49703
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+39437
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+42864
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+46858
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49591
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+46578
+FitnessFunction Is 
+7.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+]
+index
+46637
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+24093
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+49558
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+30950
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+42456
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+40423
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to count (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49444
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+41233
+FitnessFunction Is 
+7.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+40089
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+42324
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+]
+index
+46834
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+29873
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+29737
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from select to forAll (line 53:28-55:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+38413
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49359
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+28200
+FitnessFunction Is 
+3.0 3 12
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+24060
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+45071
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+8864
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+40661
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49271
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49289
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+44842
+FitnessFunction Is 
+6.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+16146
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+44882
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+2227
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+28346
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+]
+index
+17862
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+38263
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+37801
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+49024
+FitnessFunction Is 
+5.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+11670
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+30882
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to isEmpty (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+46220
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+36429
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+27966
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+48719
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+2649
+FitnessFunction Is 
+0.0 8 13
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+48369
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Type (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+48486
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+36342
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+46287
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+48471
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+24852
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+35569
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to col (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+26453
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+]
+index
+26173
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+46037
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+3760
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from foreignKey:Table to foreignKey:Column (line 110:1-113:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+48076
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+40790
+FitnessFunction Is 
+4.0 5 11
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+11101
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to type (line 99:1-99:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+]
+index
+45959
+FitnessFunction Is 
+4.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+]
+index
+47218
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from c:Package to c:Class (line 46:1-46:18 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 38:10-40:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from toInteger to oclIsKindOf (line 107:1-107:30 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+27338
+FitnessFunction Is 
+5.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+

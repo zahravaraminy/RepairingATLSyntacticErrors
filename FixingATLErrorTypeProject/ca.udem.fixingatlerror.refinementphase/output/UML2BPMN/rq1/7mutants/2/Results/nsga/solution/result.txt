@@ -1,0 +1,1679 @@
+first generation find solution
+-1
+numberinitialerror
+11
+solutionsize
+100
+EstimatedTime
+1191801701ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "Creation of Binding" ncname in e (line 90:3-93:4 of original transformation)
+]
+index
+2129
+FitnessFunction Is 
+1.0 11 6142
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+12141
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from f.source to f.operand (line 91:14-91:22 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+]
+index
+21839
+FitnessFunction Is 
+7.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" graph in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingMessages in activity (line 132:3-135:4 of original transformation)
+]
+index
+11380
+FitnessFunction Is 
+2.0 12 6137
+number-error
+12
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Association to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+74307
+FitnessFunction Is 
+5.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:Transition (line 85:3-85:18 of original transformation)
+]
+index
+36202
+FitnessFunction Is 
+1.0 9 6145
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" target in activity (line 111:3-114:4 of original transformation)
+]
+index
+21363
+FitnessFunction Is 
+6.0 4 6136
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+10704
+FitnessFunction Is 
+3.0 6 6135
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+20972
+FitnessFunction Is 
+6.0 2 6138
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" isTransaction in activity (line 111:3-114:4 of original transformation)
+]
+index
+61841
+FitnessFunction Is 
+2.0 9 6139
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+2821
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+]
+index
+71716
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ProfileApplication (line 52:5-52:34 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+99940
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+62046
+FitnessFunction Is 
+1.0 9 6145
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:Transition (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+86520
+FitnessFunction Is 
+2.0 7 6141
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingEdges in activity (line 111:3-114:4 of original transformation)
+]
+index
+45687
+FitnessFunction Is 
+1.0 12 6140
+number-error
+12
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:Transition (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+58445
+FitnessFunction Is 
+2.0 7 6141
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from f.target to f.method (line 87:29-87:37 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in e (line 90:3-93:4 of original transformation)
+]
+index
+12778
+FitnessFunction Is 
+2.0 11 6138
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+87568
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+93602
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+4351
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:PrimitiveType (line 122:8-122:46 of original transformation)
+]
+index
+99891
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from oclIsKindOf to log (line 103:7-103:41 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+93591
+FitnessFunction Is 
+5.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+]
+index
+99797
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" name in e (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+]
+index
+96554
+FitnessFunction Is 
+4.0 4 6142
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingMessages in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+]
+index
+51259
+FitnessFunction Is 
+2.0 8 6140
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+42024
+FitnessFunction Is 
+5.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in e (line 90:3-93:4 of original transformation)
+]
+index
+6826
+FitnessFunction Is 
+1.0 11 6142
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingMessages in activity (line 132:3-135:4 of original transformation)
+]
+index
+42452
+FitnessFunction Is 
+2.0 8 6140
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+77796
+FitnessFunction Is 
+1.0 9 6145
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:Transition (line 85:3-85:18 of original transformation)
+]
+index
+28568
+FitnessFunction Is 
+2.0 7 6141
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from f.source to f.argument (line 87:4-87:12 of original transformation)
+, 
+-- MUTATION "Creation of Binding" outgoingMessages in activity (line 132:3-135:4 of original transformation)
+]
+index
+14438
+FitnessFunction Is 
+2.0 11 6138
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+93537
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+]
+index
+69141
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:AcceptEventAction to oclIsKindOf:ParameterSet (line 101:8-101:54 of original transformation)
+]
+index
+99589
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" incomingMessages in activity (line 132:3-135:4 of original transformation)
+]
+index
+75472
+FitnessFunction Is 
+5.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 132:3-135:4 of original transformation)
+]
+index
+25577
+FitnessFunction Is 
+1.0 11 6142
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" iD in l (line 50:3-56:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+]
+index
+8463
+FitnessFunction Is 
+2.0 8 6140
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+3064
+FitnessFunction Is 
+1.0 9 6145
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:Transition (line 85:3-85:18 of original transformation)
+]
+index
+79998
+FitnessFunction Is 
+2.0 7 6141
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Creation of Binding" iD in e (line 90:3-93:4 of original transformation)
+]
+index
+16545
+FitnessFunction Is 
+2.0 11 6138
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+96910
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+]
+index
+99794
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+]
+index
+78975
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+99667
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingEdges in activity (line 132:3-135:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+]
+index
+40480
+FitnessFunction Is 
+2.0 8 6140
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:OutputPin (line 98:3-98:22 of original transformation)
+]
+index
+99779
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:Transition (line 85:3-85:18 of original transformation)
+]
+index
+58997
+FitnessFunction Is 
+2.0 7 6141
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:Pool to p:SubProcess (line 49:3-49:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 111:3-114:4 of original transformation)
+]
+index
+68344
+FitnessFunction Is 
+2.0 11 6138
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Creation of Binding" looping in activity (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+19405
+FitnessFunction Is 
+4.0 5 6139
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+89976
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+50906
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+]
+index
+99479
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:Pseudostate (line 52:5-52:34 of original transformation)
+]
+index
+98343
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in activity (line 111:3-114:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to isUnique (line 51:18-55:5 of original transformation)
+]
+index
+20973
+FitnessFunction Is 
+2.0 11 6138
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+81498
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+93171
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+84619
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:StateMachine (line 52:5-52:34 of original transformation)
+]
+index
+99297
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+96502
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+99419
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+88792
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+]
+index
+96432
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to ncname (line 134:4-134:27 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+98224
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+96461
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+99307
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+20515
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+]
+index
+98740
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Interface (line 103:7-103:41 of original transformation)
+]
+index
+97979
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+]
+index
+96335
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+]
+index
+99214
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+11081
+FitnessFunction Is 
+2.0 5 6144
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:Pool to p:ArtifactsContainer (line 49:3-49:19 of original transformation)
+]
+index
+99153
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+80429
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+96259
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:LiteralNull (line 122:8-122:46 of original transformation)
+]
+index
+99024
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+84581
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+]
+index
+88980
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:ActionInputPin (line 52:5-52:34 of original transformation)
+]
+index
+98869
+FitnessFunction Is 
+3.0 5 6143
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+84470
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+]
+index
+91843
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+51783
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+]
+index
+95674
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+95444
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+]
+index
+98636
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+]
+index
+98652
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+]
+index
+97848
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+91558
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+95445
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+95310
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+98235
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+88424
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+]
+index
+56181
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+94391
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:Association (line 90:3-93:4 of original transformation)
+]
+index
+91275
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:SequenceEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+]
+index
+97741
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+94719
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 51:18-55:5 of original transformation)
+]
+index
+88293
+FitnessFunction Is 
+5.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 51:18-55:5 of original transformation)
+]
+index
+90539
+FitnessFunction Is 
+3.0 4 6144
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from f:Comment to f:ObjectFlow (line 85:3-85:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 123:6-123:40 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 122:8-122:46 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from e:Activity to e:MessagingEdge (line 90:3-93:4 of original transformation)
+]
+index
+97539
+FitnessFunction Is 
+4.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+

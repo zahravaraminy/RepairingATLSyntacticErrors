@@ -1,0 +1,22 @@
+-- @path Rel=/EvoSearch/metamodels/initial/relational.ecore
+-- @path Class=/EvoSearch/metamodels/initial/class.ecore
+module cl2relwaelnewversion;
+create OUT : Rel from IN : Class;
+
+rule Class2Table {
+   from i : Class!Class( i.persistent = 1 )
+     to o : Rel!Table(
+nme <- i.package + '.' + i.id,
+ky <- i.attr->first()
+)
+
+}
+
+rule Att2Col {
+   from i : Class!Attribute
+     to o : Rel!Column(
+type <- i.type
+)
+
+}
+

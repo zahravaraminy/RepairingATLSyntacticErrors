@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/UML2_3_0_0.ecore/src-gen" creationIcons="false"
+    editDirectory="/UML2_3_0_0.ecore.edit/src-gen" editorDirectory="/UML2_3_0_0.ecore.editor/src-gen"
+    modelPluginID="UML2_3_0_0.ecore" modelName="Ecore" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    codeFormatting="true" importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0"
+    copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>ecore.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="Ecore" basePackage="uml2_3_0_0" disposableProviderFactory="true"
+      ecorePackage="ecore.ecore#/"/>
+</genmodel:GenModel>

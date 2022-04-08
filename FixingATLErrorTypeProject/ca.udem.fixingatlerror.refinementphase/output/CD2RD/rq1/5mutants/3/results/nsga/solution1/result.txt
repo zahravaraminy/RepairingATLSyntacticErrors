@@ -1,0 +1,1865 @@
+first generation find solution
+53
+numberinitialerror
+8
+solutionsize
+100
+EstimatedTime
+54906760ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[]
+index
+1753
+FitnessFunction Is 
+0.0 8 12
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+5639
+FitnessFunction Is 
+5.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.owner to a.package (line 94:9-94:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+39908
+FitnessFunction Is 
+8.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.owner to a.package (line 94:9-94:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+48610
+FitnessFunction Is 
+8.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48660
+FitnessFunction Is 
+0.0 8 12
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49236
+FitnessFunction Is 
+3.0 15 10
+number-error
+15
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49297
+FitnessFunction Is 
+1.0 10 11
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+]
+index
+39890
+FitnessFunction Is 
+7.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49854
+FitnessFunction Is 
+3.0 15 10
+number-error
+15
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+12268
+FitnessFunction Is 
+4.0 13 10
+number-error
+13
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+]
+index
+5139
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49970
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49997
+FitnessFunction Is 
+5.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+47668
+FitnessFunction Is 
+1.0 10 11
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+29487
+FitnessFunction Is 
+6.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+]
+index
+48717
+FitnessFunction Is 
+7.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49318
+FitnessFunction Is 
+2.0 8 11
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+49947
+FitnessFunction Is 
+6.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+]
+index
+39885
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49205
+FitnessFunction Is 
+5.0 11 10
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+]
+index
+49962
+FitnessFunction Is 
+4.0 13 10
+number-error
+13
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49096
+FitnessFunction Is 
+3.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49864
+FitnessFunction Is 
+5.0 11 10
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49861
+FitnessFunction Is 
+3.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49409
+FitnessFunction Is 
+4.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+47578
+FitnessFunction Is 
+7.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+44648
+FitnessFunction Is 
+7.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49922
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+49890
+FitnessFunction Is 
+0.0 8 12
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.owner to a.package (line 94:9-94:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+49892
+FitnessFunction Is 
+8.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+48241
+FitnessFunction Is 
+3.0 15 10
+number-error
+15
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+49863
+FitnessFunction Is 
+4.0 13 10
+number-error
+13
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49739
+FitnessFunction Is 
+1.0 10 11
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+49873
+FitnessFunction Is 
+6.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49891
+FitnessFunction Is 
+2.0 8 11
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+]
+index
+49900
+FitnessFunction Is 
+7.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+45659
+FitnessFunction Is 
+5.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49808
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49889
+FitnessFunction Is 
+5.0 0 12
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49776
+FitnessFunction Is 
+5.0 11 10
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49650
+FitnessFunction Is 
+3.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+35764
+FitnessFunction Is 
+7.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49869
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.owner to a.package (line 94:9-94:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+49168
+FitnessFunction Is 
+8.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47715
+FitnessFunction Is 
+0.0 8 12
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49616
+FitnessFunction Is 
+3.0 15 10
+number-error
+15
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49790
+FitnessFunction Is 
+4.0 13 10
+number-error
+13
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49636
+FitnessFunction Is 
+1.0 10 11
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+]
+index
+48557
+FitnessFunction Is 
+7.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49166
+FitnessFunction Is 
+2.0 8 11
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+49109
+FitnessFunction Is 
+6.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49105
+FitnessFunction Is 
+5.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49789
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49769
+FitnessFunction Is 
+3.0 6 11
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+49634
+FitnessFunction Is 
+5.0 11 10
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+19851
+FitnessFunction Is 
+7.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49157
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.owner to a.package (line 94:9-94:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+49003
+FitnessFunction Is 
+8.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+48958
+FitnessFunction Is 
+0.0 8 12
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49579
+FitnessFunction Is 
+3.0 15 10
+number-error
+15
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+48421
+FitnessFunction Is 
+4.0 13 10
+number-error
+13
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49517
+FitnessFunction Is 
+1.0 10 11
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+]
+index
+47896
+FitnessFunction Is 
+7.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+47885
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49624
+FitnessFunction Is 
+2.0 8 11
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49036
+FitnessFunction Is 
+5.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49065
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49586
+FitnessFunction Is 
+5.0 11 10
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+49398
+FitnessFunction Is 
+3.0 2 12
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+27258
+FitnessFunction Is 
+7.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+49068
+FitnessFunction Is 
+6.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.owner to a.package (line 94:9-94:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+44024
+FitnessFunction Is 
+8.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+44306
+FitnessFunction Is 
+0.0 8 12
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49484
+FitnessFunction Is 
+3.0 15 10
+number-error
+15
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+49571
+FitnessFunction Is 
+4.0 13 10
+number-error
+13
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+48074
+FitnessFunction Is 
+1.0 10 11
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+48370
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+]
+index
+49561
+FitnessFunction Is 
+7.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49592
+FitnessFunction Is 
+2.0 8 11
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+48966
+FitnessFunction Is 
+5.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+48349
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+]
+index
+48777
+FitnessFunction Is 
+5.0 11 10
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+44379
+FitnessFunction Is 
+7.0 7 10
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+48914
+FitnessFunction Is 
+6.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+47505
+FitnessFunction Is 
+0.0 8 12
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Table (line 97:1-100:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from col to name (line 53:1-55:3 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+48778
+FitnessFunction Is 
+8.0 6 10
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+49370
+FitnessFunction Is 
+3.0 15 10
+number-error
+15
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49354
+FitnessFunction Is 
+1.0 10 11
+number-error
+10
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+]
+index
+48132
+FitnessFunction Is 
+7.0 0 11
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+49488
+FitnessFunction Is 
+6.0 9 10
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+]
+index
+48883
+FitnessFunction Is 
+4.0 13 10
+number-error
+13
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+48257
+FitnessFunction Is 
+4.0 4 11
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+47014
+FitnessFunction Is 
+5.0 2 11
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+]
+index
+49405
+FitnessFunction Is 
+1.0 6 12
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+]
+index
+49494
+FitnessFunction Is 
+2.0 4 12
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from a.name to a.supers (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:Attribute to a:Class (line 88:1-88:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.type to a.att (line 99:9-99:15 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from value:Column to value:Schema (line 97:1-100:2 of original transformation)
+]
+index
+49387
+FitnessFunction Is 
+5.0 11 10
+number-error
+11
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from a.name to a.type (line 98:9-98:15 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+]
+index
+45746
+FitnessFunction Is 
+4.0 1 12
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from p:Package to p:Classifier (line 30:1-30:18 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49452
+FitnessFunction Is 
+2.0 8 11
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49474
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to key (line 52:1-52:15 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from sum to union (line 53:8-55:3 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from out:Column to out:Table (line 93:1-96:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 39:1-39:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Package to oclIsKindOf:Class (line 34:1-34:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from c.name to c.att (line 52:9-52:15 of original transformation)
+]
+index
+49390
+FitnessFunction Is 
+6.0 1 11
+number-error
+1
+------------------------------------------------------------------------------
+

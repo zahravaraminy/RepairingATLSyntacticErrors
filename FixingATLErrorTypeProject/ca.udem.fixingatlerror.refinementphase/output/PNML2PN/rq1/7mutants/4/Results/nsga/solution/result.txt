@@ -1,0 +1,1867 @@
+first generation find solution
+-1
+numberinitialerror
+8
+solutionsize
+100
+EstimatedTime
+204446085ms
+numberIteration
+100000
+------------------------------------------------------------------------------
+next result
+[]
+index
+170
+FitnessFunction Is 
+0.0 9 68
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+10649
+FitnessFunction Is 
+6.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+]
+index
+11621
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+75470
+FitnessFunction Is 
+0.0 9 68
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+99935
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+96656
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+67472
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+37019
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+16532
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+4850
+FitnessFunction Is 
+4.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+57553
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+98547
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+]
+index
+67190
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+91115
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+89271
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+94614
+FitnessFunction Is 
+6.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+99958
+FitnessFunction Is 
+5.0 4 58
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+96479
+FitnessFunction Is 
+5.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+98548
+FitnessFunction Is 
+2.0 5 61
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+49264
+FitnessFunction Is 
+3.0 4 60
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+98199
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from net to arcs (line 26 of original transformation)
+]
+index
+45465
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+96188
+FitnessFunction Is 
+7.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+94619
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 63:1-63:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+99689
+FitnessFunction Is 
+7.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+88115
+FitnessFunction Is 
+7.0 3 57
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+52249
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+95715
+FitnessFunction Is 
+6.0 2 59
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+89357
+FitnessFunction Is 
+5.0 5 57
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+66443
+FitnessFunction Is 
+2.0 5 61
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+54240
+FitnessFunction Is 
+0.0 9 68
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+32170
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+98148
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+]
+index
+65723
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+55277
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+98621
+FitnessFunction Is 
+5.0 3 59
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+92488
+FitnessFunction Is 
+4.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+94597
+FitnessFunction Is 
+6.0 1 61
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+67046
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+95944
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+93388
+FitnessFunction Is 
+7.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 63:1-63:33 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+]
+index
+37061
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+68590
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+94309
+FitnessFunction Is 
+2.0 5 61
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+71418
+FitnessFunction Is 
+0.0 9 68
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+71373
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+7863
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+87074
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+47467
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+]
+index
+78587
+FitnessFunction Is 
+6.0 6 56
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+60626
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+98248
+FitnessFunction Is 
+5.0 4 58
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+99571
+FitnessFunction Is 
+6.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+59256
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from from to elements (line 26 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+52864
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+87755
+FitnessFunction Is 
+7.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+96362
+FitnessFunction Is 
+2.0 5 61
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+97333
+FitnessFunction Is 
+0.0 9 68
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+]
+index
+96584
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+83249
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+88567
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+97836
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+95776
+FitnessFunction Is 
+4.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+98113
+FitnessFunction Is 
+6.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+99495
+FitnessFunction Is 
+5.0 4 58
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+68200
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 63:1-63:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+99352
+FitnessFunction Is 
+7.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+92055
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+92115
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+86160
+FitnessFunction Is 
+2.0 5 61
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[]
+index
+10283
+FitnessFunction Is 
+0.0 9 68
+number-error
+9
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+84568
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+82746
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+99242
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+78905
+FitnessFunction Is 
+6.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+96404
+FitnessFunction Is 
+4.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+99388
+FitnessFunction Is 
+5.0 4 58
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+20088
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+93018
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+49020
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+89966
+FitnessFunction Is 
+7.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+36146
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:URI (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+92633
+FitnessFunction Is 
+2.0 5 61
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+76253
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+95964
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+97131
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+74727
+FitnessFunction Is 
+6.0 4 57
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+94428
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+74569
+FitnessFunction Is 
+4.0 3 60
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+72943
+FitnessFunction Is 
+5.0 2 60
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Place (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 63:1-63:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to select (line 12:32-14:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+96250
+FitnessFunction Is 
+7.0 1 60
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from startsWith:Transition to startsWith:URI (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsKindOf (line 63:38-63:74 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+]
+index
+94760
+FitnessFunction Is 
+7.0 2 58
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" from in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+81086
+FitnessFunction Is 
+4.0 5 58
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+92380
+FitnessFunction Is 
+2.0 5 61
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Arc to n:Name (line 31:1-31:13 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Place to SequenceType:LabeledElement (line 11:15-11:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" weight in p (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from forAll to reject (line 12:32-14:2 of original transformation)
+]
+index
+96221
+FitnessFunction Is 
+7.0 5 56
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+63022
+FitnessFunction Is 
+1.0 6 62
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" to in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+98662
+FitnessFunction Is 
+2.0 7 60
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+64883
+FitnessFunction Is 
+3.0 6 59
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Place to oclIsKindOf:URI (line 63:1-63:33 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+]
+index
+91316
+FitnessFunction Is 
+4.0 4 59
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Collection Type Modification" from SequenceType:Arc to SequenceType:LabeledElement (line 12:11-12:29 of original transformation)
+, 
+-- MUTATION "Creation of Binding" net in p (line 17:1-26:2 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.location to n.net (line 74:9-74:19 of original transformation)
+, 
+-- MUTATION "Collection Operation Call Modification" from size to first (line 36:1-36:22 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from p:PetriNet to p:PlaceToTransition (line 66:1-76:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from startsWith to oclIsUndefined (line 63:38-63:74 of original transformation)
+]
+index
+92685
+FitnessFunction Is 
+6.0 3 58
+number-error
+3
+------------------------------------------------------------------------------
+

@@ -1,0 +1,1557 @@
+first generation find solution
+99
+numberinitialerror
+2
+solutionsize
+100
+EstimatedTime
+400310479ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+9846
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+]
+index
+18073
+FitnessFunction Is 
+1.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:Interval (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+]
+index
+21293
+FitnessFunction Is 
+3.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+]
+index
+46982
+FitnessFunction Is 
+1.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingMessages in activity (line 134:3-137:4 of original transformation)
+]
+index
+28508
+FitnessFunction Is 
+1.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+49993
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in l (line 52:3-58:4 of original transformation)
+]
+index
+5814
+FitnessFunction Is 
+2.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:Interface (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 134:3-137:4 of original transformation)
+]
+index
+22027
+FitnessFunction Is 
+2.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+]
+index
+21336
+FitnessFunction Is 
+1.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" outgoingEdges in activity (line 134:3-137:4 of original transformation)
+]
+index
+18964
+FitnessFunction Is 
+1.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" iD in l (line 52:3-58:4 of original transformation)
+]
+index
+20791
+FitnessFunction Is 
+1.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:MergeNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+]
+index
+29225
+FitnessFunction Is 
+3.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+49443
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:ObjectNode to oclIsKindOf:PartDecomposition (line 54:5-54:34 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+]
+index
+22028
+FitnessFunction Is 
+2.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+]
+index
+33734
+FitnessFunction Is 
+1.0 1 6144
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in l (line 52:3-58:4 of original transformation)
+]
+index
+22460
+FitnessFunction Is 
+1.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingMessages in activity (line 134:3-137:4 of original transformation)
+]
+index
+22025
+FitnessFunction Is 
+1.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:LoopNode (line 126:7-126:41 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in l (line 52:3-58:4 of original transformation)
+]
+index
+24174
+FitnessFunction Is 
+3.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+49392
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:TestIdentityAction (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+]
+index
+22056
+FitnessFunction Is 
+2.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from e.transformed to e.useCase (line 56:5-56:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in l (line 52:3-58:4 of original transformation)
+]
+index
+26219
+FitnessFunction Is 
+3.0 1 6137
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+49076
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from edge.source to edge.inheritedMember (line 124:8-124:19 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+]
+index
+24893
+FitnessFunction Is 
+2.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+48956
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from max:AcceptEventAction to max:ReceiveOperationEvent (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+]
+index
+24896
+FitnessFunction Is 
+2.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48806
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DestructionEvent (line 121:3-121:22 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+]
+index
+28877
+FitnessFunction Is 
+2.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48767
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 134:3-137:4 of original transformation)
+]
+index
+29430
+FitnessFunction Is 
+2.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from e.transformed to e.result (line 56:5-56:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 134:3-137:4 of original transformation)
+]
+index
+32670
+FitnessFunction Is 
+2.0 2 6137
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+48689
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+48517
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+48466
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48387
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48217
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48187
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+48028
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+47978
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+47818
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+47783
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to name (line 53:4-57:5 of original transformation)
+]
+index
+47634
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+47438
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+]
+index
+47367
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+47291
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+35465
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+46777
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+46655
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+46430
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+46386
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+46171
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+46049
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to ncname (line 53:4-57:5 of original transformation)
+]
+index
+45957
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+45755
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+45491
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+45376
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+45041
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+44964
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+]
+index
+44875
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+44738
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+44686
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to iD (line 53:4-57:5 of original transformation)
+]
+index
+44586
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+44475
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+44391
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+44249
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+43934
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+43894
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+43766
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+43558
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+43295
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+43034
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+42933
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+42745
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+42671
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+42523
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to name (line 53:4-57:5 of original transformation)
+]
+index
+42414
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+42216
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+]
+index
+42126
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+42050
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+41860
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+41672
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+41450
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+41380
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+41252
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+41192
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+40982
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+40887
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+40785
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+40691
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+40583
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+40228
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+40075
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to documentation (line 53:4-57:5 of original transformation)
+]
+index
+39997
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+39798
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+39669
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+39393
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+]
+index
+39222
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+39186
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+38988
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+38855
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from a:Comment to a:StructuredActivityNode (line 49:3-49:18 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 124:8-124:46 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+38571
+FitnessFunction Is 
+3.0 0 6143
+number-error
+0
+------------------------------------------------------------------------------
+

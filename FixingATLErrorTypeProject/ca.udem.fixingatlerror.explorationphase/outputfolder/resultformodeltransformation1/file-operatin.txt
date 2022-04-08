@@ -1,0 +1,234 @@
+[45, 59, 68, 83, 96, 117, 138, 150, 157]
+[36, 47, 61, 70, 85, 98, 119, 140, 152]
+[81, 102, 115]
+[3, 5, 5]
+false
+choosefrompopulation-firstparent
+[-3, 1, 7, -3]
+2
+choosefrompopulation-secondparent
+[-3, -3, 7, -3]
+1
+3
+2
+3
+true
+cut crossover
+3
+accepted
+accepted
+accepted
+aftercrossover
+[-3, -3, 7, -3]
+[-3, 1, 7, -3]
+size sefr
+adade mutation
+7
+aftermutation
+[-3, -3, 7, -3]
+probability mutation
+probability mutation
+adade mutation
+7
+adade mutation
+8
+[-3, 1, 7, 8]
+offSpring[0].getoperations()
+5
+-1
+2
+-1
+3
+offSpring[1].getoperations()
+6
+choosefrompopulation-firstparent
+[-3, 1, 7, -3]
+2
+choosefrompopulation-secondparent
+[-3, -3, -3, 1]
+4
+2
+2
+3
+true
+cut crossover
+2
+accepted
+accepted
+aftercrossover
+[-3, -3, 7, -3]
+[-3, 1, -3, 1]
+size sefr
+adade mutation
+3
+aftermutation
+[-3, 3, 7, -3]
+probability mutation
+adade mutation
+3
+[-3, 1, -3, 3]
+offSpring[0].getoperations()
+7
+offSpring[1].getoperations()
+8
+front aval
+0
+3
+4
+3
+next front
+1
+2
+6
+7
+next front
+5
+next front
+ranking
+3
+1.0 3.0 6143.0 
+1
+3
+1.0 4.0 6142.0 
+4
+4
+1.0 3.0 6143.0 
+5
+3
+choosed next generation
+1
+3
+[-3, -3, 7, -3]
+4
+4
+[-3, -3, -3, 1]
+5
+3
+[-3, -3, 7, -3]
+2
+3
+[-3, 1, 7, -3]
+choosefrompopulation-firstparent
+[-3, -3, 7, -3]
+5
+choosefrompopulation-secondparent
+[-3, -3, -3, 1]
+4
+aftercrossover
+[-3, -3, 7, -3]
+[-3, -3, -3, 1]
+probability mutation
+adade mutation
+9
+aftermutation
+[-3, -3, 9, -3]
+size sefr
+adade mutation
+6
+[-3, 6, -3, 1]
+offSpring[0].getoperations()
+9
+offSpring[1].getoperations()
+10
+choosefrompopulation-firstparent
+[-3, -3, -3, 1]
+4
+choosefrompopulation-secondparent
+[-3, -3, 7, -3]
+1
+aftercrossover
+[-3, -3, -3, 1]
+[-3, -3, 7, -3]
+size sefr
+adade mutation
+7
+aftermutation
+[-3, -3, 7, 1]
+size sefr
+adade mutation
+8
+[-3, -3, 8, -3]
+offSpring[0].getoperations()
+11
+-1
+8
+-1
+7
+-1
+2
+-1
+7
+-1
+7
+-1
+2
+-1
+7
+-1
+1
+-1
+8
+-1
+8
+-1
+6
+-1
+6
+-1
+3
+offSpring[1].getoperations()
+12
+front aval
+0
+1
+2
+5
+6
+7
+6
+next front
+4
+3
+next front
+ranking
+6
+1.0 3.0 6143.0 
+1
+3
+1.0 4.0 6142.0 
+4
+4
+1.0 3.0 6143.0 
+5
+3
+2.0 3.0 6142.0 
+10
+3
+2.0 4.0 6141.0 
+11
+4
+1.0 5.0 6141.0 
+12
+5
+choosed next generation
+1
+3
+[-3, -3, 7, -3]
+5
+3
+[-3, -3, 7, -3]
+11
+4
+[-3, -3, 7, 1]
+12
+5
+[-3, -3, 8, -3]
+front aval
+0
+1
+2
+3
+4
+next front
+subfront
+4

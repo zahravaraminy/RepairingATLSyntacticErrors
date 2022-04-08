@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="smallintalio">
+  <eClassifiers xsi:type="ecore:EClass" name="NamedBpmnObject">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Artifact">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="artifacts" upperBound="-1"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="BpmnDiagram" eSuperTypes="#//NamedBpmnObject">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="pools" upperBound="-1"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Graph" eSuperTypes="#//NamedBpmnObject">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="vertices" upperBound="-1"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="sequenceEdges" upperBound="-1"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Pool" eSuperTypes="#//Graph">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="lanes" upperBound="-1"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Vertex" eSuperTypes="#//NamedBpmnObject"/>
+  <eClassifiers xsi:type="ecore:EClass" name="SequenceEdge"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Lane" eSuperTypes="#//NamedBpmnObject">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="activities" upperBound="-1"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Activity" eSuperTypes="#//Vertex">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="activityType" eType="#//ActivityType"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="ActivityType">
+    <eAnnotations source="Task"/>
+    <eAnnotations source="EventStartEmpty"/>
+    <eAnnotations source="GatewayParallel"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="SequenceEdge">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="source"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="target"/>
+  </eClassifiers>
+</ecore:EPackage>

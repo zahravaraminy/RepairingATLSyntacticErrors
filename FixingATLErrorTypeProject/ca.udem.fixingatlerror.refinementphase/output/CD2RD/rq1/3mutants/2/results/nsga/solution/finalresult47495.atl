@@ -1,0 +1,140 @@
+-- @path Class=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\Class.ecore
+-- @path Relational=C:\Users\varaminz\Downloads\Project\workspaceTEST34\anatlyzer.atl.tests.api\trafo\Relational.ecore
+module Class2Relational;
+create OUT : Relational from IN : Class;
+
+helper context Class!NamedElt def: name : String =
+ if self.name.oclIsUndefined() then
+  ''
+ else
+  self.name
+ endif;
+
+helper context Class!Attribute def: multiValued : Boolean =
+ if self.multiValued.oclIsUndefined() then
+  false
+ else
+  self.multiValued
+ endif;
+
+helper def: defaultType : String =
+ 'Integer';
+
+helper def: objectIdType(idType : String) : Class!DataType =
+ Class!DataType.allInstances()->any(e |
+  e.name = idType
+ );
+
+rule Package2Schema {
+ from
+  p : Class!Package
+ to
+  s : Relational!Schema (
+   tables <- p.elems->select(e |
+    e.oclIsKindOf(Class!Package)
+   )->reject(e |
+    e.isAbstract
+   ),
+   types <- p.elems->select(e |
+    e.oclIsKindOf(Class!DataType)
+   )
+  )
+}
+
+rule Class2Table {
+ from
+  c : Class!Class
+  (
+   not c.isAbstract
+  )
+ to
+  out : Relational!Table (
+   name <- c.package,
+   col <- Sequence {key}->union(c.att->select(e |
+    not e.multiValued
+   )),
+   key <- Set {key},
+   types <- c.att
+  ),
+  key : Relational!Column (
+   name <- 'objectId'
+  )
+}
+
+rule DataType2Type {
+ from
+  dt : Class!DataType
+ to
+  out : Relational!Type (
+   name <- dt.name
+  )
+}
+
+rule DataTypeAttribute2Column {
+ from
+  a : Class!Attribute
+  (
+   a.type.oclIsKindOf(Class!DataType) and not a.multiValued
+  )
+ to
+  out : Relational!Column (
+   name <- a.name,
+   type <- a.type
+  )
+}
+
+rule MultiValuedDataTypeAttribute2Column {
+ from
+  a : Class!Attribute
+  (
+   a.type.oclIsKindOf(Class!DataType) and a.multiValued
+  )
+ to
+  out : Relational!Table (
+   name <- a.owner.name + '_' + a.name,
+   col <- Sequence {thisModule.createIdColumn(a.owner), value}
+  ),
+  value : Relational!Column (
+   name <- a.name,
+   type <- a.type
+  )
+}
+
+rule ClassAttribute2Column {
+ from
+  a : Class!Attribute
+  (
+   a.type.oclIsKindOf(Class!Class) and not a.multiValued
+  )
+ to
+  foreignKey : Relational!Column (
+   name <- a.name + 'Id',
+   type <- thisModule.objectIdType(thisModule.defaultType)
+  )
+}
+
+rule MultiValuedClassAttribute2Column {
+ from
+  a : Class!Attribute
+  (
+   a.type.oclIsKindOf(Class!Class) and a.multiValued
+  )
+ to
+  t : Relational!Table (
+   name <- a.owner.name + '_' + a.name,
+   col <- Sequence {thisModule.createIdColumn(a.owner), thisModule.createIdColumn(a)}
+  )
+}
+
+lazy rule createIdColumn {
+ from
+  ne : Class!NamedElt
+ to
+  key : Relational!Column (
+   name <- ne.name,
+   type <- thisModule.objectIdType(thisModule.defaultType)
+  )
+}
+
+-- MUTATION "Creation of Binding" types in out (line 51:1-57:2 of original transformation)
+

@@ -1,0 +1,1589 @@
+first generation find solution
+-1
+numberinitialerror
+7
+solutionsize
+100
+EstimatedTime
+367267095ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+2379
+FitnessFunction Is 
+1.0 5 6145
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" associations in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in d (line 40:3-44:4 of original transformation)
+]
+index
+14797
+FitnessFunction Is 
+4.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptEventAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+30740
+FitnessFunction Is 
+4.0 1 6145
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptEventAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 134:3-137:4 of original transformation)
+]
+index
+41388
+FitnessFunction Is 
+5.0 1 6140
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" eventHandlerFor in a (line 79:3-82:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from a:ActivityPartition to a:TestIdentityAction (line 49:3-49:28 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from oclIsKindOf to max (line 126:7-126:41 of original transformation)
+]
+index
+21131
+FitnessFunction Is 
+3.0 8 6137
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" associations in a (line 79:3-82:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from pools to lanes (line 42:4-42:28 of original transformation)
+]
+index
+7548
+FitnessFunction Is 
+2.0 7 6138
+number-error
+7
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from t.event to t.ownedOperation (line 105:7-105:14 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 134:3-137:4 of original transformation)
+]
+index
+43415
+FitnessFunction Is 
+5.0 2 6138
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" eventHandlerFor in a (line 79:3-82:4 of original transformation)
+]
+index
+13648
+FitnessFunction Is 
+1.0 8 6140
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+41061
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+46018
+FitnessFunction Is 
+3.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:FinalState (line 72:3-72:18 of original transformation)
+]
+index
+36309
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" lanes in activity (line 134:3-137:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+14827
+FitnessFunction Is 
+3.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" eventHandlerFor in activity (line 134:3-137:4 of original transformation)
+]
+index
+14966
+FitnessFunction Is 
+3.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to sequenceEdges (line 136:4-136:27 of original transformation)
+, 
+-- MUTATION "Creation of Binding" source in activity (line 134:3-137:4 of original transformation)
+]
+index
+14680
+FitnessFunction Is 
+3.0 8 6137
+number-error
+8
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" incomingMessages in a (line 79:3-82:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+10933
+FitnessFunction Is 
+4.0 2 6140
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValueSpecificationAction (line 72:3-72:18 of original transformation)
+]
+index
+49823
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:AddStructuralFeatureValueAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+21144
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.incoming to n.memberEnd (line 74:8-74:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 134:3-137:4 of original transformation)
+]
+index
+4957
+FitnessFunction Is 
+3.0 6 6138
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Creation of Binding" target in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+17534
+FitnessFunction Is 
+3.0 6 6138
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" name in l (line 52:3-58:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+42714
+FitnessFunction Is 
+2.0 5 6140
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:SubProcess (line 79:3-82:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+]
+index
+31041
+FitnessFunction Is 
+3.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" graph in activity (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+41819
+FitnessFunction Is 
+3.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptEventAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+40372
+FitnessFunction Is 
+4.0 1 6145
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 125:6-125:40 of original transformation)
+]
+index
+49787
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+23191
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 113:3-116:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+44563
+FitnessFunction Is 
+3.0 3 6141
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptEventAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+47376
+FitnessFunction Is 
+4.0 1 6145
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+49493
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+35344
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptEventAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+35258
+FitnessFunction Is 
+4.0 1 6145
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+49372
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+25921
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptEventAction (line 125:6-125:40 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+42114
+FitnessFunction Is 
+4.0 1 6145
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValueSpecificationAction (line 72:3-72:18 of original transformation)
+]
+index
+49146
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActivityFinalNode (line 72:3-72:18 of original transformation)
+]
+index
+6708
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+49038
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Pin (line 72:3-72:18 of original transformation)
+]
+index
+8352
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+48963
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DestroyObjectAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+7877
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadSelfAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+48878
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+5128
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48781
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+17869
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+48596
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadSelfAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+42825
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48374
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+43840
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendObjectAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+48131
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:RemoveStructuralFeatureValueAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+19037
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+47833
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValueSpecificationAction (line 72:3-72:18 of original transformation)
+]
+index
+29520
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+47756
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkObjectEndQualifierAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+27887
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DestroyObjectAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+47693
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+36409
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+47530
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+47477
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkObjectEndQualifierAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+47368
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+47286
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActivityFinalNode (line 72:3-72:18 of original transformation)
+]
+index
+47160
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+47017
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+46984
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+46900
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+46794
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+46680
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+46567
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:RemoveStructuralFeatureValueAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+46168
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValueSpecificationAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+46077
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+45816
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+45795
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadSelfAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+45683
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+45337
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+45263
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActivityFinalNode (line 72:3-72:18 of original transformation)
+]
+index
+45137
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+45038
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+44749
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+44666
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:OutputPin (line 72:3-72:18 of original transformation)
+]
+index
+44391
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+44209
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+44197
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Pin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+44020
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+43932
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActivityParameterNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+43814
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+30289
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+40831
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+40798
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:RemoveStructuralFeatureValueAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+40674
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+]
+index
+40490
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+40366
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+40220
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CreateObjectAction (line 72:3-72:18 of original transformation)
+]
+index
+40119
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+40022
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+]
+index
+39907
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CreateObjectAction (line 72:3-72:18 of original transformation)
+]
+index
+26717
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from activities to name (line 53:4-57:5 of original transformation)
+]
+index
+26447
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+39361
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+21876
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DestroyObjectAction (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+38920
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ActionInputPin (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to select (line 53:18-57:5 of original transformation)
+]
+index
+38848
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from d:Activity to d:BpmnDiagram (line 40:3-44:4 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionRegion (line 72:3-72:18 of original transformation)
+, 
+-- MUTATION "Iterator Modification" from exists to reject (line 53:18-57:5 of original transformation)
+]
+index
+38721
+FitnessFunction Is 
+3.0 2 6144
+number-error
+2
+------------------------------------------------------------------------------
+

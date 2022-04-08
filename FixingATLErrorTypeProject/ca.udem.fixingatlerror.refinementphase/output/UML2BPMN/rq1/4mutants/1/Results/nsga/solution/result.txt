@@ -1,0 +1,1545 @@
+first generation find solution
+-1
+numberinitialerror
+5
+solutionsize
+100
+EstimatedTime
+365744671ms
+numberIteration
+50000
+------------------------------------------------------------------------------
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Stereotype (line 101:1-101:20 of original transformation)
+]
+index
+44
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Deployment (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" associations in activity (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to min (line 125:4-125:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralOrdering (line 63:1-63:16 of original transformation)
+]
+index
+7057
+FitnessFunction Is 
+4.0 4 6134
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ObjectFlow (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Port (line 101:1-101:20 of original transformation)
+]
+index
+32743
+FitnessFunction Is 
+4.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" associations in activity (line 135:1-138:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:Comment to oclIsKindOf:ClassifierTemplateParameter (line 104:4-104:46 of original transformation)
+]
+index
+2460
+FitnessFunction Is 
+2.0 6 6135
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Continuation (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:DataObject (line 65:1-67:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralOrdering (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+36881
+FitnessFunction Is 
+6.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+]
+index
+41037
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Stereotype (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" groups in activity (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to indexOf (line 125:4-125:42 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralOrdering (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from indexOf to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+10023
+FitnessFunction Is 
+5.0 2 6136
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Operation Call Modification" from oclIsKindOf to log (line 106:1-106:35 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 135:1-138:2 of original transformation)
+]
+index
+11361
+FitnessFunction Is 
+2.0 6 6135
+number-error
+6
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Reception (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ObjectFlow (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+15021
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralizationSet (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+38401
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:DataObject (line 65:1-67:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralOrdering (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+18502
+FitnessFunction Is 
+6.0 1 6138
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Binding-target Modification" from name to bpmnDiagram (line 116:1-116:24 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Stereotype (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" groups in activity (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclIsKindOf:TimeEvent to oclIsKindOf:State (line 127:1-127:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralOrdering (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+9088
+FitnessFunction Is 
+6.0 3 6135
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 135:1-138:2 of original transformation)
+]
+index
+1289
+FitnessFunction Is 
+1.0 5 6136
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Stereotype (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Extend (line 63:1-63:16 of original transformation)
+]
+index
+932
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Gate (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Substitution (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+29909
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadExtentAction (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+49878
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TimeEvent (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 135:1-138:2 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to title (line 137:1-137:24 of original transformation)
+]
+index
+7470
+FitnessFunction Is 
+3.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "Creation of Binding" graph in activity (line 114:1-117:2 of original transformation)
+]
+index
+45076
+FitnessFunction Is 
+4.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 135:1-138:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ProtocolConformance (line 63:1-63:16 of original transformation)
+]
+index
+42036
+FitnessFunction Is 
+4.0 3 6137
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:MessageOccurrenceSpecification (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+47549
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in activity (line 135:1-138:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 63:1-63:16 of original transformation)
+]
+index
+29578
+FitnessFunction Is 
+4.0 2 6139
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InterfaceRealization (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ObjectFlow (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" sequenceEdges in activity (line 114:1-117:2 of original transformation)
+]
+index
+46085
+FitnessFunction Is 
+3.0 4 6138
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Dependency (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in a (line 65:1-67:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+43357
+FitnessFunction Is 
+3.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Interaction (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+40284
+FitnessFunction Is 
+3.0 3 6140
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Substitution (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" documentation in activity (line 135:1-138:2 of original transformation)
+]
+index
+27502
+FitnessFunction Is 
+2.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Parameter (line 63:1-63:16 of original transformation)
+]
+index
+49760
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExecutionEvent (line 101:1-101:20 of original transformation)
+]
+index
+27744
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:LiteralInteger (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DataStoreNode (line 63:1-63:16 of original transformation)
+]
+index
+40726
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Signal (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+40316
+FitnessFunction Is 
+4.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Reception (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Binding-target Modification" from name to author (line 137:1-137:24 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in a (line 65:1-67:2 of original transformation)
+]
+index
+12510
+FitnessFunction Is 
+3.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralizationSet (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+47266
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" ncname in a (line 65:1-67:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StartObjectBehaviorAction (line 63:1-63:16 of original transformation)
+]
+index
+3069
+FitnessFunction Is 
+2.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Usage (line 101:1-101:20 of original transformation)
+]
+index
+45254
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ObjectFlow (line 63:1-63:16 of original transformation)
+]
+index
+40657
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InteractionUse (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+]
+index
+49535
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralizationSet (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:OccurrenceSpecification (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+38536
+FitnessFunction Is 
+4.0 1 6143
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InterfaceRealization (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" groups in activity (line 135:1-138:2 of original transformation)
+]
+index
+9290
+FitnessFunction Is 
+3.0 5 6135
+number-error
+5
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DestroyLinkAction (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+36437
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InteractionUse (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Creation of Binding" ncname in activity (line 135:1-138:2 of original transformation)
+]
+index
+1884
+FitnessFunction Is 
+2.0 4 6139
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StartClassifierBehaviorAction (line 63:1-63:16 of original transformation)
+]
+index
+45010
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:LiteralUnlimitedNatural (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InstanceSpecification (line 101:1-101:20 of original transformation)
+]
+index
+29013
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ValuePin (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+]
+index
+49382
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:OpaqueExpression (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.raisedException (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+24299
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:IntervalConstraint (line 63:1-63:16 of original transformation)
+]
+index
+40287
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DestroyObjectAction (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Substitution (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+25278
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DecisionNode (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Stereotype (line 101:1-101:20 of original transformation)
+]
+index
+49261
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+40361
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+]
+index
+40167
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+]
+index
+44728
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Stereotype (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ClearAssociationAction (line 63:1-63:16 of original transformation)
+]
+index
+49194
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:OpaqueExpression (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+36157
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ActionExecutionSpecification (line 101:1-101:20 of original transformation)
+]
+index
+31056
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Stereotype (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Extend (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 126:1-126:35 of original transformation)
+]
+index
+32559
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Deployment (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+]
+index
+48713
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" lanes in activity (line 135:1-138:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:GeneralizationSet (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+48677
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Constraint (line 63:1-63:16 of original transformation)
+]
+index
+48673
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Extension (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InstanceSpecification (line 101:1-101:20 of original transformation)
+]
+index
+32395
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Model (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Extend (line 63:1-63:16 of original transformation)
+]
+index
+48608
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "OutPattern Element Modification" from activity:Activity to activity:SubProcess (line 114:1-117:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+37389
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ProtocolTransition (line 101:1-101:20 of original transformation)
+]
+index
+39175
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ObjectFlow (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Port (line 101:1-101:20 of original transformation)
+]
+index
+27253
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Class (line 101:1-101:20 of original transformation)
+]
+index
+48504
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Creation of Binding" documentation in a (line 65:1-67:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.incoming to n.supplier (line 103:1-103:11 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+45920
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Expression (line 101:1-101:20 of original transformation)
+]
+index
+48483
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkObjectEndAction (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Port (line 101:1-101:20 of original transformation)
+]
+index
+35612
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Continuation (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+43336
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InstanceSpecification (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "OutPattern Element Modification" from a:Activity to a:MessageVertex (line 65:1-67:2 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "Operation Call Modification" from max to oclIsKindOf (line 125:4-125:42 of original transformation)
+]
+index
+45675
+FitnessFunction Is 
+5.0 1 6141
+number-error
+1
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ExpansionNode (line 63:1-63:16 of original transformation)
+]
+index
+48078
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Reception (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:CentralBufferNode (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+35662
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Dependency (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 63:1-63:16 of original transformation)
+]
+index
+43253
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Interaction (line 63:1-63:16 of original transformation)
+]
+index
+42874
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InstanceSpecification (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+39029
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Profile (line 101:1-101:20 of original transformation)
+]
+index
+47746
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:SendOperationEvent (line 101:1-101:20 of original transformation)
+]
+index
+34873
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+]
+index
+42877
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:SendSignalEvent (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+23835
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 101:1-101:20 of original transformation)
+]
+index
+8975
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ComponentRealization (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 126:1-126:35 of original transformation)
+]
+index
+38753
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:DurationObservation (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+]
+index
+42687
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ParameterSet (line 101:1-101:20 of original transformation)
+]
+index
+38510
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InteractionConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:MessageOccurrenceSpecification (line 63:1-63:16 of original transformation)
+]
+index
+42409
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Substitution (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+47030
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:InformationFlow (line 63:1-63:16 of original transformation)
+]
+index
+46834
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Reception (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:AcceptCallAction (line 126:1-126:35 of original transformation)
+]
+index
+24911
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Usage (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Constraint (line 63:1-63:16 of original transformation)
+]
+index
+46823
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ReadLinkAction (line 63:1-63:16 of original transformation)
+]
+index
+21469
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StructuredActivityNode (line 63:1-63:16 of original transformation)
+]
+index
+19027
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Expression (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:StateMachine (line 63:1-63:16 of original transformation)
+]
+index
+46677
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Stereotype (line 63:1-63:16 of original transformation)
+]
+index
+38242
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:InterfaceRealization (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:ObjectFlow (line 63:1-63:16 of original transformation)
+]
+index
+41940
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Substitution (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+]
+index
+46283
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:Parameter (line 63:1-63:16 of original transformation)
+]
+index
+37791
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Expression (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:RaiseExceptionAction (line 63:1-63:16 of original transformation)
+]
+index
+46086
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:IntervalConstraint (line 63:1-63:16 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Signal (line 101:1-101:20 of original transformation)
+]
+index
+33841
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:Comment to n:TestIdentityAction (line 63:1-63:16 of original transformation)
+]
+index
+20876
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:ExtensionEnd (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+]
+index
+37718
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:OpaqueExpression (line 63:1-63:16 of original transformation)
+]
+index
+24039
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "Navigation Modification" from n.toIntalioName to n.body (line 66:9-66:24 of original transformation)
+]
+index
+13596
+FitnessFunction Is 
+1.0 4 6145
+number-error
+4
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:DurationConstraint (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:Transition (line 126:1-126:35 of original transformation)
+, 
+-- MUTATION "InPattern Element Modification" from n:Comment to n:RemoveStructuralFeatureValueAction (line 63:1-63:16 of original transformation)
+]
+index
+29736
+FitnessFunction Is 
+3.0 2 6143
+number-error
+2
+------------------------------------------------------------------------------
+
+next result
+[
+-- MUTATION "InPattern Element Modification" from n:InitialNode to n:Dependency (line 101:1-101:20 of original transformation)
+, 
+-- MUTATION "Argument Type Modification" from oclAsType:Comment to oclAsType:ProtocolTransition (line 126:1-126:35 of original transformation)
+]
+index
+41184
+FitnessFunction Is 
+2.0 3 6144
+number-error
+3
+------------------------------------------------------------------------------
+
